@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092D094D_radeva" format="1">
+  <advance width="1113"/>
+  <outline>
+    <component base="bhadeva"/>
+    <component base="viramadeva" xOffset="220"/>
+    <component base="radeva" xOffset="682"/>
+    <contour>
+      <point x="557" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="557" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

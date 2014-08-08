@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0915094D_ssadeva" format="1">
+  <advance width="837"/>
+  <outline>
+    <component base="uni0915094D0937094D"/>
+    <component base="uni093E" xOffset="492"/>
+    <contour>
+      <point x="661" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="264" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

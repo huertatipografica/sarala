@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chadeva" format="1">
+  <advance width="749"/>
+  <unicode hex="091B"/>
+  <outline>
+    <contour>
+      <point x="472" y="611" type="line"/>
+      <point x="472" y="493" type="line"/>
+      <point x="607" y="493" type="line"/>
+      <point x="607" y="611" type="line"/>
+    </contour>
+    <component base="uni091B094D" xOffset="2"/>
+    <contour>
+      <point x="375" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="375" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

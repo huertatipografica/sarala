@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0979" format="1">
+  <advance width="779"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="jadeva"/>
+    <component base="anusvaradeva" xOffset="225" yOffset="-867"/>
+    <component base="anusvaradeva" xOffset="154" yOffset="-753"/>
+    <component base="anusvaradeva" xOffset="294" yOffset="-753"/>
+  </outline>
+</glyph>

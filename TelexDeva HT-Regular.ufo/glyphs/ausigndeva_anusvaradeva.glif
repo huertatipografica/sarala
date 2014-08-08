@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ausigndeva_anusvaradeva" format="1">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="180" y="832" type="line"/>
+      <point x="180" y="925" type="line"/>
+      <point x="280" y="925" type="line"/>
+      <point x="280" y="832" type="line"/>
+    </contour>
+    <contour>
+      <point x="-13" y="606" type="line"/>
+      <point x="-13" y="666" type="line"/>
+      <point x="87" y="666" type="line"/>
+      <point x="-186" y="806" type="line"/>
+      <point x="-153" y="866" type="line"/>
+      <point x="146" y="666" type="line"/>
+      <point x="0" y="959" type="line"/>
+      <point x="67" y="999" type="line"/>
+      <point x="184" y="666" type="line"/>
+      <point x="280" y="666" type="line"/>
+      <point x="280" y="606" type="line"/>
+      <point x="166" y="606" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="606" type="line"/>
+    </contour>
+  </outline>
+</glyph>

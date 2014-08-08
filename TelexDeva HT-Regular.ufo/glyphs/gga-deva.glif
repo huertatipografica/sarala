@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097B" format="1">
+  <advance width="591"/>
+  <unicode hex="097B"/>
+  <outline>
+    <contour>
+      <point x="63" y="-75" type="line"/>
+      <point x="470" y="-75" type="line"/>
+      <point x="470" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+    </contour>
+    <component base="gadeva" xOffset="-5"/>
+  </outline>
+</glyph>

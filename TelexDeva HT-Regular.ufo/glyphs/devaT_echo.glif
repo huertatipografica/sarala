@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="devaTecho" format="1">
+  <advance width="319"/>
+  <outline>
+    <contour>
+      <point x="-10" y="658" type="line"/>
+      <point x="-10" y="583" type="line"/>
+      <point x="329" y="583" type="line"/>
+      <point x="329" y="658" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="658" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

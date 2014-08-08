@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D_madeva" format="1">
+  <advance width="769"/>
+  <outline>
+    <contour>
+      <point x="-5" y="575" type="line"/>
+      <point x="774" y="575" type="line"/>
+      <point x="774" y="685" type="line"/>
+      <point x="-5" y="685" type="line"/>
+    </contour>
+    <component base="dd_compo" xOffset="27"/>
+    <component base="nuktadeva" xOffset="541" yOffset="558"/>
+    <component base="ma_compo" xOffset="39" yOffset="-432"/>
+    <contour>
+      <point x="289" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="289" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

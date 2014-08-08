@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928094D_nadeva" format="1">
+  <advance width="1302"/>
+  <outline>
+    <component base="nadeva"/>
+    <component base="viramadeva" xOffset="205"/>
+    <component base="nadeva" xOffset="651"/>
+    <contour>
+      <point x="651" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="651" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecandradeva" format="1">
+  <advance width="588"/>
+  <unicode hex="090D"/>
+  <outline>
+    <component base="edeva"/>
+    <component base="ecandravowelsigndeva" xOffset="247"/>
+    <contour>
+      <point x="413" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="270" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

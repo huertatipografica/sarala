@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halant-deva_ra-deva_alt" format="1">
+  <advance width="283"/>
+  <outline>
+    <contour>
+      <point x="98" y="-256" type="line"/>
+      <point x="263" y="-52" type="line"/>
+      <point x="172" y="-52" type="line"/>
+      <point x="20" y="-246" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

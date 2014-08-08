@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldotbelowmacron" format="1">
+  <advance width="298"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <contour>
+      <point x="315" y="899" type="line"/>
+      <point x="-15" y="899" type="line"/>
+      <point x="-15" y="806" type="line"/>
+      <point x="315" y="806" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="752" type="line"/>
+      <point x="74" y="752" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="-72" type="line"/>
+      <point x="93" y="-72" type="line"/>
+      <point x="93" y="-179" type="line"/>
+      <point x="208" y="-179" type="line"/>
+    </contour>
+  </outline>
+</glyph>

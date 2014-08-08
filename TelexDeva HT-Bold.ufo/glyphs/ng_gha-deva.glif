@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0919094D_ghadeva" format="1">
+  <advance width="791"/>
+  <outline>
+    <contour>
+      <point x="-5" y="575" type="line"/>
+      <point x="796" y="575" type="line"/>
+      <point x="796" y="685" type="line"/>
+      <point x="-5" y="685" type="line"/>
+    </contour>
+    <component base="gha_compo" xOffset="30" yOffset="-392"/>
+    <component base="dd_compo" xOffset="38"/>
+    <component base="nuktadeva" xOffset="552" yOffset="558"/>
+    <contour>
+      <point x="299" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="299" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

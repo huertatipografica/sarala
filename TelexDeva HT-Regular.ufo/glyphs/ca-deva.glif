@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cadeva" format="1">
+  <advance width="654"/>
+  <unicode hex="091A"/>
+  <outline>
+    <component base="uni091A094D"/>
+    <component base="uni093E" xOffset="349"/>
+    <contour>
+      <point x="327" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="327" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

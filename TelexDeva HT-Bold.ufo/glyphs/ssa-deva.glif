@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ssadeva" format="1">
+  <advance width="615"/>
+  <unicode hex="0937"/>
+  <outline>
+    <component base="uni0937094D"/>
+    <component base="uni093E" xOffset="270"/>
+    <contour>
+      <point x="308" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="308" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotbelow" format="1">
+  <advance width="739"/>
+  <unicode hex="1E46"/>
+  <outline>
+    <contour>
+      <point x="643" y="707" type="line"/>
+      <point x="561" y="707" type="line"/>
+      <point x="561" y="138" type="line"/>
+      <point x="521" y="202"/>
+      <point x="482" y="265"/>
+      <point x="439" y="326" type="curve" smooth="yes"/>
+      <point x="169" y="707" type="line"/>
+      <point x="95" y="707" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+      <point x="178" y="570" type="line"/>
+      <point x="215" y="510"/>
+      <point x="251" y="450"/>
+      <point x="292" y="393" type="curve" smooth="yes"/>
+      <point x="570" y="0" type="line"/>
+      <point x="643" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="-84" type="line"/>
+      <point x="333" y="-163" type="line"/>
+      <point x="417" y="-163" type="line"/>
+      <point x="417" y="-84" type="line"/>
+    </contour>
+  </outline>
+</glyph>

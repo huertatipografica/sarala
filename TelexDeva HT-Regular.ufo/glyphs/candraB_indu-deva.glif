@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candrabindudeva" format="1">
+  <advance width="422"/>
+  <unicode hex="0901"/>
+  <outline>
+    <component base="ecandravowelsigndeva"/>
+    <component base="nuktadeva" xOffset="143" yOffset="1025"/>
+    <contour>
+      <point x="211" y="658" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

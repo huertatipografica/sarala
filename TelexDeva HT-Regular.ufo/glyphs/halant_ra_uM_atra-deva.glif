@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="viramadeva_radeva_uvowelsigndev" format="1">
+  <advance width="983"/>
+  <outline>
+    <component base="viramadeva_radeva" xOffset="484"/>
+    <component base="uvowelsigndeva" xOffset="484" yOffset="-254"/>
+    <contour>
+      <point x="734" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

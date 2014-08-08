@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092A094D_radeva" format="1">
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="441" y="257" type="line"/>
+      <point x="403" y="319" type="line"/>
+      <point x="116" y="20" type="line"/>
+      <point x="174" y="-30" type="line"/>
+    </contour>
+    <component base="padeva"/>
+    <contour>
+      <point x="283" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="283" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

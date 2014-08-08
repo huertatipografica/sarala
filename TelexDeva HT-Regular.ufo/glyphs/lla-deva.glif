@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lladeva" format="1">
+  <advance width="823"/>
+  <unicode hex="0933"/>
+  <outline>
+    <contour>
+      <point x="533" y="609" type="line"/>
+      <point x="533" y="450" type="line"/>
+      <point x="618" y="450" type="line"/>
+      <point x="618" y="609" type="line"/>
+    </contour>
+    <component base="uni0933094D"/>
+    <contour>
+      <point x="403" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="412" y="30" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
