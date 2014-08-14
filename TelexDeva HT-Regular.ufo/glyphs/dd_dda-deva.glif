@@ -8,8 +8,8 @@
       <point x="592" y="583" type="line"/>
       <point x="592" y="658" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="1" yOffset="-402"/>
-    <component base="dd_compo" xOffset="1"/>
+    <component base="dd_compo" xOffset="1" yOffset="-404"/>
+    <component base="dd_compo" xOffset="1" yOffset="-6"/>
     <contour>
       <point x="601" y="367" type="move" name="nukta"/>
     </contour>

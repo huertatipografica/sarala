@@ -8,9 +8,9 @@
       <point x="699" y="658" type="line"/>
       <point x="-5" y="658" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="3"/>
+    <component base="dd_compo" xOffset="3" yOffset="-6"/>
     <component base="nuktadeva" xOffset="543" yOffset="540"/>
-    <component base="ma_compo" xOffset="56" yOffset="-408"/>
+    <component base="ma_compo" xOffset="56" yOffset="-410"/>
     <contour>
       <point x="340" y="658" type="move" name="top"/>
     </contour>

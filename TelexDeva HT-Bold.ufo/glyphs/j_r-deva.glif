@@ -37,10 +37,10 @@
       <point x="611" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="576" y="328" type="line"/>
-      <point x="343" y="36" type="line"/>
-      <point x="405" y="-9" type="line"/>
-      <point x="606" y="232" type="line"/>
+      <point x="283" y="-23" type="line"/>
+      <point x="359" y="-114" type="line"/>
+      <point x="611" y="72" type="line"/>
+      <point x="611" y="217" type="line"/>
     </contour>
     <contour>
       <point x="301" y="685" type="move" name="top"/>

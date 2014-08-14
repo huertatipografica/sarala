@@ -10,7 +10,7 @@
     </contour>
     <component base="dd_compo" xOffset="39"/>
     <component base="nuktadeva" xOffset="553" yOffset="558"/>
-    <component base="ka_compo" xOffset="5" yOffset="-423"/>
+    <component base="ka_compo" xOffset="5" yOffset="-410"/>
     <contour>
       <point x="312" y="685" type="move" name="top"/>
     </contour>

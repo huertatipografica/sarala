@@ -262,7 +262,11 @@
 		<string>ygrave</string>
 		<string>z</string>
 		<string>zdotbelow</string>
+		<string>c_compo</string>
+		<string>d_compo</string>
 		<string>g_compo</string>
+		<string>j_compo</string>
+		<string>j_compo_down</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>Delta</string>
@@ -340,22 +344,46 @@
 		<string>c_ca-deva</string>
 		<string>c_ra-deva</string>
 		<string>ch_va-deva</string>
+		<string>j_ja-deva</string>
 		<string>j_nya-deva</string>
 		<string>j_ra-deva</string>
 		<string>jh_ra-deva</string>
+		<string>ny_ca-deva</string>
+		<string>ny_ja-deva</string>
 		<string>ny_ra-deva</string>
 		<string>tt_tta-deva</string>
+		<string>tt_tt_ya-deva</string>
+		<string>tt_ttha-deva</string>
+		<string>tt_ddha-deva</string>
+		<string>tt_na-deva</string>
+		<string>tt_ya-deva</string>
+		<string>tt_va-deva</string>
 		<string>tth_ttha-deva</string>
+		<string>tth_tth_ya-deva</string>
+		<string>tth_na-deva</string>
+		<string>tth_ya-deva</string>
+		<string>dd_gha-deva</string>
+		<string>dd_tta-deva</string>
 		<string>dd_dda-deva</string>
+		<string>dd_dd_ya-deva</string>
+		<string>dd_ddha-deva</string>
+		<string>dd_na-deva</string>
+		<string>dd_ma-deva</string>
+		<string>dd_ya-deva</string>
 		<string>ddh_ddha-deva</string>
+		<string>ddh_ddh_ya-deva</string>
+		<string>ddh_na-deva</string>
+		<string>ddh_ya-deva</string>
 		<string>nn_ra-deva</string>
 		<string>t_ta-deva</string>
 		<string>t_ra-deva</string>
+		<string>t_r_ya-deva</string>
 		<string>th_ra-deva</string>
 		<string>d_ga-deva</string>
 		<string>d_na-deva</string>
 		<string>d_ra-deva</string>
 		<string>d_va-deva</string>
+		<string>d_rVocalicMatra-deva</string>
 		<string>dh_ra-deva</string>
 		<string>n_na-deva</string>
 		<string>n_ra-deva</string>
@@ -367,6 +395,7 @@
 		<string>sh_va-deva</string>
 		<string>ss_ra-deva</string>
 		<string>c_ca-deva.alt</string>
+		<string>t_ra-deva.alt</string>
 		<string>aShort-deva</string>
 		<string>aCandra-deva</string>
 		<string>a-deva</string>
@@ -606,7 +635,7 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
-		<string>na_compo</string>
+		<string>na_compo_down</string>
 		<string>nuktathree-deva</string>
 		<string>da-deva-compo</string>
 		<string>vt_ra-deva</string>
@@ -670,11 +699,14 @@
 		<string>ma_compo</string>
 		<string>dd_compo</string>
 		<string>va_compo</string>
-		<string>ja_compo</string>
 		<string>jh_compo</string>
 		<string>tt_compo</string>
 		<string>tth_compo</string>
 		<string>ddh_compo</string>
+		<string>ny_compo</string>
+		<string>na_compo</string>
+		<string>ya_compo</string>
+		<string>dd_compo.001</string>
 	</array>
 </dict>
 </plist>

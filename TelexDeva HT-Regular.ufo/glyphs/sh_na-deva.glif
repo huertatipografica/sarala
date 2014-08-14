@@ -2,7 +2,7 @@
 <glyph name="uni0936094D_nadeva" format="1">
   <advance width="772"/>
   <outline>
-    <component base="na_compo" xOffset="260"/>
+    <component base="na_compo_down" xOffset="260"/>
     <component base="uni093E" xOffset="487"/>
     <component base="sha_comp"/>
     <contour>

@@ -8,8 +8,8 @@
       <point x="551" y="583" type="line"/>
       <point x="551" y="658" type="line"/>
     </contour>
-    <component base="tt_compo" xOffset="31"/>
-    <component base="tt_compo" xOffset="31" yOffset="-392"/>
+    <component base="tt_compo" xOffset="31" yOffset="3"/>
+    <component base="tt_compo" xOffset="31" yOffset="-402"/>
     <contour>
       <point x="273" y="658" type="move" name="top"/>
     </contour>

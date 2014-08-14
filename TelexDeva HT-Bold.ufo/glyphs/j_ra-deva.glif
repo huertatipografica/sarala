@@ -15,7 +15,7 @@
       <point x="-5" y="685" type="line"/>
     </contour>
     <component base="uni093E" xOffset="516"/>
-    <component base="ja_compo" xOffset="21"/>
+    <component base="j_compo" xOffset="21"/>
     <contour>
       <point x="323" y="0" type="move" name="nukta"/>
     </contour>

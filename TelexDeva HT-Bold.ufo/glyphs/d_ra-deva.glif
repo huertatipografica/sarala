@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D_radeva" format="1">
-  <advance width="1001"/>
+  <advance width="572"/>
   <outline>
-    <component base="dadeva"/>
-    <component base="viramadeva" xOffset="168" yOffset="38"/>
-    <component base="radeva" xOffset="570"/>
     <contour>
-      <point x="501" y="685" type="move" name="top"/>
+      <point x="361" y="216" type="line"/>
+      <point x="74" y="-19" type="line"/>
+      <point x="155" y="-106" type="line"/>
+      <point x="438" y="133" type="line"/>
+    </contour>
+    <component base="dadeva" xOffset="2"/>
+    <contour>
+      <point x="503" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="501" y="0" type="move" name="bottom"/>
+      <point x="503" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

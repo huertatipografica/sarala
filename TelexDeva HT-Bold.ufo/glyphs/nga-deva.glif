@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ngadeva" format="1">
-  <advance width="620"/>
+  <advance width="717"/>
   <unicode hex="0919"/>
   <outline>
+    <contour>
+      <point x="595" y="575" type="line"/>
+      <point x="722" y="575" type="line"/>
+      <point x="722" y="685" type="line"/>
+      <point x="595" y="685" type="line"/>
+    </contour>
     <component base="ddadeva"/>
     <component base="nuktadeva" xOffset="489" yOffset="508"/>
     <contour>

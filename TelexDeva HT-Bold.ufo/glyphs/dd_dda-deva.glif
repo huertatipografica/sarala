@@ -9,7 +9,7 @@
       <point x="633" y="685" type="line"/>
     </contour>
     <component base="dd_compo" xOffset="25" yOffset="2"/>
-    <component base="dd_compo" xOffset="25" yOffset="-425"/>
+    <component base="dd_compo" xOffset="25" yOffset="-415"/>
     <contour>
       <point x="314" y="685" type="move" name="top"/>
     </contour>

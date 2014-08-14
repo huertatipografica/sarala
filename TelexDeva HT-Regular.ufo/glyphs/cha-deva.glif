@@ -4,17 +4,17 @@
   <unicode hex="091B"/>
   <outline>
     <contour>
-      <point x="487" y="606" type="line"/>
-      <point x="487" y="484" type="line"/>
-      <point x="572" y="484" type="line"/>
-      <point x="572" y="606" type="line"/>
+      <point x="495" y="606" type="line"/>
+      <point x="495" y="484" type="line"/>
+      <point x="580" y="484" type="line"/>
+      <point x="580" y="606" type="line"/>
     </contour>
-    <component base="uni091B094D" xOffset="-8"/>
+    <component base="uni091B094D"/>
     <contour>
-      <point x="372" y="658" type="move" name="top"/>
+      <point x="380" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="372" y="0" type="move" name="bottom"/>
+      <point x="380" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -42,7 +42,7 @@
       <point x="469" y="351" type="line"/>
       <point x="143" y="444" type="line" smooth="yes"/>
     </contour>
-    <component base="na_compo" xOffset="58"/>
+    <component base="na_compo_down" xOffset="58"/>
     <contour>
       <point x="467" y="658" type="move" name="top"/>
     </contour>

@@ -9,7 +9,7 @@
       <point x="-12" y="685" type="line"/>
     </contour>
     <component base="uni093E" xOffset="314"/>
-    <component base="na_compo" xOffset="65"/>
+    <component base="na_compo_down" xOffset="65"/>
     <component base="g_compo" xOffset="22"/>
     <contour>
       <point x="331" y="685" type="move" name="top"/>

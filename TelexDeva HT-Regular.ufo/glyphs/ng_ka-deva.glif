@@ -8,7 +8,7 @@
       <point x="722" y="583" type="line"/>
       <point x="722" y="658" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="29"/>
+    <component base="dd_compo" xOffset="29" yOffset="-6"/>
     <component base="nuktadeva" xOffset="569" yOffset="540"/>
     <component base="ka_compo" xOffset="-7" yOffset="-410"/>
     <contour>

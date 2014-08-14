@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni091C094D_jadeva" format="1">
+  <advance width="773"/>
+  <outline>
+    <contour>
+      <point x="-5" y="658" type="line"/>
+      <point x="-5" y="583" type="line"/>
+      <point x="478" y="583" type="line"/>
+      <point x="478" y="658" type="line"/>
+    </contour>
+    <component base="j_compo"/>
+    <component base="uni093E" xOffset="468"/>
+    <component base="j_compo_down" xOffset="83" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
