@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iideva" format="1">
-  <advance width="600"/>
+  <advance width="580"/>
   <unicode hex="0908"/>
   <outline>
+    <component base="ideva"/>
+    <component base="uni0930094D" xOffset="229"/>
     <contour>
       <point x="300" y="685" type="move" name="top"/>
     </contour>

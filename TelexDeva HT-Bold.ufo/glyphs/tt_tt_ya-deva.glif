@@ -11,14 +11,6 @@
     <component base="tt_compo" xOffset="31"/>
     <component base="tt_compo" xOffset="31" yOffset="-409"/>
     <component base="uni093E" xOffset="854"/>
-    <component base="ya_compo" xOffset="445" yOffset="31"/>
+    <component base="ya_compo" xOffset="445" yOffset="25"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
-    </dict>
-  </lib>
 </glyph>

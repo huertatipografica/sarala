@@ -206,6 +206,8 @@
 	<string>aC_andra-deva.glif</string>
 	<key>aShort-deva</key>
 	<string>aS_hort-deva.glif</string>
+	<key>a_compo</key>
+	<string>a_compo.glif</string>
 	<key>aa-deva</key>
 	<string>aa-deva.glif</string>
 	<key>aaMatra-deva</key>
@@ -262,6 +264,8 @@
 	<string>atilde.glif</string>
 	<key>au-deva</key>
 	<string>au-deva.glif</string>
+	<key>au-deva.001</key>
+	<string>au-deva.001.glif</string>
 	<key>auMatra-deva</key>
 	<string>auM_atra-deva.glif</string>
 	<key>ausign_ra_virama.alt1</key>
@@ -364,18 +368,46 @@
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
-	<key>d_compo</key>
-	<string>d_compo.glif</string>
+	<key>d_b_ra-deva</key>
+	<string>d_b_ra-deva.glif</string>
+	<key>d_ba-deva</key>
+	<string>d_ba-deva.glif</string>
+	<key>d_bh_ya-deva</key>
+	<string>d_bh_ya-deva.glif</string>
+	<key>d_bha-deva</key>
+	<string>d_bha-deva.glif</string>
+	<key>d_d_ya-deva</key>
+	<string>d_d_ya-deva.glif</string>
+	<key>d_da-deva</key>
+	<string>d_da-deva.glif</string>
+	<key>d_dh_ya-deva</key>
+	<string>d_dh_ya-deva.glif</string>
+	<key>d_dha-deva</key>
+	<string>d_dha-deva.glif</string>
+	<key>d_g_ra-deva</key>
+	<string>d_g_ra-deva.glif</string>
 	<key>d_ga-deva</key>
 	<string>d_ga-deva.glif</string>
+	<key>d_gha-deva</key>
+	<string>d_gha-deva.glif</string>
+	<key>d_ma-deva</key>
+	<string>d_ma-deva.glif</string>
 	<key>d_na-deva</key>
 	<string>d_na-deva.glif</string>
 	<key>d_rVocalicMatra-deva</key>
 	<string>d_rV_ocalicM_atra-deva.glif</string>
+	<key>d_r_ya-deva</key>
+	<string>d_r_ya-deva.glif</string>
 	<key>d_ra-deva</key>
 	<string>d_ra-deva.glif</string>
+	<key>d_v_ra-deva</key>
+	<string>d_v_ra-deva.glif</string>
+	<key>d_v_ya-deva</key>
+	<string>d_v_ya-deva.glif</string>
 	<key>d_va-deva</key>
 	<string>d_va-deva.glif</string>
+	<key>d_ya-deva</key>
+	<string>d_ya-deva.glif</string>
 	<key>da-deva</key>
 	<string>da-deva.glif</string>
 	<key>da-deva-compo</key>
@@ -490,8 +522,6 @@
 	<string>eight.glif</string>
 	<key>eight-deva</key>
 	<string>eight-deva.glif</string>
-	<key>eight-deva.np</key>
-	<string>eight-deva.np.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
@@ -522,8 +552,6 @@
 	<string>five.glif</string>
 	<key>five-deva</key>
 	<string>five-deva.glif</string>
-	<key>five-deva.np</key>
-	<string>five-deva.np.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>foundryicon</key>

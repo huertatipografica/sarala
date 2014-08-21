@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0904" format="1">
-  <advance width="600"/>
+  <advance width="827"/>
   <unicode hex="0904"/>
   <outline>
+    <component base="adeva"/>
+    <component base="eshortvowelsigndeva" xOffset="282"/>
     <contour>
       <point x="300" y="685" type="move" name="top"/>
     </contour>

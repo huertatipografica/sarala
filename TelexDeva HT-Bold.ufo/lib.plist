@@ -50,11 +50,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>75</integer>
+		<integer>20</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>55</integer>
+		<integer>20</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>B6F1EAFA-F357-4191-A3E2-973575A7B31B</string>
@@ -262,8 +262,8 @@
 		<string>ygrave</string>
 		<string>z</string>
 		<string>zdotbelow</string>
+		<string>a_compo</string>
 		<string>c_compo</string>
-		<string>d_compo</string>
 		<string>g_compo</string>
 		<string>j_compo</string>
 		<string>j_compo_down</string>
@@ -380,9 +380,24 @@
 		<string>t_r_ya-deva</string>
 		<string>th_ra-deva</string>
 		<string>d_ga-deva</string>
+		<string>d_g_ra-deva</string>
+		<string>d_gha-deva</string>
+		<string>d_da-deva</string>
+		<string>d_d_ya-deva</string>
+		<string>d_dha-deva</string>
+		<string>d_dh_ya-deva</string>
 		<string>d_na-deva</string>
+		<string>d_ba-deva</string>
+		<string>d_b_ra-deva</string>
+		<string>d_bha-deva</string>
+		<string>d_bh_ya-deva</string>
+		<string>d_ma-deva</string>
+		<string>d_ya-deva</string>
 		<string>d_ra-deva</string>
+		<string>d_r_ya-deva</string>
 		<string>d_va-deva</string>
+		<string>d_v_ya-deva</string>
+		<string>d_v_ra-deva</string>
 		<string>d_rVocalicMatra-deva</string>
 		<string>dh_ra-deva</string>
 		<string>n_na-deva</string>
@@ -463,6 +478,7 @@
 		<string>prishthaMatraE-deva</string>
 		<string>ooeMatra-deva</string>
 		<string>awMatra-deva</string>
+		<string>au-deva.001</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -483,8 +499,6 @@
 		<string>seven-deva</string>
 		<string>eight-deva</string>
 		<string>nine-deva</string>
-		<string>five-deva.np</string>
-		<string>eight-deva.np</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -635,19 +649,20 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
-		<string>na_compo_down</string>
-		<string>nuktathree-deva</string>
-		<string>da-deva-compo</string>
-		<string>vt_ra-deva</string>
 		<string>aisign_ra_virama_anusvara</string>
 		<string>aisigndeva_anusvaradeva</string>
 		<string>areas</string>
 		<string>ausign_ra_virama_anusvara</string>
 		<string>ausigndeva_anusvaradeva</string>
 		<string>bindu-deva</string>
+		<string>borrar</string>
+		<string>da-deva-compo</string>
+		<string>dd_compo</string>
+		<string>ddh_compo</string>
 		<string>esign_ra_virama_anusvara</string>
 		<string>esigndeva_anusvaradeva</string>
 		<string>foundryicon</string>
+		<string>gha_compo</string>
 		<string>halfspace</string>
 		<string>iisign_ra_virama_anusvara</string>
 		<string>iisigndeva_anusvaradeva</string>
@@ -655,15 +670,30 @@
 		<string>isign_ra_virama</string>
 		<string>isign_ra_virama_anusvara</string>
 		<string>isigndeva_anusvaradeva</string>
+		<string>jh_compo</string>
+		<string>ka_compo</string>
+		<string>kha_compo</string>
+		<string>ma_compo</string>
+		<string>na_compo</string>
+		<string>na_compo_down</string>
 		<string>newGlyph</string>
 		<string>newGlyph</string>
+		<string>nuktathree-deva</string>
+		<string>ny_compo</string>
 		<string>osign_ra_virama_anusvara</string>
 		<string>osigndeva_anusvaradeva</string>
+		<string>ra-linea</string>
 		<string>sarasa</string>
 		<string>sha_comp</string>
 		<string>temp-deva</string>
+		<string>tt_compo</string>
+		<string>tth_compo</string>
+		<string>va_compo</string>
+		<string>vt_ra-deva</string>
+		<string>ya_compo</string>
 		<string>aisign_ra_virama.alt1</string>
 		<string>ausign_ra_virama.alt1</string>
+		<string>dd_compo.001</string>
 		<string>esign_ra_virama.alt1</string>
 		<string>iisign_ra_virama_anusvara.alt1</string>
 		<string>iisigndeva.alt1</string>
@@ -691,22 +721,6 @@
 		<string>osign_ra_virama.alt1</string>
 		<string>devaHeight</string>
 		<string>devaTecho</string>
-		<string>ra-linea</string>
-		<string>borrar</string>
-		<string>gha_compo</string>
-		<string>ka_compo</string>
-		<string>kha_compo</string>
-		<string>ma_compo</string>
-		<string>dd_compo</string>
-		<string>va_compo</string>
-		<string>jh_compo</string>
-		<string>tt_compo</string>
-		<string>tth_compo</string>
-		<string>ddh_compo</string>
-		<string>ny_compo</string>
-		<string>na_compo</string>
-		<string>ya_compo</string>
-		<string>dd_compo.001</string>
 	</array>
 </dict>
 </plist>

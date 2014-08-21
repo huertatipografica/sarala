@@ -1,22 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D_rvocalicvowelsignde" format="1">
-  <advance width="573"/>
+  <advance width="596"/>
   <outline>
     <contour>
       <point x="-5" y="685" type="line"/>
       <point x="-5" y="575" type="line"/>
-      <point x="578" y="575" type="line"/>
-      <point x="578" y="685" type="line"/>
+      <point x="601" y="575" type="line"/>
+      <point x="601" y="685" type="line"/>
     </contour>
-    <component base="rvocalicvowelsigndeva" xOffset="249" yOffset="25"/>
-    <component base="d_compo" xOffset="-2"/>
+    <contour>
+      <point x="549" y="53" type="line"/>
+      <point x="502" y="95"/>
+      <point x="477" y="130"/>
+      <point x="456" y="194" type="curve"/>
+      <point x="345" y="154" type="line"/>
+      <point x="390" y="70"/>
+      <point x="417" y="28"/>
+      <point x="463" y="-22" type="curve"/>
+    </contour>
+    <component base="rvocalicvowelsigndeva" xOffset="318" yOffset="25"/>
+    <component base="da-deva-compo" xOffset="18"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
+      <integer>5</integer>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

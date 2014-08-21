@@ -9,37 +9,16 @@
       <point x="-5" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="396" y="-232" type="line"/>
-      <point x="504" y="-232" type="line"/>
-      <point x="504" y="202" type="line"/>
-      <point x="396" y="202" type="line"/>
-    </contour>
-    <contour>
-      <point x="153" y="41" type="line"/>
-      <point x="99" y="41"/>
-      <point x="73" y="26"/>
-      <point x="73" y="-24" type="curve" smooth="yes"/>
-      <point x="73" y="-85"/>
-      <point x="153" y="-163"/>
-      <point x="203" y="-163" type="curve" smooth="yes"/>
-      <point x="248" y="-163"/>
-      <point x="256" y="-134"/>
-      <point x="256" y="-88" type="curve" smooth="yes"/>
-      <point x="256" y="202" type="line"/>
-      <point x="153" y="202" type="line"/>
+      <point x="417" y="-232" type="line"/>
+      <point x="522" y="-232" type="line"/>
+      <point x="522" y="202" type="line"/>
+      <point x="417" y="202" type="line"/>
     </contour>
     <component base="dd_compo" xOffset="28"/>
     <component base="nuktadeva" xOffset="542" yOffset="558"/>
+    <component base="g_compo" xOffset="36" yOffset="-404"/>
     <contour>
       <point x="-585" y="685" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aadeva" format="1">
-  <advance width="600"/>
+  <advance width="1110"/>
   <unicode hex="0906"/>
   <outline>
+    <component base="adeva" xOffset="-1"/>
+    <component base="uni093E" xOffset="776"/>
     <contour>
-      <point x="300" y="685" type="move" name="top"/>
+      <point x="299" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="299" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
