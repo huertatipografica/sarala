@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ghadeva" format="1">
-  <advance width="651"/>
+  <advance width="653"/>
   <unicode hex="0918"/>
   <outline>
     <component base="uni0918094D"/>
-    <component base="uni093E" xOffset="346"/>
+    <component base="uni093E" xOffset="348"/>
     <contour>
-      <point x="327" y="658" type="move" name="top"/>
+      <point x="503" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="327" y="0" type="move" name="bottom"/>
