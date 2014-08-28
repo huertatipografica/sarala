@@ -11,5 +11,11 @@
     <component base="tthadeva"/>
     <component base="ya_compo" xOffset="508"/>
     <component base="uni093E" xOffset="854"/>
+    <contour>
+      <point x="1006" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1006" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

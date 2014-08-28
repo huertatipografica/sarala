@@ -5,10 +5,18 @@
     <component base="uni0915094D0937094D"/>
     <component base="uni093E" xOffset="492"/>
     <contour>
-      <point x="661" y="685" type="move" name="top"/>
+      <point x="665" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="264" y="0" type="move" name="bottom"/>
+      <point x="665" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

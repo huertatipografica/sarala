@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0919094D_kadeva" format="1">
-  <advance width="782"/>
+  <advance width="786"/>
   <outline>
     <contour>
-      <point x="-5" y="575" type="line"/>
-      <point x="787" y="575" type="line"/>
-      <point x="787" y="685" type="line"/>
-      <point x="-5" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="806" y="575" type="line"/>
+      <point x="806" y="685" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="39"/>
-    <component base="nuktadeva" xOffset="553" yOffset="558"/>
-    <component base="ka_compo" xOffset="5" yOffset="-410"/>
+    <component base="dd_compo" xOffset="42"/>
+    <component base="nuktadeva" xOffset="556" yOffset="558"/>
+    <component base="ka_compo" xOffset="8" yOffset="-410"/>
     <contour>
-      <point x="312" y="685" type="move" name="top"/>
+      <point x="485" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="312" y="0" type="move" name="bottom"/>
+      <point x="360" y="-232" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

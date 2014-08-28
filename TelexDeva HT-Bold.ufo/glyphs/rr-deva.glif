@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0931094D" format="1">
-  <advance width="431"/>
+  <advance width="337"/>
   <outline>
-    <component base="radeva"/>
-    <component base="nuktadeva" xOffset="81"/>
     <contour>
-      <point x="216" y="685" type="move" name="top"/>
+      <point x="17" y="313" type="line"/>
+      <point x="73" y="227"/>
+      <point x="162" y="183"/>
+      <point x="252" y="183" type="curve" smooth="yes"/>
+      <point x="317" y="183"/>
+      <point x="393" y="212"/>
+      <point x="448" y="258" type="curve"/>
+      <point x="412" y="370" type="line"/>
+      <point x="342" y="301"/>
+      <point x="293" y="294"/>
+      <point x="247" y="294" type="curve" smooth="yes"/>
+      <point x="200" y="294"/>
+      <point x="157" y="322"/>
+      <point x="99" y="383" type="curve"/>
     </contour>
     <contour>
-      <point x="216" y="0" type="move" name="bottom"/>
+      <point x="-24" y="684" type="line"/>
+      <point x="-24" y="574" type="line"/>
+      <point x="360" y="574" type="line"/>
+      <point x="360" y="684" type="line"/>
     </contour>
   </outline>
 </glyph>

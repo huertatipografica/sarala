@@ -1,69 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D_dhadeva" format="1">
-  <advance width="679"/>
+  <advance width="672"/>
   <outline>
     <contour>
       <point x="-5" y="583" type="line"/>
-      <point x="684" y="583" type="line"/>
-      <point x="684" y="658" type="line"/>
+      <point x="677" y="583" type="line"/>
+      <point x="677" y="658" type="line"/>
       <point x="-5" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="467" y="119"/>
-      <point x="521" y="53"/>
-      <point x="597" y="-5" type="curve"/>
-      <point x="652" y="52" type="line"/>
-      <point x="574" y="113"/>
-      <point x="535" y="152"/>
-      <point x="504" y="250" type="curve"/>
-      <point x="436" y="208" type="line"/>
+      <point x="47" y="261"/>
+      <point x="41" y="228"/>
+      <point x="41" y="205" type="curve" smooth="yes"/>
+      <point x="41" y="134"/>
+      <point x="106" y="95"/>
+      <point x="179" y="90" type="curve"/>
+      <point x="193" y="153" type="line"/>
+      <point x="158" y="158"/>
+      <point x="125" y="174"/>
+      <point x="125" y="211" type="curve" smooth="yes"/>
+      <point x="125" y="228"/>
+      <point x="131" y="248"/>
+      <point x="135" y="262" type="curve"/>
+      <point x="65" y="298" type="line"/>
     </contour>
     <contour>
-      <point x="139" y="144"/>
-      <point x="119" y="92"/>
-      <point x="119" y="52" type="curve" smooth="yes"/>
-      <point x="119" y="-28"/>
-      <point x="191" y="-63"/>
-      <point x="271" y="-63" type="curve" smooth="yes"/>
-      <point x="406" y="-63"/>
-      <point x="473" y="6"/>
-      <point x="525" y="80" type="curve"/>
-      <point x="475" y="150" type="line"/>
-      <point x="428" y="46"/>
-      <point x="351" y="11"/>
-      <point x="278" y="11" type="curve" smooth="yes"/>
-      <point x="242" y="11"/>
-      <point x="203" y="19"/>
-      <point x="203" y="55" type="curve" smooth="yes"/>
-      <point x="203" y="74"/>
-      <point x="212" y="95"/>
-      <point x="254" y="110" type="curve"/>
-      <point x="221" y="173" type="line"/>
+      <point x="219" y="193"/>
+      <point x="166" y="148"/>
+      <point x="166" y="75" type="curve" smooth="yes"/>
+      <point x="166" y="9"/>
+      <point x="208" y="-65"/>
+      <point x="319" y="-65" type="curve" smooth="yes"/>
+      <point x="417" y="-65"/>
+      <point x="502" y="-13"/>
+      <point x="559" y="103" type="curve"/>
+      <point x="486" y="147" type="line"/>
+      <point x="463" y="56"/>
+      <point x="395" y="5"/>
+      <point x="324" y="5" type="curve" smooth="yes"/>
+      <point x="273" y="5"/>
+      <point x="250" y="37"/>
+      <point x="250" y="75" type="curve" smooth="yes"/>
+      <point x="250" y="123"/>
+      <point x="291" y="159"/>
+      <point x="395" y="159" type="curve"/>
+      <point x="298" y="208" type="line"/>
     </contour>
     <contour>
-      <point x="112" y="300" type="line"/>
-      <point x="72" y="278"/>
-      <point x="41" y="242"/>
-      <point x="41" y="192" type="curve" smooth="yes"/>
-      <point x="41" y="120"/>
-      <point x="106" y="87"/>
-      <point x="179" y="82" type="curve"/>
-      <point x="193" y="145" type="line"/>
-      <point x="158" y="150"/>
-      <point x="125" y="161"/>
-      <point x="125" y="198" type="curve" smooth="yes"/>
-      <point x="125" y="216"/>
-      <point x="139" y="229"/>
-      <point x="157" y="239" type="curve"/>
+      <point x="460" y="119"/>
+      <point x="514" y="53"/>
+      <point x="590" y="-5" type="curve"/>
+      <point x="645" y="52" type="line"/>
+      <point x="567" y="113"/>
+      <point x="528" y="152"/>
+      <point x="497" y="250" type="curve"/>
+      <point x="429" y="208" type="line"/>
     </contour>
-    <component base="da-deva-compo" xOffset="123"/>
+    <component base="da-deva-compo" xOffset="116"/>
+    <contour>
+      <point x="490" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="333" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
+      <integer>0</integer>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

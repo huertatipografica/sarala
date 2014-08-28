@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocandravowelsigndeva" format="1">
-  <advance width="305"/>
+  <advance width="306"/>
   <unicode hex="0949"/>
   <outline>
     <component base="uni093E"/>
-    <component base="ecandravowelsigndeva" xOffset="-59"/>
+    <component base="ecandravowelsigndeva" xOffset="-58"/>
   </outline>
 </glyph>

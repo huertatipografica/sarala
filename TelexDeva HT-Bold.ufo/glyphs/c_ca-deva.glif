@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni091A094D_cadeva" format="1">
-  <advance width="1107"/>
+  <advance width="1080"/>
   <outline>
     <component base="uni091A094D"/>
     <component base="cadeva" xOffset="366"/>
     <contour>
-      <point x="554" y="685" type="move" name="top"/>
+      <point x="902" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="554" y="0" type="move" name="bottom"/>
+      <point x="915" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

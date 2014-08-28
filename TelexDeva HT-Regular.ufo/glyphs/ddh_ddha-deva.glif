@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0922094D_ddhadeva" format="1">
-  <advance width="580"/>
+  <advance width="578"/>
   <outline>
     <contour>
-      <point x="-5" y="658" type="line"/>
-      <point x="-5" y="583" type="line"/>
-      <point x="585" y="583" type="line"/>
-      <point x="585" y="658" type="line"/>
+      <point x="-20" y="658" type="line"/>
+      <point x="-20" y="583" type="line"/>
+      <point x="598" y="583" type="line"/>
+      <point x="598" y="658" type="line"/>
     </contour>
-    <component base="ddh_compo" xOffset="34" yOffset="4"/>
-    <component base="ddh_compo" xOffset="34" yOffset="-402"/>
+    <component base="ddh_compo" xOffset="32" yOffset="4"/>
+    <component base="ddh_compo" xOffset="32" yOffset="-402"/>
     <contour>
-      <point x="310" y="658" type="move" name="top"/>
+      <point x="308" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="322" y="59" type="move" name="bottom"/>
+      <point x="320" y="-222" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

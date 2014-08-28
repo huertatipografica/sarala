@@ -20,13 +20,10 @@
     </contour>
     <component base="radeva"/>
     <contour>
-      <point x="92" y="0" type="move" name="nukta"/>
+      <point x="209" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="209" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="241" y="658" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

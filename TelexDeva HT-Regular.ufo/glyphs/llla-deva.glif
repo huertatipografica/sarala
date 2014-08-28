@@ -4,9 +4,9 @@
   <unicode hex="0934"/>
   <outline>
     <component base="lladeva"/>
-    <component base="nuktadeva" xOffset="342" yOffset="30"/>
+    <component base="nuktadeva" xOffset="342"/>
     <contour>
-      <point x="412" y="658" type="move" name="top"/>
+      <point x="580" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="412" y="0" type="move" name="bottom"/>

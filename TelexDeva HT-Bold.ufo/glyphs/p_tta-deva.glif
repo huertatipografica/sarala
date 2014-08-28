@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni092A094D_ttadeva" format="1">
+  <advance width="592"/>
+  <outline>
+    <contour>
+      <point x="-5" y="575" type="line"/>
+      <point x="597" y="575" type="line"/>
+      <point x="597" y="685" type="line"/>
+      <point x="-5" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="293" type="line"/>
+      <point x="258" y="293"/>
+      <point x="225" y="331"/>
+      <point x="225" y="383" type="curve" smooth="yes"/>
+      <point x="225" y="609" type="line"/>
+      <point x="90" y="609" type="line"/>
+      <point x="90" y="383" type="line" smooth="yes"/>
+      <point x="90" y="263"/>
+      <point x="181" y="183"/>
+      <point x="306" y="183" type="curve"/>
+    </contour>
+    <contour>
+      <point x="365" y="608" type="line"/>
+      <point x="365" y="183" type="line"/>
+      <point x="500" y="183" type="line"/>
+      <point x="500" y="608" type="line"/>
+    </contour>
+    <component base="tt_compo" xOffset="56" yOffset="-225"/>
+    <contour>
+      <point x="179" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="179" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

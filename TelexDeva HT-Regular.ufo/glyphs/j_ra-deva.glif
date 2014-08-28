@@ -9,18 +9,26 @@
       <point x="770" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="609" y="238" type="line"/>
-      <point x="576" y="302" type="line"/>
-      <point x="269" y="24" type="line"/>
-      <point x="323" y="-30" type="line"/>
+      <point x="273" y="23" type="line"/>
+      <point x="323" y="-35" type="line"/>
+      <point x="604" y="184" type="line"/>
+      <point x="604" y="276" type="line"/>
     </contour>
     <component base="uni093E" xOffset="460"/>
     <component base="j_compo" xOffset="-7" yOffset="-33"/>
     <contour>
-      <point x="228" y="658" type="move" name="top"/>
+      <point x="612" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="228" y="0" type="move" name="bottom"/>
+      <point x="612" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

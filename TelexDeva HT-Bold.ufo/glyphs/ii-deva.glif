@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iideva" format="1">
-  <advance width="580"/>
+  <advance width="599"/>
   <unicode hex="0908"/>
   <outline>
     <component base="ideva"/>
@@ -9,7 +9,7 @@
       <point x="300" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="300" y="-163" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

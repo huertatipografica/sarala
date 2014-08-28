@@ -3,13 +3,13 @@
   <advance width="726"/>
   <unicode hex="0923"/>
   <outline>
-    <component base="uni0923094D" xOffset="-8"/>
-    <component base="uni093E" xOffset="412"/>
+    <component base="uni0923094D"/>
+    <component base="uni093E" xOffset="420"/>
     <contour>
-      <point x="363" y="658" type="move" name="top"/>
+      <point x="573" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="363" y="0" type="move" name="bottom"/>
+      <point x="573" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

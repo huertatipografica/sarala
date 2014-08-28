@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni092E094D_radeva" format="1">
-  <advance width="1115"/>
+  <advance width="684"/>
   <outline>
-    <component base="madeva"/>
-    <component base="viramadeva" xOffset="221"/>
-    <component base="radeva" xOffset="684"/>
     <contour>
-      <point x="558" y="685" type="move" name="top"/>
+      <point x="124" y="32" type="line"/>
+      <point x="205" y="-55" type="line"/>
+      <point x="488" y="184" type="line"/>
+      <point x="488" y="330" type="line"/>
+    </contour>
+    <component base="madeva"/>
+    <contour>
+      <point x="508" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="558" y="0" type="move" name="bottom"/>
+      <point x="508" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

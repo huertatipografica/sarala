@@ -64,16 +64,16 @@
       <point x="490" y="619" type="line"/>
     </contour>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="604" y="575" type="line"/>
-      <point x="604" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="619" y="575" type="line"/>
+      <point x="619" y="685" type="line"/>
     </contour>
     <contour>
       <point x="300" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="300" y="-163" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

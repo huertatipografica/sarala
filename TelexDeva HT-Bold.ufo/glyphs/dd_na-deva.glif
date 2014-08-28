@@ -3,12 +3,18 @@
   <advance width="600"/>
   <outline>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
       <point x="620" y="575" type="line"/>
       <point x="620" y="685" type="line"/>
     </contour>
     <component base="dd_compo" xOffset="27" yOffset="2"/>
     <component base="na_compo" xOffset="2" yOffset="-410"/>
+    <contour>
+      <point x="474" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="300" y="-232" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ddadeva" format="1">
-  <advance width="620"/>
+  <advance width="617"/>
   <unicode hex="0921"/>
   <outline>
     <contour>
@@ -48,8 +48,8 @@
     <contour>
       <point x="-20" y="685" type="line"/>
       <point x="-20" y="575" type="line"/>
-      <point x="640" y="575" type="line"/>
-      <point x="640" y="685" type="line"/>
+      <point x="637" y="575" type="line"/>
+      <point x="637" y="685" type="line"/>
     </contour>
     <contour>
       <point x="367" y="619" type="line"/>
@@ -64,7 +64,7 @@
       <point x="337" y="18" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="446" y="685" type="move" name="top"/>
+      <point x="436" y="685" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

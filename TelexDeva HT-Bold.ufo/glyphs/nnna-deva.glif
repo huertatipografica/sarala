@@ -6,10 +6,10 @@
     <component base="nadeva"/>
     <component base="nuktadeva" xOffset="21" yOffset="142"/>
     <contour>
-      <point x="326" y="685" type="move" name="top"/>
+      <point x="478" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="326" y="0" type="move" name="bottom"/>
+      <point x="478" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -9,5 +9,19 @@
       <point x="454" y="307" type="line"/>
     </contour>
     <component base="tadeva" xOffset="-10"/>
+    <contour>
+      <point x="443" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="443" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

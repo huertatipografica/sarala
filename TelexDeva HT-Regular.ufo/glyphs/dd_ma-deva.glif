@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0921094D_madeva" format="1">
-  <advance width="1103"/>
+  <advance width="1104"/>
   <outline>
     <contour>
       <point x="603" y="289"/>
@@ -43,5 +43,11 @@
     </contour>
     <component base="ddadeva"/>
     <component base="uni093E" xOffset="798"/>
+    <contour>
+      <point x="950" y="512" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="950" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

@@ -33,10 +33,18 @@
     </contour>
     <component base="uni093E"/>
     <contour>
-      <point x="160" y="658" type="move" name="top"/>
+      <point x="185" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="160" y="0" type="move" name="bottom"/>
+      <point x="166" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

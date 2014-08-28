@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0920094D0920094D092F" format="1">
-  <advance width="1274"/>
+  <advance width="1283"/>
   <outline>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="1279" y="575" type="line"/>
-      <point x="1279" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="1303" y="575" type="line"/>
+      <point x="1303" y="685" type="line"/>
     </contour>
-    <component base="tth_compo" xOffset="31" yOffset="-409"/>
-    <component base="tth_compo" xOffset="31"/>
-    <component base="uni093E" xOffset="940"/>
-    <component base="ya_compo" xOffset="519" yOffset="24"/>
+    <component base="tth_compo" xOffset="29" yOffset="-409"/>
+    <component base="tth_compo" xOffset="29"/>
+    <component base="uni093E" xOffset="938"/>
+    <component base="ya_compo" xOffset="517" yOffset="24"/>
+    <contour>
+      <point x="1111" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1111" y="-245" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

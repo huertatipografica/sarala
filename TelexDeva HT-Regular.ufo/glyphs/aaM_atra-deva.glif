@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni093E" format="1">
-  <advance width="305"/>
+  <advance width="306"/>
   <unicode hex="093E"/>
   <outline>
     <contour>
@@ -16,18 +16,10 @@
       <point x="324" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="152" y="658" type="move" name="top"/>
+      <point x="153" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="153" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

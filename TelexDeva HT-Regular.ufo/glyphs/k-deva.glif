@@ -59,13 +59,10 @@
       <point x="753" y="366" type="curve"/>
     </contour>
     <contour>
-      <point x="222" y="-17" type="move" name="nukta"/>
+      <point x="419" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="303" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="303" y="658" type="move" name="top"/>
+      <point x="419" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -94,13 +94,10 @@
       <point x="590" y="607" type="line"/>
     </contour>
     <contour>
-      <point x="618" y="257" type="move" name="_bottom"/>
+      <point x="551" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="398" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="398" y="658" type="move" name="top"/>
+      <point x="379" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

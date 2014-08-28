@@ -32,10 +32,10 @@
       <point x="600" y="147" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="812" y="575" type="line"/>
-      <point x="812" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="827" y="575" type="line"/>
+      <point x="827" y="685" type="line"/>
     </contour>
     <component base="udeva"/>
     <contour>

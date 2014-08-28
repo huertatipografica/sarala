@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni091E094D_cadeva" format="1">
-  <advance width="692"/>
+  <advance width="693"/>
   <outline>
     <contour>
       <point x="-20" y="658" type="line"/>
@@ -36,10 +36,27 @@
       <point x="369" y="172" type="line"/>
       <point x="322" y="235" type="line"/>
     </contour>
+    <contour>
+      <point x="497" y="2" type="line"/>
+      <point x="497" y="-35" type="line"/>
+      <point x="582" y="-35" type="line"/>
+      <point x="582" y="2" type="line"/>
+    </contour>
     <component base="uni093E" xOffset="387"/>
     <component base="ny_compo" xOffset="16" yOffset="1"/>
     <contour>
-      <point x="194" y="658" type="move" name="top"/>
+      <point x="540" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="540" y="-35" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shadeva.mr" format="1">
-  <advance width="600"/>
+  <advance width="686"/>
   <outline>
-    <component base="sha_comp" xOffset="-5"/>
-    <component base="sha_comp" xOffset="-5"/>
+    <component base="sha_comp"/>
+    <component base="sha_comp"/>
     <contour>
-      <point x="642" y="658" type="move" name="top"/>
+      <point x="253" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="305" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

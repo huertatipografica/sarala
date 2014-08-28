@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0921094D092F" format="1">
-  <advance width="1127"/>
+  <advance width="1128"/>
   <outline>
     <contour>
       <point x="562" y="658" type="line"/>
@@ -11,5 +11,11 @@
     <component base="ddadeva"/>
     <component base="uni093E" xOffset="822"/>
     <component base="ya_compo" xOffset="478" yOffset="19"/>
+    <contour>
+      <point x="975" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="975" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

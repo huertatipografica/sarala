@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0921094D_ghadeva" format="1">
-  <advance width="604"/>
+  <advance width="603"/>
   <outline>
     <contour>
-      <point x="-5" y="658" type="line"/>
-      <point x="-5" y="583" type="line"/>
-      <point x="609" y="583" type="line"/>
-      <point x="609" y="658" type="line"/>
+      <point x="-20" y="658" type="line"/>
+      <point x="-20" y="583" type="line"/>
+      <point x="623" y="583" type="line"/>
+      <point x="623" y="658" type="line"/>
     </contour>
     <component base="dd_compo" xOffset="11" yOffset="-6"/>
     <component base="gha_compo" xOffset="43" yOffset="-410"/>
+    <contour>
+      <point x="434" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="449" y="-212" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

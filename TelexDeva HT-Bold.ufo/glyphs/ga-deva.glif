@@ -9,10 +9,10 @@
       <point x="174" y="50" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="314" y="0" type="move" name="bottom"/>
+      <point x="487" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="328" y="685" type="move" name="top"/>
+      <point x="487" y="685" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

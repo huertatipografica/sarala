@@ -65,17 +65,17 @@
       <point x="100" y="620" type="line"/>
     </contour>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="734" y="575" type="line"/>
-      <point x="734" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="749" y="575" type="line"/>
+      <point x="749" y="685" type="line"/>
     </contour>
     <component base="va_compo" xOffset="125" yOffset="-410"/>
     <contour>
-      <point x="363" y="685" type="move" name="top"/>
+      <point x="525" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="363" y="0" type="move" name="bottom"/>
+      <point x="363" y="-232" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

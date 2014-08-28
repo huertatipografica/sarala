@@ -42,10 +42,10 @@
       <point x="16" y="168" type="line"/>
     </contour>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="544" y="575" type="line"/>
-      <point x="544" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="559" y="575" type="line"/>
+      <point x="559" y="685" type="line"/>
     </contour>
     <contour>
       <point x="299" y="685" type="move" name="top"/>

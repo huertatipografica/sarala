@@ -11,10 +11,10 @@
     </contour>
     <component base="uni0933094D"/>
     <contour>
-      <point x="403" y="658" type="move" name="top"/>
+      <point x="576" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="412" y="30" type="move" name="bottom"/>
+      <point x="412" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

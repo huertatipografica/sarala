@@ -20,13 +20,19 @@
     </contour>
     <component base="rvocalicvowelsigndeva" xOffset="318" yOffset="25"/>
     <component base="da-deva-compo" xOffset="18"/>
+    <contour>
+      <point x="298" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
+      <integer>0</integer>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

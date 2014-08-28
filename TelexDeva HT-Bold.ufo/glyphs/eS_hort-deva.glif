@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eshortdeva" format="1">
-  <advance width="588"/>
+  <advance width="606"/>
   <unicode hex="090E"/>
   <outline>
     <component base="edeva"/>
-    <component base="eshortvowelsigndeva" xOffset="73"/>
+    <component base="eshortvowelsigndeva" xOffset="90"/>
     <contour>
       <point x="294" y="685" type="move" name="top"/>
     </contour>

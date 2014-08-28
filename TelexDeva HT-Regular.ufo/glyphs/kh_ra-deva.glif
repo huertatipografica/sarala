@@ -46,12 +46,6 @@
       <point x="249" y="640" type="curve"/>
     </contour>
     <contour>
-      <point x="392" y="58" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="743" y="216" type="line"/>
-      <point x="743" y="312" type="line"/>
-    </contour>
-    <contour>
       <point x="481" y="502"/>
       <point x="409" y="433"/>
       <point x="409" y="337" type="curve" smooth="yes"/>
@@ -86,13 +80,27 @@
       <point x="716" y="658" type="line"/>
     </contour>
     <contour>
+      <point x="394" y="58" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="725" y="219" type="line"/>
+      <point x="725" y="311" type="line"/>
+    </contour>
+    <contour>
       <point x="161" y="13" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="457" y="0" type="move" name="bottom"/>
+      <point x="751" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="457" y="658" type="move" name="top"/>
+      <point x="746" y="658" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

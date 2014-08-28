@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0921094D_ddhadeva" format="1">
-  <advance width="615"/>
+  <advance width="599"/>
   <outline>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="620" y="575" type="line"/>
-      <point x="620" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="619" y="575" type="line"/>
+      <point x="619" y="685" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="27" yOffset="2"/>
-    <component base="ddh_compo" xOffset="59" yOffset="-408"/>
+    <component base="dd_compo" xOffset="26" yOffset="2"/>
+    <component base="ddh_compo" xOffset="58" yOffset="-408"/>
+    <contour>
+      <point x="471" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="307" y="-245" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

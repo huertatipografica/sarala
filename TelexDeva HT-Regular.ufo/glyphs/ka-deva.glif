@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kadeva" format="1">
-  <advance width="855"/>
+  <advance width="845"/>
   <unicode hex="0915"/>
   <outline>
     <contour>
@@ -68,8 +68,8 @@
     <contour>
       <point x="-20" y="658" type="line"/>
       <point x="-20" y="583" type="line"/>
-      <point x="875" y="583" type="line"/>
-      <point x="875" y="658" type="line"/>
+      <point x="865" y="583" type="line"/>
+      <point x="865" y="658" type="line"/>
     </contour>
     <contour>
       <point x="229" y="0" type="move" name="nukta"/>

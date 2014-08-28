@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0920094D_nadeva" format="1">
-  <advance width="600"/>
+  <advance width="606"/>
   <outline>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="605" y="575" type="line"/>
-      <point x="605" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="626" y="575" type="line"/>
+      <point x="626" y="685" type="line"/>
     </contour>
-    <component base="tth_compo" xOffset="21"/>
-    <component base="na_compo" xOffset="-56" yOffset="-423"/>
+    <component base="tth_compo" xOffset="23"/>
+    <component base="na_compo" xOffset="-54" yOffset="-423"/>
+    <contour>
+      <point x="412" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="302" y="-245" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nnnadeva" format="1">
-  <advance width="594"/>
+  <advance width="595"/>
   <unicode hex="0929"/>
   <outline>
     <component base="nadeva"/>
@@ -9,7 +9,7 @@
       <point x="441" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="293" y="0" type="move" name="bottom"/>
+      <point x="445" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D0930094D092F" format="1">
-  <advance width="600"/>
+  <advance width="825"/>
   <outline>
+    <contour>
+      <point x="242" y="-81" type="line"/>
+      <point x="323" y="-168" type="line"/>
+      <point x="606" y="71" type="line"/>
+      <point x="606" y="217" type="line"/>
+    </contour>
+    <component base="uni0926094D092F"/>
+    <contour>
+      <point x="660" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="660" y="-55" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

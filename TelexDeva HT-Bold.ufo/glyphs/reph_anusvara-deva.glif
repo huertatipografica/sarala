@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0930094D_anusvaradeva" format="1">
+  <advance width="270"/>
+  <note>
+    dRephAnusvara
+  </note>
+  <outline>
+    <component base="anusvaradeva" xOffset="142" yOffset="176" xScale="0.80" yScale="0.80"/>
+    <component base="uni0930094D" xOffset="-35" yOffset="16"/>
+    <contour>
+      <point x="135" y="685" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

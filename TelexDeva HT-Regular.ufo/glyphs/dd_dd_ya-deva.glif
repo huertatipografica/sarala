@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0921094D0921094D092F" format="1">
-  <advance width="1127"/>
+  <advance width="1128"/>
   <outline>
     <contour>
-      <point x="-5" y="658" type="line"/>
-      <point x="-5" y="583" type="line"/>
-      <point x="1137" y="583" type="line"/>
-      <point x="1137" y="658" type="line"/>
+      <point x="-20" y="658" type="line"/>
+      <point x="-20" y="583" type="line"/>
+      <point x="950" y="583" type="line"/>
+      <point x="950" y="658" type="line"/>
     </contour>
     <component base="dd_compo" xOffset="1" yOffset="-404"/>
     <component base="dd_compo" xOffset="1" yOffset="-6"/>
     <component base="uni093E" xOffset="822"/>
     <component base="ya_compo" xOffset="478" yOffset="44"/>
+    <contour>
+      <point x="975" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="975" y="-235" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

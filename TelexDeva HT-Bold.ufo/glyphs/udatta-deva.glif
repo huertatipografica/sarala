@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udattadeva" format="1">
-  <advance width="700"/>
+  <advance width="165"/>
   <unicode hex="0951"/>
   <outline>
+    <contour>
+      <point x="20" y="980" type="line"/>
+      <point x="20" y="709" type="line"/>
+      <point x="145" y="709" type="line"/>
+      <point x="145" y="980" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="685" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>

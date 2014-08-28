@@ -6,7 +6,7 @@
     <component base="ddhadeva"/>
     <component base="nuktadeva" xOffset="173"/>
     <contour>
-      <point x="300" y="685" type="move" name="top"/>
+      <point x="412" y="685" type="move" name="top"/>
     </contour>
     <contour>
       <point x="300" y="0" type="move" name="bottom"/>

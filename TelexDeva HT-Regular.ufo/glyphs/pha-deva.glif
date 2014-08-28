@@ -4,12 +4,6 @@
   <unicode hex="092B"/>
   <outline>
     <contour>
-      <point x="406" y="658" type="line"/>
-      <point x="406" y="583" type="line"/>
-      <point x="842" y="583" type="line"/>
-      <point x="842" y="658" type="line"/>
-    </contour>
-    <contour>
       <point x="501" y="477"/>
       <point x="440" y="437"/>
       <point x="381" y="337" type="curve"/>
@@ -36,6 +30,12 @@
       <point x="772" y="405"/>
       <point x="693" y="477"/>
       <point x="593" y="477" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="406" y="658" type="line"/>
+      <point x="406" y="583" type="line"/>
+      <point x="842" y="583" type="line"/>
+      <point x="842" y="658" type="line"/>
     </contour>
     <component base="padeva" xOffset="2"/>
     <contour>

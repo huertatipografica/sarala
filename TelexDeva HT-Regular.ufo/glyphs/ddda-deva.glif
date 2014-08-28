@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni097E" format="1">
-  <advance width="572"/>
+  <advance width="574"/>
   <unicode hex="097E"/>
   <outline>
     <contour>
-      <point x="60" y="-75" type="line"/>
-      <point x="525" y="-75" type="line"/>
-      <point x="525" y="0" type="line"/>
-      <point x="60" y="0" type="line"/>
+      <point x="54" y="-75" type="line"/>
+      <point x="519" y="-75" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="54" y="0" type="line"/>
     </contour>
-    <component base="ddadeva" xOffset="10"/>
+    <component base="ddadeva" xOffset="4"/>
   </outline>
 </glyph>

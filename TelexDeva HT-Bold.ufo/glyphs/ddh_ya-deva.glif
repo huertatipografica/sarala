@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0922094D092F" format="1">
-  <advance width="1264"/>
+  <advance width="1275"/>
   <outline>
     <contour>
       <point x="610" y="685" type="line"/>
@@ -11,5 +11,17 @@
     <component base="ddhadeva"/>
     <component base="uni093E" xOffset="930"/>
     <component base="ya_compo" xOffset="509"/>
+    <contour>
+      <point x="1103" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1103" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
 </glyph>

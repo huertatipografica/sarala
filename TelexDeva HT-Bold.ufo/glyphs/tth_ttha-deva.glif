@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0920094D_tthadeva" format="1">
-  <advance width="622"/>
+  <advance width="617"/>
   <outline>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="627" y="575" type="line"/>
-      <point x="627" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="637" y="575" type="line"/>
+      <point x="637" y="685" type="line"/>
     </contour>
-    <component base="tth_compo" xOffset="31" yOffset="-409"/>
-    <component base="tth_compo" xOffset="31"/>
+    <component base="tth_compo" xOffset="29" yOffset="-409"/>
+    <component base="tth_compo" xOffset="29"/>
     <contour>
-      <point x="342" y="685" type="move" name="top"/>
+      <point x="420" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="342" y="0" type="move" name="bottom"/>
+      <point x="340" y="-245" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

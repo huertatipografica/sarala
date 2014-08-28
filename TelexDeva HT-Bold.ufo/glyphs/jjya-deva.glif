@@ -10,5 +10,11 @@
       <point x="187" y="530" type="line"/>
     </contour>
     <component base="uni092F"/>
+    <contour>
+      <point x="523" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="523" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

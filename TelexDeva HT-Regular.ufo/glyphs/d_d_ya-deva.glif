@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D0926094D092F" format="1">
-  <advance width="600"/>
+  <advance width="1002"/>
   <outline>
+    <contour>
+      <point x="495" y="658" type="line"/>
+      <point x="495" y="583" type="line"/>
+      <point x="717" y="583" type="line"/>
+      <point x="717" y="658" type="line"/>
+    </contour>
+    <component base="uni0926094D_dadeva"/>
+    <component base="ya_compo" xOffset="353" yOffset="20"/>
+    <component base="uni093E" xOffset="697"/>
+    <contour>
+      <point x="849" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="849" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

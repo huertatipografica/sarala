@@ -5,9 +5,16 @@ languagesystem dev2 dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
 languagesystem latn CAT;
+languagesystem dev2 MAR;
 
 # automatic
 @Uppercase = [ A Aacute Acircumflex Adieresis Agrave Aring Atilde AE AEacute B C Ccedilla Ccircumflex D Eth Ddotbelow E Eacute Ebreve Ecircumflex Edieresis Egrave F G Gcaron Gcircumflex Gmacron H Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idieresis Igrave J Jcircumflex K L Ldot Ldotbelow Ldotbelowmacron M Mdotbelow N Ndotaccent Ndotbelow Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Rdotbelow Rdotbelowmacron S Scircumflex Sdotaccent Sdotbelow Schwa T Tdotbelow U Uacute Ubreve Ucircumflex Udieresis Ugrave V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ygrave Z Zdotbelow Delta Omega ];
+
+@DevaIMatras = [ iMatra-deva iMatra-deva.0 iMatra-deva.05 iMatra-deva.10 iMatra-deva.15 iMatra-deva.20 iMatra-deva.25 iMatra-deva.30 iMatra-deva.35 iMatra-deva.40 iMatra-deva.45 iMatra-deva.50 iMatra-deva.60 iMatra-deva.70 iMatra-deva.80 iMatra-deva.90 iMatra-deva.95 ];
+
+@DevaIMatraRephs = [ iMatra_reph-deva iMatra_reph-deva.0 iMatra_reph-deva.05 iMatra_reph-deva.10 iMatra_reph-deva.15 iMatra_reph-deva.20 iMatra_reph-deva.25 iMatra_reph-deva.30 iMatra_reph-deva.35 iMatra_reph-deva.40 iMatra_reph-deva.45 iMatra_reph-deva.50 iMatra_reph-deva.60 iMatra_reph-deva.70 iMatra_reph-deva.80 iMatra_reph-deva.90 iMatra_reph-deva.95 ];
+
+@DevaIMatraRephAnusvaras = [ iMatra_reph_anusvara-deva iMatra_reph_anusvara-deva.0 iMatra_reph_anusvara-deva.05 iMatra_reph_anusvara-deva.10 iMatra_reph_anusvara-deva.15 iMatra_reph_anusvara-deva.20 iMatra_reph_anusvara-deva.25 iMatra_reph_anusvara-deva.30 iMatra_reph_anusvara-deva.35 iMatra_reph_anusvara-deva.40 iMatra_reph_anusvara-deva.45 iMatra_reph_anusvara-deva.50 iMatra_reph_anusvara-deva.60 iMatra_reph_anusvara-deva.70 iMatra_reph_anusvara-deva.80 iMatra_reph_anusvara-deva.90 iMatra_reph_anusvara-deva.95 ];
 
 feature aalt {
 # automatic
@@ -20,13 +27,19 @@ feature rphf;
 feature rkrf;
 feature half;
 feature cjct;
+feature pres;
 } aalt;
 
 feature ccmp {
 # automatic
-sub halant-deva ra-deva by halant_ra-deva;
-sub halant-deva ra-deva uMatra-deva by halant_ra_uMatra-deva;
-sub halant-deva ra-deva uuMatra-deva by halant_ra_uuMatra-deva;
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub reph-deva anusvara-deva by reph_anusvara-deva;
+sub rakar-deva uMatra-deva by rakar_uMatra-deva;
+sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
 } ccmp;
 
 feature locl {
@@ -35,6 +48,9 @@ script latn;
 language CAT;
 sub  l' periodcentered' l by ldot;
 sub  L' periodcentered' L by Ldot;
+script dev2;
+language MAR;
+sub reph-deva by reph-deva.loclMAR;
 } locl;
 
 feature ordn {
@@ -91,8 +107,12 @@ sub da-deva halant-deva ra-deva by d_ra-deva;
 sub dha-deva halant-deva ra-deva by dh_ra-deva;
 sub na-deva halant-deva ra-deva by n_ra-deva;
 sub pa-deva halant-deva ra-deva by p_ra-deva;
+sub pha-deva halant-deva ra-deva by ph_ra-deva;
+sub ba-deva halant-deva ra-deva by b_ra-deva;
 sub bha-deva halant-deva ra-deva by bh_ra-deva;
 sub ma-deva halant-deva ra-deva by m_ra-deva;
+sub ya-deva halant-deva ra-deva by y_ra-deva;
+sub la-deva halant-deva ra-deva by l_ra-deva;
 sub sha-deva halant-deva ra-deva by sh_ra-deva;
 sub ssa-deva halant-deva ra-deva by ss_ra-deva;
 } rkrf;
@@ -150,8 +170,30 @@ sub ny-deva ca-deva by ny_ca-deva;
 sub ny-deva ja-deva by ny_ja-deva;
 sub t-deva ta-deva by t_ta-deva;
 sub da-deva halant-deva g_ra-deva by d_g_ra-deva;
+sub da-deva halant-deva b_ra-deva by d_b_ra-deva;
 sub n-deva na-deva by n_na-deva;
+sub p-deva tta-deva by p_tta-deva;
+sub p-deva ta-deva by p_ta-deva;
+sub p-deva la-deva by p_la-deva;
+sub ph-deva la-deva by ph_la-deva;
+sub b-deva la-deva by b_la-deva;
+sub l-deva la-deva by l_la-deva;
 sub sh-deva na-deva by sh_na-deva;
 sub sh-deva va-deva by sh_va-deva;
 } cjct;
+
+feature pres {
+# automatic
+sub [iMatra-deva]' [ss-deva n-deva th-deva m-deva v-deva jh-deva ny-deva sha-deva.mr rra-deva c-deva l-deva j_r-deva b-deva ra-deva t-deva dh-deva ghh-deva j-deva s-deva nn-deva c_r-deva h-deva t_ta-deva gh-deva g-deva p-deva y-deva bh-deva] by [iMatra-deva.0];
+sub [iMatra-deva]' [d_v_ra-deva d_v_ya-deva ddh_na-deva d_ga-deva dd_tta-deva sh-deva d_dh_ya-deva dd_ddha-deva ddh_ddha-deva jha-deva.np d_b_ra-deva d_g_ra-deva d_rVocalicMatra-deva dd_na-deva] by [iMatra-deva.05];
+sub [iMatra-deva]' [fa-deva ddha-deva ph_ra-deva kh-deva rha-deva dda-deva tt_va-deva ssa-deva nga-deva d_va-deva tt_ttha-deva tt_tta-deva d_ba-deva tt_na-deva p_ra-deva d_da-deva.001 pha-deva tth_na-deva ll-deva d_ra-deva ttha-deva da-deva k-deva tt_ddha-deva dd_dda-deva ha-deva d_na-deva d_da-deva dddha-deva ch-deva ch_va-deva ss_ra-deva tth_ttha-deva pa-deva tta-deva] by [iMatra-deva.10];
+sub [iMatra-deva]' [b_ra-deva t_r_ya-deva m_ra-deva ya-deva k_va-deva ph-deva ghha-deva g_ra-deva k_la-deva ta-deva bha-deva n_na-deva dh_ra-deva k_ra-deva ng_gha-deva g_na-deva ng_ka-deva jjya-deva na-deva ng_ga-deva ng_kha-deva d_dha-deva k_t_ta-deva p_tta-deva t_ra-deva.alt t_ra-deva ma-deva bh_ra-deva gh_ra-deva va-deva nnna-deva dd_gha-deva qa-deva d_gha-deva p_ta-deva ga-deva ng_ma-deva b_la-deva dha-deva ba-deva k_ka-deva n_ra-deva d_bha-deva ka-deva gha-deva yya-deva] by [iMatra-deva.15];
+sub [iMatra-deva]' [nna-deva sa-deva d_ma-deva cha-deva ny_ca-deva ny_ra-deva lla-deva nn_ra-deva ca-deva ny_ja-deva c_ca-deva.alt la-deva j_nya-deva nya-deva llla-deva th_ra-deva tha-deva c_ra-deva l_la-deva] by [iMatra-deva.20];
+sub [iMatra-deva]' [sh_na-deva jha-deva ja-deva j_ra-deva sha-deva d_r_ya-deva k_ss-deva d_ya-deva k_ssa-deva j_ja-deva za-deva sh_va-deva sh_ra-deva] by [iMatra-deva.25];
+sub [iMatra-deva]' [jh_ra-deva kh_ra-deva] by [iMatra-deva.30];
+sub [iMatra-deva]' [khha-deva kha-deva] by [iMatra-deva.35];
+sub [iMatra-deva]' [d_d_ya-deva c_ca-deva] by [iMatra-deva.40];
+sub [iMatra-deva]' [ddh_ddh_ya-deva tt_tt_ya-deva dd_ya-deva dd_ma-deva tt_ya-deva dd_dd_ya-deva] by [iMatra-deva.45];
+sub [iMatra-deva]' [tth_ya-deva d_bh_ya-deva tth_tth_ya-deva] by [iMatra-deva.50];
+} pres;
 

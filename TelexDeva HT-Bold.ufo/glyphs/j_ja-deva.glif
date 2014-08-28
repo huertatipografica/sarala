@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni091C094D_jadeva" format="1">
-  <advance width="850"/>
+  <advance width="853"/>
   <outline>
     <contour>
-      <point x="-5" y="685" type="line"/>
-      <point x="-5" y="575" type="line"/>
-      <point x="555" y="575" type="line"/>
-      <point x="555" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="547" y="575" type="line"/>
+      <point x="547" y="685" type="line"/>
     </contour>
-    <component base="uni093E" xOffset="516"/>
-    <component base="j_compo" xOffset="21"/>
-    <component base="j_compo" xOffset="21"/>
-    <component base="j_compo_down" xOffset="91" yOffset="-12"/>
+    <component base="uni093E" xOffset="508"/>
+    <component base="j_compo" xOffset="13"/>
+    <component base="j_compo" xOffset="13"/>
+    <component base="j_compo_down" xOffset="83" yOffset="-12"/>
+    <contour>
+      <point x="681" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="681" y="-244" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

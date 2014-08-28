@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0919094D_gadeva" format="1">
-  <advance width="779"/>
+  <advance width="768"/>
   <outline>
     <contour>
-      <point x="-5" y="575" type="line"/>
-      <point x="784" y="575" type="line"/>
-      <point x="784" y="685" type="line"/>
-      <point x="-5" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="788" y="575" type="line"/>
+      <point x="788" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="417" y="-232" type="line"/>
-      <point x="522" y="-232" type="line"/>
-      <point x="522" y="202" type="line"/>
-      <point x="417" y="202" type="line"/>
+      <point x="415" y="-232" type="line"/>
+      <point x="520" y="-232" type="line"/>
+      <point x="520" y="202" type="line"/>
+      <point x="415" y="202" type="line"/>
     </contour>
-    <component base="dd_compo" xOffset="28"/>
-    <component base="nuktadeva" xOffset="542" yOffset="558"/>
-    <component base="g_compo" xOffset="36" yOffset="-404"/>
+    <component base="dd_compo" xOffset="26"/>
+    <component base="nuktadeva" xOffset="540" yOffset="558"/>
+    <component base="g_compo" xOffset="34" yOffset="-404"/>
     <contour>
-      <point x="-585" y="685" type="move" name="top"/>
+      <point x="465" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="463" y="-232" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

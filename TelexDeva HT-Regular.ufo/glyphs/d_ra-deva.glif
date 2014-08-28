@@ -9,20 +9,20 @@
       <point x="-5" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="347" y="257" type="line"/>
-      <point x="93" y="43" type="line"/>
-      <point x="145" y="-13" type="line"/>
-      <point x="394" y="204" type="line"/>
-    </contour>
-    <contour>
+      <point x="352" y="119"/>
+      <point x="406" y="53"/>
+      <point x="482" y="-5" type="curve"/>
       <point x="537" y="52" type="line"/>
       <point x="459" y="113"/>
       <point x="420" y="152"/>
       <point x="389" y="250" type="curve"/>
       <point x="321" y="208" type="line"/>
-      <point x="352" y="119"/>
-      <point x="406" y="53"/>
-      <point x="482" y="-5" type="curve"/>
+    </contour>
+    <contour>
+      <point x="39" y="23" type="line"/>
+      <point x="89" y="-35" type="line"/>
+      <point x="370" y="184" type="line"/>
+      <point x="269" y="199" type="line"/>
     </contour>
     <component base="da-deva-compo" xOffset="8"/>
     <contour>
@@ -35,9 +35,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
+      <integer>0</integer>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

@@ -6,10 +6,10 @@
     <component base="uni092D094D"/>
     <component base="uni093E" xOffset="337"/>
     <contour>
-      <point x="341" y="685" type="move" name="top"/>
+      <point x="510" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="341" y="0" type="move" name="bottom"/>
+      <point x="510" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
