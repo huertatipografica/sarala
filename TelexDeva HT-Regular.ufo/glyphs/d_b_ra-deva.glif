@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D092C094D_radeva" format="1">
-  <advance width="590"/>
+  <advance width="595"/>
   <outline>
+    <contour>
+      <point x="410" y="125" type="line"/>
+      <point x="160" y="-111" type="line"/>
+      <point x="216" y="-164" type="line"/>
+      <point x="456" y="68" type="line"/>
+    </contour>
+    <component base="uni0926094D092C"/>
     <contour>
       <point x="295" y="658" type="move" name="top"/>
     </contour>

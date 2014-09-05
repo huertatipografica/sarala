@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeCombiningDigit-deva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-201" y="988"/>
+      <point x="-240" y="979"/>
+      <point x="-268" y="965" type="curve"/>
+      <point x="-246" y="901" type="line"/>
+      <point x="-219" y="914"/>
+      <point x="-188" y="919"/>
+      <point x="-169" y="919" type="curve" smooth="yes"/>
+      <point x="-156" y="919"/>
+      <point x="-148" y="916"/>
+      <point x="-148" y="911" type="curve" smooth="yes"/>
+      <point x="-148" y="898"/>
+      <point x="-162" y="887"/>
+      <point x="-237" y="883" type="curve"/>
+      <point x="-222" y="836" type="line"/>
+      <point x="-137" y="836"/>
+      <point x="-73" y="851"/>
+      <point x="-73" y="913" type="curve" smooth="yes"/>
+      <point x="-73" y="959"/>
+      <point x="-112" y="988"/>
+      <point x="-168" y="988" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-212" y="756" type="line"/>
+      <point x="-140" y="692" type="line"/>
+      <point x="-69" y="725" type="line"/>
+      <point x="-136" y="785" type="line"/>
+    </contour>
+    <contour>
+      <point x="-175" y="852" type="line"/>
+      <point x="-148" y="841"/>
+      <point x="-139" y="834"/>
+      <point x="-139" y="822" type="curve" smooth="yes"/>
+      <point x="-139" y="812"/>
+      <point x="-152" y="799"/>
+      <point x="-188" y="801" type="curve"/>
+      <point x="-190" y="779" type="line"/>
+      <point x="-140" y="790" type="line"/>
+      <point x="-167" y="810"/>
+      <point x="-186" y="825"/>
+      <point x="-225" y="825" type="curve" smooth="yes"/>
+      <point x="-247" y="825"/>
+      <point x="-270" y="811"/>
+      <point x="-270" y="786" type="curve" smooth="yes"/>
+      <point x="-270" y="752"/>
+      <point x="-233" y="733"/>
+      <point x="-189" y="733" type="curve" smooth="yes"/>
+      <point x="-116" y="733"/>
+      <point x="-64" y="772"/>
+      <point x="-64" y="819" type="curve" smooth="yes"/>
+      <point x="-64" y="858"/>
+      <point x="-95" y="892"/>
+      <point x="-139" y="910" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

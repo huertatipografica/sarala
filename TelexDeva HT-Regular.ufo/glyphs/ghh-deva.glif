@@ -4,11 +4,5 @@
   <outline>
     <component base="uni0917094D"/>
     <component base="nuktadeva" xOffset="70" yOffset="150"/>
-    <contour>
-      <point x="141" y="658" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="141" y="0" type="move" name="bottom"/>
-    </contour>
   </outline>
 </glyph>

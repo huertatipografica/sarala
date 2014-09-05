@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D0935094D092F" format="1">
-  <advance width="582"/>
+  <advance width="1101"/>
   <outline>
     <contour>
-      <point x="300" y="512" type="move" name="top"/>
+      <point x="575" y="658" type="line"/>
+      <point x="575" y="583" type="line"/>
+      <point x="797" y="583" type="line"/>
+      <point x="797" y="658" type="line"/>
+    </contour>
+    <component base="uni0926094D_vadeva"/>
+    <component base="ya_compo" xOffset="452" yOffset="44"/>
+    <component base="uni093E" xOffset="795"/>
+    <contour>
+      <point x="948" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="948" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0936094D0932.loclMAR" format="1">
+  <advance width="1228"/>
+  <outline>
+    <contour>
+      <point x="169" y="661"/>
+      <point x="110" y="600"/>
+      <point x="110" y="493" type="curve" smooth="yes"/>
+      <point x="110" y="359"/>
+      <point x="262" y="232"/>
+      <point x="455" y="232" type="curve" smooth="yes"/>
+      <point x="498" y="232"/>
+      <point x="539" y="237"/>
+      <point x="580" y="246" type="curve"/>
+      <point x="569" y="321" type="line"/>
+      <point x="532" y="310"/>
+      <point x="497" y="306"/>
+      <point x="455" y="306" type="curve" smooth="yes"/>
+      <point x="308" y="306"/>
+      <point x="194" y="405"/>
+      <point x="194" y="493" type="curve" smooth="yes"/>
+      <point x="194" y="554"/>
+      <point x="223" y="587"/>
+      <point x="275" y="587" type="curve" smooth="yes"/>
+      <point x="327" y="587"/>
+      <point x="356" y="554"/>
+      <point x="356" y="498" type="curve" smooth="yes"/>
+      <point x="356" y="392"/>
+      <point x="184" y="292"/>
+      <point x="50" y="262" type="curve"/>
+      <point x="68" y="190" type="line"/>
+      <point x="225" y="224"/>
+      <point x="440" y="342"/>
+      <point x="440" y="498" type="curve" smooth="yes"/>
+      <point x="440" y="602"/>
+      <point x="381" y="661"/>
+      <point x="275" y="661" type="curve" smooth="yes"/>
+    </contour>
+    <component base="uni0932.loclMAR" xOffset="471"/>
+  </outline>
+</glyph>

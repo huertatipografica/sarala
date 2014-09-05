@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jhadeva_uvowelsigndeva" format="1">
+  <advance width="789"/>
+  <outline>
+    <contour>
+      <point x="398" y="-198" type="line"/>
+      <point x="457" y="-253"/>
+      <point x="525" y="-277"/>
+      <point x="595" y="-277" type="curve" smooth="yes"/>
+      <point x="706" y="-277"/>
+      <point x="783" y="-213"/>
+      <point x="783" y="-121" type="curve" smooth="yes"/>
+      <point x="783" y="-49"/>
+      <point x="716" y="10"/>
+      <point x="634" y="10" type="curve" smooth="yes"/>
+      <point x="596" y="10"/>
+      <point x="551" y="-8"/>
+      <point x="513" y="-34" type="curve"/>
+      <point x="550" y="-93" type="line"/>
+      <point x="590" y="-69"/>
+      <point x="605" y="-64"/>
+      <point x="634" y="-64" type="curve" smooth="yes"/>
+      <point x="672" y="-64"/>
+      <point x="699" y="-88"/>
+      <point x="699" y="-121" type="curve" smooth="yes"/>
+      <point x="699" y="-171"/>
+      <point x="659" y="-203"/>
+      <point x="595" y="-203" type="curve" smooth="yes"/>
+      <point x="543" y="-203"/>
+      <point x="497" y="-186"/>
+      <point x="457" y="-152" type="curve"/>
+    </contour>
+    <component base="jhadeva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

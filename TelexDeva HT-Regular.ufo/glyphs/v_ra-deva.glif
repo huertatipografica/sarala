@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0935094D_radeva" format="1">
+  <advance width="577"/>
+  <outline>
+    <contour>
+      <point x="85" y="23" type="line"/>
+      <point x="135" y="-35" type="line"/>
+      <point x="416" y="184" type="line"/>
+      <point x="416" y="276" type="line"/>
+    </contour>
+    <component base="vadeva"/>
+  </outline>
+</glyph>

@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0926094D0927094D092F" format="1">
-  <advance width="560"/>
+  <advance width="1327"/>
   <outline>
     <contour>
-      <point x="300" y="685" type="move" name="top"/>
+      <point x="728" y="575" type="line"/>
+      <point x="982" y="575" type="line"/>
+      <point x="982" y="685" type="line"/>
+      <point x="728" y="685" type="line"/>
+    </contour>
+    <component base="uni0926094D_dhadeva"/>
+    <component base="ya_compo" xOffset="556" yOffset="32"/>
+    <component base="uni093E" xOffset="982"/>
+    <contour>
+      <point x="1155" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="1155" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

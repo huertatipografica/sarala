@@ -5,7 +5,7 @@
   <outline>
     <component base="nuktadeva" yOffset="909"/>
     <contour>
-      <point x="50" y="675" type="move" name="_top"/>
+      <point x="125" y="675" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

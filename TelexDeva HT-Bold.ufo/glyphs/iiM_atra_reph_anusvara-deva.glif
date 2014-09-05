@@ -6,14 +6,12 @@
   </note>
   <outline>
     <component base="uni0940"/>
-    <component base="uni0930094D_anusvaradeva.imatra" xOffset="78"/>
+    <component base="uni0930094D_anusvaradeva.imatra" xOffset="53"/>
+    <contour>
+      <point x="174" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="173" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

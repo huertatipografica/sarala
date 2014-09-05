@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anusvaradeva.alt" format="1">
+  <advance width="252"/>
+  <outline>
+    <component base="nuktadeva" yOffset="1099"/>
+    <contour>
+      <point x="125" y="675" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

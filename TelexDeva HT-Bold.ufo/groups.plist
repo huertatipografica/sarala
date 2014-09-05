@@ -426,10 +426,6 @@
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 	</array>
-	<key>@MMK_R_iMatra</key>
-	<array>
-		<string>iMatra-deva.95</string>
-	</array>
 	<key>@MMK_R_kgreenlandic</key>
 	<array>
 		<string>kgreenlandic</string>

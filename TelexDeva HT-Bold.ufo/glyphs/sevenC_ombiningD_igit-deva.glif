@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevenCombiningDigit-deva" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-140" y="874" type="line"/>
+      <point x="-145" y="876"/>
+      <point x="-147" y="881"/>
+      <point x="-147" y="883" type="curve" smooth="yes"/>
+      <point x="-147" y="887"/>
+      <point x="-144" y="889"/>
+      <point x="-141" y="889" type="curve" smooth="yes"/>
+      <point x="-126" y="889"/>
+      <point x="-118" y="873"/>
+      <point x="-118" y="850" type="curve" smooth="yes"/>
+      <point x="-118" y="820"/>
+      <point x="-131" y="788"/>
+      <point x="-161" y="788" type="curve" smooth="yes"/>
+      <point x="-207" y="788"/>
+      <point x="-232" y="848"/>
+      <point x="-232" y="899" type="curve" smooth="yes"/>
+      <point x="-232" y="931"/>
+      <point x="-223" y="955"/>
+      <point x="-216" y="973" type="curve"/>
+      <point x="-285" y="998" type="line"/>
+      <point x="-294" y="976"/>
+      <point x="-305" y="937"/>
+      <point x="-305" y="901" type="curve" smooth="yes"/>
+      <point x="-305" y="807"/>
+      <point x="-252" y="719"/>
+      <point x="-158" y="719" type="curve" smooth="yes"/>
+      <point x="-93" y="719"/>
+      <point x="-46" y="782"/>
+      <point x="-46" y="847" type="curve" smooth="yes"/>
+      <point x="-46" y="910"/>
+      <point x="-83" y="957"/>
+      <point x="-146" y="957" type="curve" smooth="yes"/>
+      <point x="-188" y="957"/>
+      <point x="-218" y="929"/>
+      <point x="-218" y="887" type="curve" smooth="yes"/>
+      <point x="-218" y="854"/>
+      <point x="-191" y="820"/>
+      <point x="-157" y="807" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

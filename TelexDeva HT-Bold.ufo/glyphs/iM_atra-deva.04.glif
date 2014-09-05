@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F.04" format="1">
+  <advance width="323"/>
+  <outline>
+    <contour>
+      <point x="188" y="972"/>
+      <point x="69" y="902.333"/>
+      <point x="69" y="782.267" type="curve" smooth="yes"/>
+      <point x="69" y="743.6"/>
+      <point x="79.9333" y="697.6"/>
+      <point x="102.267" y="648" type="curve"/>
+      <point x="236.533" y="648" type="line"/>
+      <point x="213.467" y="684"/>
+      <point x="204" y="721.6"/>
+      <point x="204" y="767.6" type="curve" smooth="yes"/>
+      <point x="204" y="827.467"/>
+      <point x="273.133" y="858.333"/>
+      <point x="425.2" y="858.333" type="curve" smooth="yes"/>
+      <point x="558.067" y="858.333"/>
+      <point x="727" y="826.133"/>
+      <point x="947.867" y="738.8" type="curve"/>
+      <point x="1029.33" y="813.467" type="line"/>
+      <point x="759.133" y="927.6"/>
+      <point x="606.2" y="972"/>
+      <point x="419.667" y="972" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="94" y="608" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="-31" y="685" type="line"/>
+      <point x="-31" y="575" type="line"/>
+      <point x="354" y="575" type="line"/>
+      <point x="354" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="1029" y="813" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="182" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1029" y="813" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

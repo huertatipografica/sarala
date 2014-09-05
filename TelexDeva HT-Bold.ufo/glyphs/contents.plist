@@ -234,6 +234,8 @@
 	<string>ai-deva.glif</string>
 	<key>aiMatra-deva</key>
 	<string>aiM_atra-deva.glif</string>
+	<key>aiMatra_anusvara-deva</key>
+	<string>aiM_atra_anusvara-deva.glif</string>
 	<key>aiMatra_reph-deva</key>
 	<string>aiM_atra_reph-deva.glif</string>
 	<key>aiMatra_reph_anusvara-deva</key>
@@ -244,6 +246,8 @@
 	<string>anudatta-deva.glif</string>
 	<key>anusvara-deva</key>
 	<string>anusvara-deva.glif</string>
+	<key>anusvara-deva.alt</key>
+	<string>anusvara-deva.alt.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
@@ -262,6 +266,12 @@
 	<string>au-deva.glif</string>
 	<key>auMatra-deva</key>
 	<string>auM_atra-deva.glif</string>
+	<key>auMatra_anusvara-deva</key>
+	<string>auM_atra_anusvara-deva.glif</string>
+	<key>auMatra_reph-deva</key>
+	<string>auM_atra_reph-deva.glif</string>
+	<key>auMatra_reph_anusvara-deva</key>
+	<string>auM_atra_reph_anusvara-deva.glif</string>
 	<key>avagraha-deva</key>
 	<string>avagraha-deva.glif</string>
 	<key>aw-deva</key>
@@ -326,6 +336,16 @@
 	<string>ca-deva.glif</string>
 	<key>candraBindu-deva</key>
 	<string>candraB_indu-deva.glif</string>
+	<key>candraBindu-deva.alt</key>
+	<string>candraB_indu-deva.alt.glif</string>
+	<key>candraBinduAvagraha-deva</key>
+	<string>candraB_induA_vagraha-deva.glif</string>
+	<key>candraBinduDigitThree-deva</key>
+	<string>candraB_induD_igitT_hree-deva.glif</string>
+	<key>candraBinduDigitTwo-deva</key>
+	<string>candraB_induD_igitT_wo-deva.glif</string>
+	<key>candraBinduVirama-deva</key>
+	<string>candraB_induV_irama-deva.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>caron.alt</key>
@@ -358,6 +378,8 @@
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>d-deva</key>
+	<string>d-deva.glif</string>
 	<key>d_b_ra-deva</key>
 	<string>d_b_ra-deva.glif</string>
 	<key>d_ba-deva</key>
@@ -370,30 +392,36 @@
 	<string>d_d_ya-deva.glif</string>
 	<key>d_da-deva</key>
 	<string>d_da-deva.glif</string>
-	<key>d_da-deva.001</key>
-	<string>d_da-deva.001.glif</string>
+	<key>d_da_uMatra-deva</key>
+	<string>d_da_uM_atra-deva.glif</string>
 	<key>d_dh_ya-deva</key>
 	<string>d_dh_ya-deva.glif</string>
 	<key>d_dha-deva</key>
 	<string>d_dha-deva.glif</string>
+	<key>d_dha_uMatra-deva</key>
+	<string>d_dha_uM_atra-deva.glif</string>
 	<key>d_g_ra-deva</key>
 	<string>d_g_ra-deva.glif</string>
 	<key>d_ga-deva</key>
 	<string>d_ga-deva.glif</string>
+	<key>d_ga_uMatra-deva</key>
+	<string>d_ga_uM_atra-deva.glif</string>
 	<key>d_gha-deva</key>
 	<string>d_gha-deva.glif</string>
+	<key>d_gha_uMatra-deva</key>
+	<string>d_gha_uM_atra-deva.glif</string>
 	<key>d_ma-deva</key>
 	<string>d_ma-deva.glif</string>
 	<key>d_na-deva</key>
 	<string>d_na-deva.glif</string>
+	<key>d_na_uMatra-deva</key>
+	<string>d_na_uM_atra-deva.glif</string>
 	<key>d_rVocalicMatra-deva</key>
 	<string>d_rV_ocalicM_atra-deva.glif</string>
 	<key>d_r_ya-deva</key>
 	<string>d_r_ya-deva.glif</string>
 	<key>d_ra-deva</key>
 	<string>d_ra-deva.glif</string>
-	<key>d_v_ra-deva</key>
-	<string>d_v_ra-deva.glif</string>
 	<key>d_v_ya-deva</key>
 	<string>d_v_ya-deva.glif</string>
 	<key>d_va-deva</key>
@@ -404,6 +432,8 @@
 	<string>da-deva.glif</string>
 	<key>da-deva-compo</key>
 	<string>da-deva-compo.glif</string>
+	<key>da_uMatra-deva</key>
+	<string>da_uM_atra-deva.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
@@ -412,6 +442,8 @@
 	<string>danda-deva.glif</string>
 	<key>dbldanda-deva</key>
 	<string>dbldanda-deva.glif</string>
+	<key>dd-deva</key>
+	<string>dd-deva.glif</string>
 	<key>dd_compo</key>
 	<string>dd_compo.glif</string>
 	<key>dd_dd_ya-deva</key>
@@ -436,6 +468,8 @@
 	<string>ddda-deva.glif</string>
 	<key>dddha-deva</key>
 	<string>dddha-deva.glif</string>
+	<key>ddh-deva</key>
+	<string>ddh-deva.glif</string>
 	<key>ddh_compo</key>
 	<string>ddh_compo.glif</string>
 	<key>ddh_ddh_ya-deva</key>
@@ -480,8 +514,10 @@
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
-	<key>dottedcircle</key>
-	<string>dottedcircle.glif</string>
+	<key>dottedCircle</key>
+	<string>dottedC_ircle.glif</string>
+	<key>doublecandraBinduVirama-deva</key>
+	<string>doublecandraB_induV_irama-deva.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e-deva</key>
@@ -518,6 +554,10 @@
 	<string>eight.glif</string>
 	<key>eight-deva</key>
 	<string>eight-deva.glif</string>
+	<key>eight-deva.loclNEP</key>
+	<string>eight-deva.loclN_E_P_.glif</string>
+	<key>eightCombiningDigit-deva</key>
+	<string>eightC_ombiningD_igit-deva.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emdash</key>
@@ -542,6 +582,10 @@
 	<string>five.glif</string>
 	<key>five-deva</key>
 	<string>five-deva.glif</string>
+	<key>five-deva.loclNEP</key>
+	<string>five-deva.loclN_E_P_.glif</string>
+	<key>fiveCombiningDigit-deva</key>
+	<string>fiveC_ombiningD_igit-deva.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>foundryicon</key>
@@ -550,6 +594,8 @@
 	<string>four.glif</string>
 	<key>four-deva</key>
 	<string>four-deva.glif</string>
+	<key>fourCombiningDigit-deva</key>
+	<string>fourC_ombiningD_igit-deva.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g-deva</key>
@@ -606,8 +652,26 @@
 	<string>h.glif</string>
 	<key>h-deva</key>
 	<string>h-deva.glif</string>
+	<key>h_la-deva</key>
+	<string>h_la-deva.glif</string>
+	<key>h_ma-deva</key>
+	<string>h_ma-deva.glif</string>
+	<key>h_na-deva</key>
+	<string>h_na-deva.glif</string>
+	<key>h_nna-deva</key>
+	<string>h_nna-deva.glif</string>
+	<key>h_rVocalic-deva</key>
+	<string>h_rV_ocalic-deva.glif</string>
+	<key>h_ra-deva</key>
+	<string>h_ra-deva.glif</string>
+	<key>h_va-deva</key>
+	<string>h_va-deva.glif</string>
+	<key>h_ya-deva</key>
+	<string>h_ya-deva.glif</string>
 	<key>ha-deva</key>
 	<string>ha-deva.glif</string>
+	<key>ha-deva.alt</key>
+	<string>ha-deva.alt.glif</string>
 	<key>halant-deva</key>
 	<string>halant-deva.glif</string>
 	<key>halant-deva_ra-deva_alt</key>
@@ -628,106 +692,106 @@
 	<string>i-deva.glif</string>
 	<key>iMatra-deva</key>
 	<string>iM_atra-deva.glif</string>
-	<key>iMatra-deva.0</key>
-	<string>iM_atra-deva.0.glif</string>
+	<key>iMatra-deva.00</key>
+	<string>iM_atra-deva.00.glif</string>
+	<key>iMatra-deva.01</key>
+	<string>iM_atra-deva.01.glif</string>
+	<key>iMatra-deva.02</key>
+	<string>iM_atra-deva.02.glif</string>
+	<key>iMatra-deva.03</key>
+	<string>iM_atra-deva.03.glif</string>
+	<key>iMatra-deva.04</key>
+	<string>iM_atra-deva.04.glif</string>
 	<key>iMatra-deva.05</key>
 	<string>iM_atra-deva.05.glif</string>
+	<key>iMatra-deva.06</key>
+	<string>iM_atra-deva.06.glif</string>
+	<key>iMatra-deva.07</key>
+	<string>iM_atra-deva.07.glif</string>
+	<key>iMatra-deva.08</key>
+	<string>iM_atra-deva.08.glif</string>
+	<key>iMatra-deva.09</key>
+	<string>iM_atra-deva.09.glif</string>
 	<key>iMatra-deva.10</key>
 	<string>iM_atra-deva.10.glif</string>
+	<key>iMatra-deva.11</key>
+	<string>iM_atra-deva.11.glif</string>
+	<key>iMatra-deva.12</key>
+	<string>iM_atra-deva.12.glif</string>
+	<key>iMatra-deva.13</key>
+	<string>iM_atra-deva.13.glif</string>
+	<key>iMatra-deva.14</key>
+	<string>iM_atra-deva.14.glif</string>
 	<key>iMatra-deva.15</key>
 	<string>iM_atra-deva.15.glif</string>
-	<key>iMatra-deva.20</key>
-	<string>iM_atra-deva.20.glif</string>
-	<key>iMatra-deva.25</key>
-	<string>iM_atra-deva.25.glif</string>
-	<key>iMatra-deva.30</key>
-	<string>iM_atra-deva.30.glif</string>
-	<key>iMatra-deva.35</key>
-	<string>iM_atra-deva.35.glif</string>
-	<key>iMatra-deva.40</key>
-	<string>iM_atra-deva.40.glif</string>
-	<key>iMatra-deva.45</key>
-	<string>iM_atra-deva.45.glif</string>
-	<key>iMatra-deva.50</key>
-	<string>iM_atra-deva.50.glif</string>
-	<key>iMatra-deva.60</key>
-	<string>iM_atra-deva.60.glif</string>
-	<key>iMatra-deva.70</key>
-	<string>iM_atra-deva.70.glif</string>
-	<key>iMatra-deva.80</key>
-	<string>iM_atra-deva.80.glif</string>
-	<key>iMatra-deva.90</key>
-	<string>iM_atra-deva.90.glif</string>
-	<key>iMatra-deva.95</key>
-	<string>iM_atra-deva.95.glif</string>
 	<key>iMatra_reph-deva</key>
 	<string>iM_atra_reph-deva.glif</string>
-	<key>iMatra_reph-deva.0</key>
-	<string>iM_atra_reph-deva.0.glif</string>
+	<key>iMatra_reph-deva.00</key>
+	<string>iM_atra_reph-deva.00.glif</string>
+	<key>iMatra_reph-deva.01</key>
+	<string>iM_atra_reph-deva.01.glif</string>
+	<key>iMatra_reph-deva.02</key>
+	<string>iM_atra_reph-deva.02.glif</string>
+	<key>iMatra_reph-deva.03</key>
+	<string>iM_atra_reph-deva.03.glif</string>
+	<key>iMatra_reph-deva.04</key>
+	<string>iM_atra_reph-deva.04.glif</string>
 	<key>iMatra_reph-deva.05</key>
 	<string>iM_atra_reph-deva.05.glif</string>
+	<key>iMatra_reph-deva.06</key>
+	<string>iM_atra_reph-deva.06.glif</string>
+	<key>iMatra_reph-deva.07</key>
+	<string>iM_atra_reph-deva.07.glif</string>
+	<key>iMatra_reph-deva.08</key>
+	<string>iM_atra_reph-deva.08.glif</string>
+	<key>iMatra_reph-deva.09</key>
+	<string>iM_atra_reph-deva.09.glif</string>
 	<key>iMatra_reph-deva.10</key>
 	<string>iM_atra_reph-deva.10.glif</string>
+	<key>iMatra_reph-deva.11</key>
+	<string>iM_atra_reph-deva.11.glif</string>
+	<key>iMatra_reph-deva.12</key>
+	<string>iM_atra_reph-deva.12.glif</string>
+	<key>iMatra_reph-deva.13</key>
+	<string>iM_atra_reph-deva.13.glif</string>
+	<key>iMatra_reph-deva.14</key>
+	<string>iM_atra_reph-deva.14.glif</string>
 	<key>iMatra_reph-deva.15</key>
 	<string>iM_atra_reph-deva.15.glif</string>
-	<key>iMatra_reph-deva.20</key>
-	<string>iM_atra_reph-deva.20.glif</string>
-	<key>iMatra_reph-deva.25</key>
-	<string>iM_atra_reph-deva.25.glif</string>
-	<key>iMatra_reph-deva.30</key>
-	<string>iM_atra_reph-deva.30.glif</string>
-	<key>iMatra_reph-deva.35</key>
-	<string>iM_atra_reph-deva.35.glif</string>
-	<key>iMatra_reph-deva.40</key>
-	<string>iM_atra_reph-deva.40.glif</string>
-	<key>iMatra_reph-deva.45</key>
-	<string>iM_atra_reph-deva.45.glif</string>
-	<key>iMatra_reph-deva.50</key>
-	<string>iM_atra_reph-deva.50.glif</string>
-	<key>iMatra_reph-deva.60</key>
-	<string>iM_atra_reph-deva.60.glif</string>
-	<key>iMatra_reph-deva.70</key>
-	<string>iM_atra_reph-deva.70.glif</string>
-	<key>iMatra_reph-deva.80</key>
-	<string>iM_atra_reph-deva.80.glif</string>
-	<key>iMatra_reph-deva.90</key>
-	<string>iM_atra_reph-deva.90.glif</string>
-	<key>iMatra_reph-deva.95</key>
-	<string>iM_atra_reph-deva.95.glif</string>
 	<key>iMatra_reph_anusvara-deva</key>
 	<string>iM_atra_reph_anusvara-deva.glif</string>
-	<key>iMatra_reph_anusvara-deva.0</key>
-	<string>iM_atra_reph_anusvara-deva.0.glif</string>
+	<key>iMatra_reph_anusvara-deva.00</key>
+	<string>iM_atra_reph_anusvara-deva.00.glif</string>
+	<key>iMatra_reph_anusvara-deva.01</key>
+	<string>iM_atra_reph_anusvara-deva.01.glif</string>
+	<key>iMatra_reph_anusvara-deva.02</key>
+	<string>iM_atra_reph_anusvara-deva.02.glif</string>
+	<key>iMatra_reph_anusvara-deva.03</key>
+	<string>iM_atra_reph_anusvara-deva.03.glif</string>
+	<key>iMatra_reph_anusvara-deva.04</key>
+	<string>iM_atra_reph_anusvara-deva.04.glif</string>
 	<key>iMatra_reph_anusvara-deva.05</key>
 	<string>iM_atra_reph_anusvara-deva.05.glif</string>
+	<key>iMatra_reph_anusvara-deva.06</key>
+	<string>iM_atra_reph_anusvara-deva.06.glif</string>
+	<key>iMatra_reph_anusvara-deva.07</key>
+	<string>iM_atra_reph_anusvara-deva.07.glif</string>
+	<key>iMatra_reph_anusvara-deva.08</key>
+	<string>iM_atra_reph_anusvara-deva.08.glif</string>
+	<key>iMatra_reph_anusvara-deva.09</key>
+	<string>iM_atra_reph_anusvara-deva.09.glif</string>
 	<key>iMatra_reph_anusvara-deva.10</key>
 	<string>iM_atra_reph_anusvara-deva.10.glif</string>
+	<key>iMatra_reph_anusvara-deva.11</key>
+	<string>iM_atra_reph_anusvara-deva.11.glif</string>
+	<key>iMatra_reph_anusvara-deva.12</key>
+	<string>iM_atra_reph_anusvara-deva.12.glif</string>
+	<key>iMatra_reph_anusvara-deva.13</key>
+	<string>iM_atra_reph_anusvara-deva.13.glif</string>
+	<key>iMatra_reph_anusvara-deva.14</key>
+	<string>iM_atra_reph_anusvara-deva.14.glif</string>
 	<key>iMatra_reph_anusvara-deva.15</key>
 	<string>iM_atra_reph_anusvara-deva.15.glif</string>
-	<key>iMatra_reph_anusvara-deva.20</key>
-	<string>iM_atra_reph_anusvara-deva.20.glif</string>
-	<key>iMatra_reph_anusvara-deva.25</key>
-	<string>iM_atra_reph_anusvara-deva.25.glif</string>
-	<key>iMatra_reph_anusvara-deva.30</key>
-	<string>iM_atra_reph_anusvara-deva.30.glif</string>
-	<key>iMatra_reph_anusvara-deva.35</key>
-	<string>iM_atra_reph_anusvara-deva.35.glif</string>
-	<key>iMatra_reph_anusvara-deva.40</key>
-	<string>iM_atra_reph_anusvara-deva.40.glif</string>
-	<key>iMatra_reph_anusvara-deva.45</key>
-	<string>iM_atra_reph_anusvara-deva.45.glif</string>
-	<key>iMatra_reph_anusvara-deva.50</key>
-	<string>iM_atra_reph_anusvara-deva.50.glif</string>
-	<key>iMatra_reph_anusvara-deva.60</key>
-	<string>iM_atra_reph_anusvara-deva.60.glif</string>
-	<key>iMatra_reph_anusvara-deva.70</key>
-	<string>iM_atra_reph_anusvara-deva.70.glif</string>
-	<key>iMatra_reph_anusvara-deva.80</key>
-	<string>iM_atra_reph_anusvara-deva.80.glif</string>
-	<key>iMatra_reph_anusvara-deva.90</key>
-	<string>iM_atra_reph_anusvara-deva.90.glif</string>
-	<key>iMatra_reph_anusvara-deva.95</key>
-	<string>iM_atra_reph_anusvara-deva.95.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>ibreve</key>
@@ -752,16 +816,8 @@
 	<string>infinity.glif</string>
 	<key>integral</key>
 	<string>integral.glif</string>
-	<key>isign_ra_virama.ja</key>
-	<string>isign_ra_virama.ja.glif</string>
-	<key>isign_ra_virama_anusvara.ja</key>
-	<string>isign_ra_virama_anusvara.ja.glif</string>
-	<key>isigndeva.ja</key>
-	<string>isigndeva.ja.glif</string>
-	<key>isigndeva_anusvara.tha</key>
-	<string>isigndeva_anusvara.tha.glif</string>
-	<key>isigndeva_anusvaradeva.ja</key>
-	<string>isigndeva_anusvaradeva.ja.glif</string>
+	<key>invertedCandraBindu-deva</key>
+	<string>invertedC_andraB_indu-deva.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
 	<key>j-deva</key>
@@ -772,6 +828,8 @@
 	<string>j_compo_down.glif</string>
 	<key>j_ja-deva</key>
 	<string>j_ja-deva.glif</string>
+	<key>j_ny-deva</key>
+	<string>j_ny-deva.glif</string>
 	<key>j_nya-deva</key>
 	<string>j_nya-deva.glif</string>
 	<key>j_r-deva</key>
@@ -790,8 +848,10 @@
 	<string>jh_ra-deva.glif</string>
 	<key>jha-deva</key>
 	<string>jha-deva.glif</string>
-	<key>jha-deva.np</key>
-	<string>jha-deva.np.glif</string>
+	<key>jha-deva.loclNEP</key>
+	<string>jha-deva.loclN_E_P_.glif</string>
+	<key>jha_uMatra-deva</key>
+	<string>jha_uM_atra-deva.glif</string>
 	<key>jja-deva</key>
 	<string>jja-deva.glif</string>
 	<key>jjya-deva</key>
@@ -806,12 +866,14 @@
 	<string>k_la-deva.glif</string>
 	<key>k_ra-deva</key>
 	<string>k_ra-deva.glif</string>
+	<key>k_ra-deva.loclNEP</key>
+	<string>k_ra-deva.loclN_E_P_.glif</string>
 	<key>k_ss-deva</key>
 	<string>k_ss-deva.glif</string>
 	<key>k_ssa-deva</key>
 	<string>k_ssa-deva.glif</string>
-	<key>k_t_ta-deva</key>
-	<string>k_t_ta-deva.glif</string>
+	<key>k_ta-deva</key>
+	<string>k_ta-deva.glif</string>
 	<key>k_va-deva</key>
 	<string>k_va-deva.glif</string>
 	<key>ka-deva</key>
@@ -828,6 +890,8 @@
 	<string>kha-deva.glif</string>
 	<key>kha_compo</key>
 	<string>kha_compo.glif</string>
+	<key>khh-deva</key>
+	<string>khh-deva.glif</string>
 	<key>khha-deva</key>
 	<string>khha-deva.glif</string>
 	<key>l</key>
@@ -844,6 +908,8 @@
 	<string>l_ra-deva.glif</string>
 	<key>la-deva</key>
 	<string>la-deva.glif</string>
+	<key>la-deva.loclMAR</key>
+	<string>la-deva.loclM_A_R_.glif</string>
 	<key>la_compo</key>
 	<string>la_compo.glif</string>
 	<key>ldot</key>
@@ -914,6 +980,8 @@
 	<string>ndotaccent.glif</string>
 	<key>ndotbelow</key>
 	<string>ndotbelow.glif</string>
+	<key>ng-deva</key>
+	<string>ng-deva.glif</string>
 	<key>ng_ga-deva</key>
 	<string>ng_ga-deva.glif</string>
 	<key>ng_gha-deva</key>
@@ -930,6 +998,8 @@
 	<string>nine.glif</string>
 	<key>nine-deva</key>
 	<string>nine-deva.glif</string>
+	<key>nineCombiningDigit-deva</key>
+	<string>nineC_ombiningD_igit-deva.glif</string>
 	<key>nn-deva</key>
 	<string>nn-deva.glif</string>
 	<key>nn_ra-deva</key>
@@ -1004,6 +1074,8 @@
 	<string>one.glif</string>
 	<key>one-deva</key>
 	<string>one-deva.glif</string>
+	<key>oneCombiningDigit-deva</key>
+	<string>oneC_ombiningD_igit-deva.glif</string>
 	<key>onedotenleader</key>
 	<string>onedotenleader.glif</string>
 	<key>ooe-deva</key>
@@ -1068,6 +1140,8 @@
 	<string>product.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>q-deva</key>
+	<string>q-deva.glif</string>
 	<key>qa-deva</key>
 	<string>qa-deva.glif</string>
 	<key>question</key>
@@ -1140,10 +1214,14 @@
 	<string>rrV_ocalicM_atra-deva.glif</string>
 	<key>rra-deva</key>
 	<string>rra-deva.glif</string>
+	<key>rupeeIndian</key>
+	<string>rupeeI_ndian.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>s-deva</key>
 	<string>s-deva.glif</string>
+	<key>s_ra-deva</key>
+	<string>s_ra-deva.glif</string>
 	<key>sa-deva</key>
 	<string>sa-deva.glif</string>
 	<key>sarasa</key>
@@ -1168,34 +1246,54 @@
 	<string>seven.glif</string>
 	<key>seven-deva</key>
 	<string>seven-deva.glif</string>
+	<key>sevenCombiningDigit-deva</key>
+	<string>sevenC_ombiningD_igit-deva.glif</string>
 	<key>sh-deva</key>
 	<string>sh-deva.glif</string>
+	<key>sh-deva.loclMAR</key>
+	<string>sh-deva.loclM_A_R_.glif</string>
+	<key>sh-deva.ss02</key>
+	<string>sh-deva.ss02.glif</string>
+	<key>sh_ca-deva</key>
+	<string>sh_ca-deva.glif</string>
+	<key>sh_la-deva.loclMAR</key>
+	<string>sh_la-deva.loclM_A_R_.glif</string>
 	<key>sh_na-deva</key>
 	<string>sh_na-deva.glif</string>
+	<key>sh_r-deva</key>
+	<string>sh_r-deva.glif</string>
 	<key>sh_ra-deva</key>
 	<string>sh_ra-deva.glif</string>
 	<key>sh_va-deva</key>
 	<string>sh_va-deva.glif</string>
 	<key>sha-deva</key>
 	<string>sha-deva.glif</string>
-	<key>sha-deva.mr</key>
-	<string>sha-deva.mr.glif</string>
+	<key>sha-deva.loclMAR</key>
+	<string>sha-deva.loclM_A_R_.glif</string>
 	<key>sha_comp</key>
 	<string>sha_comp.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six-deva</key>
 	<string>six-deva.glif</string>
+	<key>sixCombiningDigit-deva</key>
+	<string>sixC_ombiningD_igit-deva.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
 	<key>softhyphen</key>
 	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>spacingcandraBindu-deva</key>
+	<string>spacingcandraB_indu-deva.glif</string>
 	<key>ss-deva</key>
 	<string>ss-deva.glif</string>
 	<key>ss_ra-deva</key>
 	<string>ss_ra-deva.glif</string>
+	<key>ss_tta-deva</key>
+	<string>ss_tta-deva.glif</string>
+	<key>ss_ttha-deva</key>
+	<string>ss_ttha-deva.glif</string>
 	<key>ssa-deva</key>
 	<string>ssa-deva.glif</string>
 	<key>summation</key>
@@ -1204,12 +1302,16 @@
 	<string>t.glif</string>
 	<key>t-deva</key>
 	<string>t-deva.glif</string>
+	<key>t_r-deva</key>
+	<string>t_r-deva.glif</string>
 	<key>t_r_ya-deva</key>
 	<string>t_r_ya-deva.glif</string>
 	<key>t_ra-deva</key>
 	<string>t_ra-deva.glif</string>
 	<key>t_ra-deva.alt</key>
 	<string>t_ra-deva.alt.glif</string>
+	<key>t_t-deva</key>
+	<string>t_t-deva.glif</string>
 	<key>t_ta-deva</key>
 	<string>t_ta-deva.glif</string>
 	<key>ta-deva</key>
@@ -1230,6 +1332,8 @@
 	<string>three.glif</string>
 	<key>three-deva</key>
 	<string>three-deva.glif</string>
+	<key>threeCombiningDigit-deva</key>
+	<string>threeC_ombiningD_igit-deva.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.i</key>
@@ -1238,6 +1342,8 @@
 	<string>tildecomb.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>tt-deva</key>
+	<string>tt-deva.glif</string>
 	<key>tt_compo</key>
 	<string>tt_compo.glif</string>
 	<key>tt_ddha-deva</key>
@@ -1256,6 +1362,8 @@
 	<string>tt_ya-deva.glif</string>
 	<key>tta-deva</key>
 	<string>tta-deva.glif</string>
+	<key>tth-deva</key>
+	<string>tth-deva.glif</string>
 	<key>tth_compo</key>
 	<string>tth_compo.glif</string>
 	<key>tth_na-deva</key>
@@ -1272,6 +1380,8 @@
 	<string>two.glif</string>
 	<key>two-deva</key>
 	<string>two-deva.glif</string>
+	<key>twoCombiningDigit-deva</key>
+	<string>twoC_ombiningD_igit-deva.glif</string>
 	<key>twodotenleader</key>
 	<string>twodotenleader.glif</string>
 	<key>u</key>
@@ -1310,6 +1420,8 @@
 	<string>v.glif</string>
 	<key>v-deva</key>
 	<string>v-deva.glif</string>
+	<key>v_ra-deva</key>
+	<string>v_ra-deva.glif</string>
 	<key>va-deva</key>
 	<string>va-deva.glif</string>
 	<key>va_compo</key>
@@ -1356,6 +1468,8 @@
 	<string>yya-deva.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>z-deva</key>
+	<string>z-deva.glif</string>
 	<key>za-deva</key>
 	<string>za-deva.glif</string>
 	<key>zdotbelow</key>
@@ -1364,7 +1478,15 @@
 	<string>zero.glif</string>
 	<key>zero-deva</key>
 	<string>zero-deva.glif</string>
+	<key>zeroCombiningDigit-deva</key>
+	<string>zeroC_ombiningD_igit-deva.glif</string>
+	<key>zerowidthjoiner</key>
+	<string>zerowidthjoiner.glif</string>
+	<key>zerowidthnonjoiner</key>
+	<string>zerowidthnonjoiner.glif</string>
 	<key>zha-deva</key>
 	<string>zha-deva.glif</string>
+	<key>zha-deva.loclNEP</key>
+	<string>zha-deva.loclN_E_P_.glif</string>
 </dict>
 </plist>

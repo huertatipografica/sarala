@@ -3,14 +3,12 @@
   <advance width="305"/>
   <outline>
     <component base="uni093F.05"/>
-    <component base="uni0930094D.imatra" xOffset="387" yOffset="110"/>
+    <component base="uni0930094D.imatra" xOffset="853" yOffset="126"/>
+    <contour>
+      <point x="1043" y="774" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="1043" y="774" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

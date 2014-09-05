@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva_anusvaradeva" format="1">
+  <advance width="474"/>
+  <outline>
+    <component base="aivowelsigndeva" xOffset="-12"/>
+    <component base="anusvaradeva" xOffset="388" yOffset="8"/>
+  </outline>
+</glyph>
