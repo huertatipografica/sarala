@@ -8,6 +8,9 @@
     <component base="anusvaradeva" xOffset="149" yOffset="109" xScale="0.89" yScale="0.89"/>
     <component base="uni0930094D" xOffset="-16" yOffset="11"/>
     <contour>
+      <point x="187" y="909" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="135" y="658" type="move" name="_top"/>
     </contour>
   </outline>

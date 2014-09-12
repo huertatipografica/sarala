@@ -8,6 +8,9 @@
     <component base="anusvaradeva" xOffset="102" yOffset="71" xScale="0.96" yScale="0.96"/>
     <component base="evowelsigndeva" xOffset="-138"/>
     <contour>
+      <point x="170" y="841" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="135" y="658" type="move" name="_top"/>
     </contour>
   </outline>

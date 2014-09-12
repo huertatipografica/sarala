@@ -5,6 +5,9 @@
     <component base="aivowelsigndeva"/>
     <component base="anusvaradeva" xOffset="388" yOffset="28"/>
     <contour>
+      <point x="208" y="908" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="367" y="658" type="move" name="_top"/>
     </contour>
   </outline>

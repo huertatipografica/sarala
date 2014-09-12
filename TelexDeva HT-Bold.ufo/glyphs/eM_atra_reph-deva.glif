@@ -29,6 +29,9 @@
     </contour>
     <component base="evowelsigndeva" xOffset="-9"/>
     <contour>
+      <point x="137" y="930" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="223" y="685" type="move" name="_top"/>
     </contour>
   </outline>

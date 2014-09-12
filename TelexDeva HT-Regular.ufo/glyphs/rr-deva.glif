@@ -19,10 +19,10 @@
       <point x="99" y="351" type="curve"/>
     </contour>
     <contour>
-      <point x="-20" y="654" type="line"/>
-      <point x="-20" y="579" type="line"/>
-      <point x="343" y="579" type="line"/>
-      <point x="343" y="654" type="line"/>
+      <point x="-20" y="658" type="line"/>
+      <point x="-20" y="583" type="line"/>
+      <point x="343" y="583" type="line"/>
+      <point x="343" y="658" type="line"/>
     </contour>
   </outline>
 </glyph>

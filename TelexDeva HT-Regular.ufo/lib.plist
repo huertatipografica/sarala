@@ -55,6 +55,12 @@
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
 		<integer>37</integer>
+		<key>angle</key>
+		<real>20</real>
+		<key>height</key>
+		<real>6</real>
+		<key>width</key>
+		<real>30</real>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>1F129262-9FF8-4ACC-8B99-7525E28401AB</string>
@@ -396,14 +402,18 @@
 		<string>d_na-deva</string>
 		<string>d_na_uMatra-deva</string>
 		<string>d_ba-deva</string>
+		<string>d_ba_uMatra-deva</string>
 		<string>d_b_ra-deva</string>
 		<string>d_bha-deva</string>
+		<string>d_bha_uMatra-deva</string>
 		<string>d_bh_ya-deva</string>
 		<string>d_ma-deva</string>
 		<string>d_ya-deva</string>
 		<string>d_ra-deva</string>
+		<string>d_ra_uMatra-deva</string>
 		<string>d_r_ya-deva</string>
 		<string>d_va-deva</string>
+		<string>d_va_uMatra-deva</string>
 		<string>d_v_ya-deva</string>
 		<string>d_rVocalicMatra-deva</string>
 		<string>dh_ra-deva</string>
@@ -420,6 +430,7 @@
 		<string>bh_ra-deva</string>
 		<string>m_ra-deva</string>
 		<string>y_ra-deva</string>
+		<string>ra_uMatra-deva</string>
 		<string>l_ra-deva</string>
 		<string>l_la-deva</string>
 		<string>v_ra-deva</string>
@@ -431,6 +442,7 @@
 		<string>ss_ttha-deva</string>
 		<string>ss_ra-deva</string>
 		<string>s_ra-deva</string>
+		<string>ha_uMatra-deva</string>
 		<string>h_rVocalic-deva</string>
 		<string>h_nna-deva</string>
 		<string>h_na-deva</string>
@@ -539,6 +551,9 @@
 		<string>iMatra-deva.01</string>
 		<string>iMatra_reph-deva.01</string>
 		<string>iMatra_reph_anusvara-deva.01</string>
+		<string>iiMatra-deva.01</string>
+		<string>iiMatra_reph-deva.01</string>
+		<string>iiMatra_reph_anusvara-deva.01</string>
 		<string>iMatra-deva.02</string>
 		<string>iMatra_reph-deva.02</string>
 		<string>iMatra_reph_anusvara-deva.02</string>
@@ -809,6 +824,8 @@
 		<string>sevenCombiningDigit-deva</string>
 		<string>eightCombiningDigit-deva</string>
 		<string>nineCombiningDigit-deva</string>
+		<string>temp</string>
+		<string>temp.001</string>
 	</array>
 </dict>
 </plist>

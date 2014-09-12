@@ -4,8 +4,8 @@
   <unicode hex="0979"/>
   <outline>
     <component base="jadeva"/>
-    <component base="anusvaradeva" xOffset="183" yOffset="-940"/>
-    <component base="anusvaradeva" xOffset="94" yOffset="-796"/>
-    <component base="anusvaradeva" xOffset="272" yOffset="-796"/>
+    <component base="anusvaradeva" xOffset="183" yOffset="-960"/>
+    <component base="anusvaradeva" xOffset="74" yOffset="-796"/>
+    <component base="anusvaradeva" xOffset="292" yOffset="-796"/>
   </outline>
 </glyph>

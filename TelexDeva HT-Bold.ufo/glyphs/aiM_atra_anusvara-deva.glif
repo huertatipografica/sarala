@@ -4,5 +4,8 @@
   <outline>
     <component base="aivowelsigndeva" xOffset="-12"/>
     <component base="anusvaradeva" xOffset="388" yOffset="8"/>
+    <contour>
+      <point x="213" y="930" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

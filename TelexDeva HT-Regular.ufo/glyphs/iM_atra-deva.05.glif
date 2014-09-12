@@ -40,7 +40,7 @@
       <point x="1043" y="774" type="move" name="imatra"/>
     </contour>
     <contour>
-      <point x="1043" y="774" type="move" name="top"/>
+      <point x="1043" y="854" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

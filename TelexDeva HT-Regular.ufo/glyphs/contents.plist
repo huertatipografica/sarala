@@ -384,10 +384,14 @@
 	<string>d_b_ra-deva.glif</string>
 	<key>d_ba-deva</key>
 	<string>d_ba-deva.glif</string>
+	<key>d_ba_uMatra-deva</key>
+	<string>d_ba_uM_atra-deva.glif</string>
 	<key>d_bh_ya-deva</key>
 	<string>d_bh_ya-deva.glif</string>
 	<key>d_bha-deva</key>
 	<string>d_bha-deva.glif</string>
+	<key>d_bha_uMatra-deva</key>
+	<string>d_bha_uM_atra-deva.glif</string>
 	<key>d_d_ya-deva</key>
 	<string>d_d_ya-deva.glif</string>
 	<key>d_da-deva</key>
@@ -422,10 +426,14 @@
 	<string>d_r_ya-deva.glif</string>
 	<key>d_ra-deva</key>
 	<string>d_ra-deva.glif</string>
+	<key>d_ra_uMatra-deva</key>
+	<string>d_ra_uM_atra-deva.glif</string>
 	<key>d_v_ya-deva</key>
 	<string>d_v_ya-deva.glif</string>
 	<key>d_va-deva</key>
 	<string>d_va-deva.glif</string>
+	<key>d_va_uMatra-deva</key>
+	<string>d_va_uM_atra-deva.glif</string>
 	<key>d_ya-deva</key>
 	<string>d_ya-deva.glif</string>
 	<key>da-deva</key>
@@ -672,6 +680,8 @@
 	<string>ha-deva.glif</string>
 	<key>ha-deva.alt</key>
 	<string>ha-deva.alt.glif</string>
+	<key>ha_uMatra-deva</key>
+	<string>ha_uM_atra-deva.glif</string>
 	<key>halant-deva</key>
 	<string>halant-deva.glif</string>
 	<key>halant-deva_ra-deva_alt</key>
@@ -806,10 +816,16 @@
 	<string>ii-deva.glif</string>
 	<key>iiMatra-deva</key>
 	<string>iiM_atra-deva.glif</string>
+	<key>iiMatra-deva.01</key>
+	<string>iiM_atra-deva.01.glif</string>
 	<key>iiMatra_reph-deva</key>
 	<string>iiM_atra_reph-deva.glif</string>
+	<key>iiMatra_reph-deva.01</key>
+	<string>iiM_atra_reph-deva.01.glif</string>
 	<key>iiMatra_reph_anusvara-deva</key>
 	<string>iiM_atra_reph_anusvara-deva.glif</string>
+	<key>iiMatra_reph_anusvara-deva.01</key>
+	<string>iiM_atra_reph_anusvara-deva.01.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>infinity</key>
@@ -1174,6 +1190,8 @@
 	<string>ra-deva.glif</string>
 	<key>ra-linea</key>
 	<string>ra-linea.glif</string>
+	<key>ra_uMatra-deva</key>
+	<string>ra_uM_atra-deva.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
 	<key>rakar-deva</key>
@@ -1320,6 +1338,10 @@
 	<string>tdieresis.glif</string>
 	<key>tdotbelow</key>
 	<string>tdotbelow.glif</string>
+	<key>temp</key>
+	<string>temp.glif</string>
+	<key>temp.001</key>
+	<string>temp.001.glif</string>
 	<key>th-deva</key>
 	<string>th-deva.glif</string>
 	<key>th_ra-deva</key>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0926094D_radeva_uvowelsignde" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="214" y="-114" type="line"/>
+      <point x="275" y="-170"/>
+      <point x="348" y="-195"/>
+      <point x="417" y="-195" type="curve" smooth="yes"/>
+      <point x="517" y="-195"/>
+      <point x="601" y="-149"/>
+      <point x="601" y="-49" type="curve" smooth="yes"/>
+      <point x="601" y="28"/>
+      <point x="529" y="72"/>
+      <point x="452" y="72" type="curve" smooth="yes"/>
+      <point x="414" y="72"/>
+      <point x="369" y="54"/>
+      <point x="331" y="28" type="curve"/>
+      <point x="368" y="-31" type="line"/>
+      <point x="405" y="-9"/>
+      <point x="421" y="-2"/>
+      <point x="450" y="-2" type="curve" smooth="yes"/>
+      <point x="497" y="-2"/>
+      <point x="517" y="-26"/>
+      <point x="517" y="-56" type="curve" smooth="yes"/>
+      <point x="517" y="-104"/>
+      <point x="470" y="-121"/>
+      <point x="417" y="-121" type="curve" smooth="yes"/>
+      <point x="366" y="-121"/>
+      <point x="315" y="-103"/>
+      <point x="272" y="-67" type="curve"/>
+    </contour>
+    <component base="uni0926094D_radeva"/>
+    <contour>
+      <point x="380" y="658" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -8,6 +8,9 @@
     <component base="evowelsigndeva_uni0930094D"/>
     <component base="anusvaradeva" xOffset="160" yOffset="-14"/>
     <contour>
+      <point x="57" y="908" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="135" y="658" type="move" name="_top"/>
     </contour>
   </outline>
