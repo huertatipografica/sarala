@@ -6,6 +6,9 @@
     <component base="uni093E"/>
     <component base="evowelsigndeva" xOffset="-64"/>
     <contour>
+      <point x="169" y="685" type="move" name="imatra"/>
+    </contour>
+    <contour>
       <point x="257" y="755" type="move" name="top"/>
     </contour>
   </outline>

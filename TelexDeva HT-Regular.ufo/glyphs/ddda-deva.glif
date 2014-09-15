@@ -10,5 +10,11 @@
       <point x="50" y="0" type="line"/>
     </contour>
     <component base="ddadeva"/>
+    <contour>
+      <point x="404" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="299" y="-76" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

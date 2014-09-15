@@ -4,7 +4,7 @@
   <unicode hex="0914"/>
   <outline>
     <component base="aadeva"/>
-    <component base="aivowelsigndeva" xOffset="521"/>
+    <component base="aivowelsigndeva" xOffset="529"/>
     <contour>
       <point x="527" y="658" type="move" name="top"/>
     </contour>

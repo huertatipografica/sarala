@@ -244,6 +244,18 @@ sub sa-deva halant-deva ra-deva by s_ra-deva;
 sub ha-deva halant-deva ra-deva by h_ra-deva;
 } rkrf;
 
+feature blwf {
+# Not by default
+sub rakar-deva uMatra-deva by rakar_uMatra-deva;
+sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
+sub ha-deva rakar-deva by h_ra-deva;
+sub halant-deva ra-deva by rakar-deva;
+sub ra-deva halant-deva by rakar-deva;
+sub da-deva rVocalicMatra-deva by d_rVocalicMatra-deva;
+sub ha-deva rVocalicMatra-deva by ha_rVocalicMatra-deva;
+#sub sha-deva halant-deva rVocalicMatra-deva by sh_rVocalic-deva;
+} blwf;
+
 feature half {
 # automatic
 sub ka-deva halant-deva by k-deva;
@@ -296,6 +308,69 @@ sub ghha-deva halant-deva by ghh-deva;
 sub za-deva halant-deva by z-deva;
 sub sha-deva.loclMAR halant-deva by sh-deva.loclMAR;
 } half;
+
+feature vatu {
+# Not by default
+# sub da-deva    halant-deva dha-deva    halant-deva ra-deva     halant-deva ya-deva by d_dh_r_ya-deva;
+# sub d-deva     dha-deva    halant-deva ra-deva     halant-deva ya-deva     by      d_dh_r_ya-deva;
+# sub d_dha-deva halant-deva ra-deva     halant-deva ya-deva     by          d_dh_r_ya-deva;
+# sub d-deva     dh-deva     ra-deva     halant-deva ya-deva     by          d_dh_r_ya-deva;
+# sub da-deva    halant-deva dh-deva     ra-deva     halant-deva ya-deva     by      d_dh_r_ya-deva;
+# 
+# sub ka-deva    halant-deva ssa-deva    halant-deva ra-deva     by k_ss_ra-deva;
+# sub k_ssa-deva halant-deva ra-deva     by          k_ss_ra-deva;
+# sub k-deva     ss-deva     ra-deva     by          k_ss_ra-deva;
+# 
+# sub ja-deva    halant-deva nya-deva    halant-deva ra-deva     by j_ny_ra-deva;
+# sub j_nya-deva halant-deva ra-deva     by          j_ny_ra-deva;
+# sub j-deva     ny-deva     ra-deva     by          j_ny_ra-deva;
+# 
+# sub sa-deva    halant-deva ta-deva     halant-deva ra-deva     by s_t_ra-deva;
+# sub s-deva     t-deva      ra-deva     by          s_t_ra-deva;
+
+sub ka-deva    halant-deva ra-deva     by          k_ra-deva;
+sub kha-deva   halant-deva ra-deva     by          kh_ra-deva;
+sub ga-deva    halant-deva ra-deva     by          g_ra-deva;
+sub gha-deva   halant-deva ra-deva     by          gh_ra-deva;
+sub ca-deva    halant-deva ra-deva     by          c_ra-deva;
+sub ja-deva    halant-deva ra-deva     by          j_ra-deva;
+sub jha-deva   halant-deva ra-deva     by          jh_ra-deva;
+sub nya-deva   halant-deva ra-deva     by          ny_ra-deva;
+sub nna-deva   halant-deva ra-deva     by          nn_ra-deva;
+sub ta-deva    halant-deva ra-deva     by          t_ra-deva;
+sub tha-deva   halant-deva ra-deva     by          th_ra-deva;
+sub da-deva    halant-deva ra-deva     by          d_ra-deva;
+sub dha-deva   halant-deva ra-deva     by          dh_ra-deva;
+sub na-deva    halant-deva ra-deva     by          n_ra-deva;
+sub pa-deva    halant-deva ra-deva     by          p_ra-deva;
+sub pha-deva   halant-deva ra-deva     by          ph_ra-deva;
+sub ba-deva    halant-deva ra-deva     by          b_ra-deva;
+sub bha-deva   halant-deva ra-deva     by          bh_ra-deva;
+sub ma-deva    halant-deva ra-deva     by          m_ra-deva;
+sub ya-deva    halant-deva ra-deva     by          y_ra-deva;
+sub la-deva    halant-deva ra-deva     by          l_ra-deva;
+sub va-deva    halant-deva ra-deva     by          v_ra-deva;
+sub sha-deva   halant-deva ra-deva     by          sh_ra-deva;
+sub ssa-deva   halant-deva ra-deva     by          ss_ra-deva;
+sub sa-deva    halant-deva ra-deva     by          s_ra-deva;
+sub ha-deva    halant-deva ra-deva     by          h_ra-deva;
+# sub fa-deva    halant-deva ra-deva     by          f_ra-deva;
+
+sub tta-deva halant-deva' ra-deva' by rakar-deva;
+sub tta-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+sub ttha-deva halant-deva' ra-deva' by rakar-deva;
+sub ttha-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+sub dda-deva halant-deva' ra-deva' by rakar-deva;
+sub dda-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+sub ddha-deva halant-deva' ra-deva' by rakar-deva;
+sub ddha-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+sub cha-deva halant-deva' ra-deva' by rakar-deva;
+sub cha-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+sub nga-deva halant-deva' ra-deva' by rakar-deva;
+sub nga-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+sub lla-deva halant-deva' ra-deva' by rakar-deva;
+sub lla-deva nukta-deva halant-deva' ra-deva' by rakar-deva;
+} vatu;
 
 feature cjct {
 # automatic
@@ -405,10 +480,10 @@ sub auMatra-deva reph-deva by auMatra_reph-deva;
 sub auMatra-deva reph-deva anusvara-deva by auMatra_reph_anusvara-deva;
 sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
 sub eMatra-deva reph-deva by eMatra_reph-deva;
-sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub eMatra_anusvara-deva reph-deva by eMatra_reph_anusvara-deva;
 sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
 sub aiMatra-deva reph-deva by aiMatra_reph-deva;
-sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub aiMatra_anusvara-deva reph-deva by aiMatra_reph_anusvara-deva;
 sub reph-deva anusvara-deva by reph_anusvara-deva;
 sub rakar-deva uMatra-deva by rakar_uMatra-deva;
 sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
@@ -431,19 +506,16 @@ sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva' lookup removeR
 sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
 
 #utiliza un candraBindu alternativo en iMatra
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva candraBindu-deva' by candraBindu-deva.alt;
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva candraBindu-deva' by candraBindu-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
 
 #utiliza un anusvara alternativo en iMatra
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva anusvara-deva' by anusvara-deva.alt;
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva anusvara-deva' by anusvara-deva.alt;
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
-# sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
-
-#candraBindu y anusvara alternativo despues de reph
-# sub [reph-deva reph_anusvara-deva] [candraBindu-deva anusvara-deva]' by [candraBindu-deva.alt anusvara-deva.alt];
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva anusvara-deva' by anusvara-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva anusvara-deva' by anusvara-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
 
 # END Above-Base Substitutions
 } abvs;

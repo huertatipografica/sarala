@@ -39,5 +39,8 @@
       <point x="-207" y="871" type="curve"/>
     </contour>
     <component base="uni093E"/>
+    <contour>
+      <point x="174" y="923" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

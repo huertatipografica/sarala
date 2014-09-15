@@ -58,5 +58,11 @@
       <point x="47" y="48" type="curve" smooth="yes"/>
     </contour>
     <component base="da-deva-compo" xOffset="105"/>
+    <contour>
+      <point x="515" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="311" y="-209" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

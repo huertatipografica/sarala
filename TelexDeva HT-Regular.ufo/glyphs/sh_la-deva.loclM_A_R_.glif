@@ -37,5 +37,11 @@
       <point x="275" y="661" type="curve" smooth="yes"/>
     </contour>
     <component base="uni0932.loclMAR" xOffset="471"/>
+    <contour>
+      <point x="995" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="849" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

@@ -25,6 +25,9 @@
       <point x="190" y="590" type="curve"/>
     </contour>
     <contour>
+      <point x="260" y="660" type="move" name="imatra"/>
+    </contour>
+    <contour>
       <point x="197" y="929" type="move" name="top"/>
     </contour>
     <contour>

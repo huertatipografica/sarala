@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0936094D_vadeva" format="1">
-  <advance width="828"/>
+  <advance width="837"/>
   <outline>
     <contour>
-      <point x="599" y="10" type="line"/>
-      <point x="599" y="-60" type="line"/>
-      <point x="734" y="-60" type="line"/>
-      <point x="734" y="10" type="line"/>
+      <point x="608" y="10" type="line"/>
+      <point x="608" y="-60" type="line"/>
+      <point x="743" y="-60" type="line"/>
+      <point x="743" y="10" type="line"/>
     </contour>
     <contour>
-      <point x="608" y="-14"/>
-      <point x="673" y="29"/>
-      <point x="719" y="73" type="curve"/>
-      <point x="683" y="222" type="line"/>
-      <point x="652" y="161"/>
-      <point x="599" y="92"/>
-      <point x="524" y="92" type="curve" smooth="yes"/>
-      <point x="477" y="92"/>
-      <point x="448" y="113"/>
-      <point x="448" y="160" type="curve" smooth="yes"/>
-      <point x="448" y="205"/>
-      <point x="487" y="240"/>
-      <point x="534" y="254" type="curve"/>
-      <point x="388" y="297" type="line"/>
-      <point x="340" y="269"/>
-      <point x="313" y="222"/>
-      <point x="313" y="160" type="curve" smooth="yes"/>
-      <point x="313" y="43"/>
-      <point x="396" y="-12"/>
-      <point x="513" y="-13" type="curve" smooth="yes"/>
+      <point x="617" y="-14"/>
+      <point x="682" y="29"/>
+      <point x="728" y="73" type="curve"/>
+      <point x="692" y="222" type="line"/>
+      <point x="661" y="161"/>
+      <point x="608" y="92"/>
+      <point x="533" y="92" type="curve" smooth="yes"/>
+      <point x="486" y="92"/>
+      <point x="457" y="113"/>
+      <point x="457" y="160" type="curve" smooth="yes"/>
+      <point x="457" y="205"/>
+      <point x="496" y="240"/>
+      <point x="543" y="254" type="curve"/>
+      <point x="397" y="297" type="line"/>
+      <point x="349" y="269"/>
+      <point x="322" y="222"/>
+      <point x="322" y="160" type="curve" smooth="yes"/>
+      <point x="322" y="43"/>
+      <point x="405" y="-12"/>
+      <point x="522" y="-13" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni093E" xOffset="494"/>
-    <component base="uni0936094D.ss02" xOffset="9"/>
+    <component base="uni093E" xOffset="503"/>
+    <component base="uni0936094D.ss02" xOffset="18"/>
     <contour>
-      <point x="667" y="685" type="move" name="top"/>
+      <point x="676" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="667" y="0" type="move" name="bottom"/>
+      <point x="676" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

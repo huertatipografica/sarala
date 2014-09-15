@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0936094D_radeva" format="1">
-  <advance width="828"/>
+  <advance width="827"/>
   <outline>
     <contour>
-      <point x="245" y="32" type="line"/>
-      <point x="326" y="-55" type="line"/>
-      <point x="609" y="184" type="line"/>
-      <point x="609" y="330" type="line"/>
+      <point x="244" y="32" type="line"/>
+      <point x="325" y="-55" type="line"/>
+      <point x="608" y="184" type="line"/>
+      <point x="608" y="330" type="line"/>
     </contour>
-    <component base="uni093E" xOffset="494"/>
-    <component base="uni0936094D.ss02" xOffset="19"/>
+    <component base="uni093E" xOffset="493"/>
+    <component base="uni0936094D.ss02" xOffset="18"/>
     <contour>
-      <point x="667" y="685" type="move" name="top"/>
+      <point x="666" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="667" y="0" type="move" name="bottom"/>
+      <point x="666" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

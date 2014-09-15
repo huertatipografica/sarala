@@ -6,9 +6,9 @@
   </note>
   <outline>
     <component base="uni0940"/>
-    <component base="uni0930094D.imatra" xOffset="36"/>
+    <component base="uni0930094D.imatra" xOffset="3" yOffset="10"/>
     <contour>
-      <point x="185" y="658" type="move" name="top"/>
+      <point x="185" y="908" type="move" name="top"/>
     </contour>
     <contour>
       <point x="166" y="0" type="move" name="bottom"/>

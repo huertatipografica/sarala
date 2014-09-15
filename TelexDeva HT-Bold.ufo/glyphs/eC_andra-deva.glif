@@ -6,7 +6,7 @@
     <component base="edeva"/>
     <component base="ecandravowelsigndeva" xOffset="264"/>
     <contour>
-      <point x="460" y="685" type="move" name="top"/>
+      <point x="460" y="862" type="move" name="top"/>
     </contour>
     <contour>
       <point x="270" y="0" type="move" name="bottom"/>

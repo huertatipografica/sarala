@@ -59,7 +59,7 @@
       <point x="176" y="606" type="line"/>
     </contour>
     <contour>
-      <point x="229" y="505" type="move" name="top"/>
+      <point x="234" y="685" type="move" name="top"/>
     </contour>
     <contour>
       <point x="229" y="0" type="move" name="bottom"/>

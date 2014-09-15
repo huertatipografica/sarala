@@ -6,10 +6,10 @@
     <component base="adeva"/>
     <component base="eshortvowelsigndeva" xOffset="282"/>
     <contour>
-      <point x="300" y="685" type="move" name="top"/>
+      <point x="668" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="668" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

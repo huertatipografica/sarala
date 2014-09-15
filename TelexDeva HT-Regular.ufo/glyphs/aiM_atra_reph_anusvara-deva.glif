@@ -8,7 +8,7 @@
     <component base="anusvaradeva" xOffset="207" yOffset="86" xScale="0.89" yScale="0.89"/>
     <component base="aivowelsigndeva_uni0930094D"/>
     <contour>
-      <point x="242" y="908" type="move" name="top"/>
+      <point x="117" y="928" type="move" name="top"/>
     </contour>
     <contour>
       <point x="145" y="658" type="move" name="_top"/>

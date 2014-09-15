@@ -28,19 +28,12 @@
       <point x="382" y="156" type="curve"/>
     </contour>
     <contour>
-      <point x="492" y="-187" type="line"/>
-      <point x="329" y="-60" type="line"/>
       <point x="258" y="-100" type="line"/>
       <point x="444" y="-245" type="line"/>
+      <point x="492" y="-187" type="line"/>
+      <point x="329" y="-60" type="line"/>
     </contour>
     <contour>
-      <point x="217" y="78" type="line"/>
-      <point x="348" y="84"/>
-      <point x="451" y="120"/>
-      <point x="451" y="229" type="curve" smooth="yes"/>
-      <point x="451" y="324"/>
-      <point x="378" y="362"/>
-      <point x="283" y="362" type="curve" smooth="yes"/>
       <point x="234" y="362"/>
       <point x="193" y="353"/>
       <point x="142" y="336" type="curve"/>
@@ -54,6 +47,13 @@
       <point x="373" y="164"/>
       <point x="281" y="152"/>
       <point x="198" y="149" type="curve"/>
+      <point x="217" y="78" type="line"/>
+      <point x="348" y="84"/>
+      <point x="451" y="120"/>
+      <point x="451" y="229" type="curve" smooth="yes"/>
+      <point x="451" y="324"/>
+      <point x="378" y="362"/>
+      <point x="283" y="362" type="curve" smooth="yes"/>
     </contour>
     <component base="candrabindudeva" xOffset="74" yOffset="-305"/>
   </outline>

@@ -302,6 +302,8 @@
 	<string>bha-deva.glif</string>
 	<key>bindu-deva</key>
 	<string>bindu-deva.glif</string>
+	<key>borrar</key>
+	<string>borrar.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -680,12 +682,12 @@
 	<string>ha-deva.glif</string>
 	<key>ha-deva.alt</key>
 	<string>ha-deva.alt.glif</string>
+	<key>ha_rVocalicMatra-deva</key>
+	<string>ha_rV_ocalicM_atra-deva.glif</string>
 	<key>ha_uMatra-deva</key>
 	<string>ha_uM_atra-deva.glif</string>
 	<key>halant-deva</key>
 	<string>halant-deva.glif</string>
-	<key>halant-deva_ra-deva_alt</key>
-	<string>halant-deva_ra-deva_alt.glif</string>
 	<key>halfspace</key>
 	<string>halfspace.glif</string>
 	<key>hcircumflex</key>
@@ -1188,8 +1190,6 @@
 	<string>rV_ocalicM_atra-deva.glif</string>
 	<key>ra-deva</key>
 	<string>ra-deva.glif</string>
-	<key>ra-linea</key>
-	<string>ra-linea.glif</string>
 	<key>ra_uMatra-deva</key>
 	<string>ra_uM_atra-deva.glif</string>
 	<key>radical</key>
@@ -1242,8 +1242,6 @@
 	<string>s_ra-deva.glif</string>
 	<key>sa-deva</key>
 	<string>sa-deva.glif</string>
-	<key>sarasa</key>
-	<string>sarasa.glif</string>
 	<key>schwa</key>
 	<string>schwa.glif</string>
 	<key>scircumflex</key>
@@ -1450,8 +1448,6 @@
 	<string>va_compo.glif</string>
 	<key>visarga-deva</key>
 	<string>visarga-deva.glif</string>
-	<key>vt_ra-deva</key>
-	<string>vt_ra-deva.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>wacute</key>

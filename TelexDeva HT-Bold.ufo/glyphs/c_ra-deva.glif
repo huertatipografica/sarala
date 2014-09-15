@@ -10,10 +10,10 @@
     </contour>
     <component base="cadeva"/>
     <contour>
-      <point x="371" y="685" type="move" name="top"/>
+      <point x="542" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="371" y="0" type="move" name="bottom"/>
+      <point x="542" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

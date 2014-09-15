@@ -14,9 +14,9 @@
       <point x="477" y="130"/>
       <point x="456" y="194" type="curve"/>
       <point x="345" y="154" type="line"/>
-      <point x="390" y="70"/>
-      <point x="417" y="28"/>
-      <point x="463" y="-22" type="curve"/>
+      <point x="388" y="74"/>
+      <point x="416" y="35"/>
+      <point x="470" y="-8" type="curve"/>
     </contour>
     <component base="rvocalicvowelsigndeva" xOffset="318" yOffset="25"/>
     <component base="da-deva-compo" xOffset="18"/>

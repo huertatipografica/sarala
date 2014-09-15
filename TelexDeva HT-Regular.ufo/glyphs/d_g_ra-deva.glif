@@ -10,10 +10,10 @@
     </contour>
     <component base="uni0926094D_gadeva" xOffset="3"/>
     <contour>
-      <point x="285" y="512" type="move" name="top"/>
+      <point x="392" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="285" y="0" type="move" name="bottom"/>
+      <point x="423" y="-30" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

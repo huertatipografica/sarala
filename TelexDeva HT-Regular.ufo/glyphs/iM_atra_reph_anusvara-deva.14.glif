@@ -3,12 +3,15 @@
   <advance width="305"/>
   <outline>
     <component base="uni093F.14"/>
-    <component base="uni0930094D_anusvaradeva.imatra" xOffset="1877" yOffset="161"/>
+    <component base="uni0930094D_anusvaradeva.imatra" xOffset="1893" yOffset="151"/>
     <contour>
       <point x="2030" y="809" type="move" name="imatra"/>
     </contour>
     <contour>
-      <point x="2030" y="809" type="move" name="top"/>
+      <point x="153" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2030" y="1020" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

@@ -3,6 +3,12 @@
   <advance width="698"/>
   <outline>
     <contour>
+      <point x="124" y="32" type="line"/>
+      <point x="205" y="-55" type="line"/>
+      <point x="488" y="184" type="line"/>
+      <point x="488" y="330" type="line"/>
+    </contour>
+    <contour>
       <point x="49" y="467"/>
       <point x="38" y="422"/>
       <point x="38" y="381" type="curve" smooth="yes"/>
@@ -22,23 +28,20 @@
       <point x="94" y="467" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="-5" y="685" type="line"/>
       <point x="-5" y="575" type="line"/>
       <point x="703" y="575" type="line"/>
       <point x="703" y="685" type="line"/>
-      <point x="-5" y="685" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="32" type="line"/>
-      <point x="205" y="-55" type="line"/>
-      <point x="488" y="184" type="line"/>
-      <point x="488" y="330" type="line"/>
     </contour>
     <component base="uni093E" xOffset="364"/>
     <contour>
-      <point x="526" y="685" type="move" name="top"/>
+      <point x="47" y="124" type="move" name="nukta"/>
     </contour>
     <contour>
-      <point x="526" y="0" type="move" name="bottom"/>
+      <point x="537" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="526" y="685" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

@@ -22,10 +22,10 @@
       <point x="94" y="467" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="-5" y="575" type="line"/>
-      <point x="703" y="575" type="line"/>
-      <point x="703" y="685" type="line"/>
-      <point x="-5" y="685" type="line"/>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="718" y="575" type="line"/>
+      <point x="718" y="685" type="line"/>
     </contour>
     <component base="uni093E" xOffset="364"/>
     <component base="na_compo_down" xOffset="84" yOffset="-70"/>

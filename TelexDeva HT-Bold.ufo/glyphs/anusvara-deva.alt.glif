@@ -2,7 +2,7 @@
 <glyph name="anusvaradeva.alt" format="1">
   <advance width="252"/>
   <outline>
-    <component base="nuktadeva" yOffset="1099"/>
+    <component base="anusvaradeva" yOffset="236"/>
     <contour>
       <point x="125" y="675" type="move" name="_top"/>
     </contour>

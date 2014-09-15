@@ -33,10 +33,13 @@
     </contour>
     <component base="uni093E"/>
     <contour>
-      <point x="185" y="658" type="move" name="top"/>
+      <point x="193" y="658" type="move" name="imatra"/>
     </contour>
     <contour>
-      <point x="166" y="0" type="move" name="bottom"/>
+      <point x="151" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="165" y="813" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

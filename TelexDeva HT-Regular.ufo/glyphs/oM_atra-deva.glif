@@ -4,9 +4,12 @@
   <unicode hex="094B"/>
   <outline>
     <component base="uni093E"/>
-    <component base="evowelsigndeva" xOffset="-124"/>
+    <component base="evowelsigndeva" xOffset="-123"/>
     <contour>
-      <point x="153" y="658" type="move" name="top"/>
+      <point x="153" y="658" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="219" y="744" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

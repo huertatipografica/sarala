@@ -3,6 +3,12 @@
   <advance width="600"/>
   <outline>
     <component base="ddhadeva"/>
-    <component base="viramadeva" xOffset="189"/>
+    <component base="viramadeva" xOffset="196"/>
+    <contour>
+      <point x="416" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

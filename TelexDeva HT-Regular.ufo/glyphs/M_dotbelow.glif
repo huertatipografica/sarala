@@ -18,9 +18,9 @@
       <point x="143" y="707" type="line"/>
       <point x="49" y="0" type="line"/>
       <point x="131" y="0" type="line"/>
-      <point x="179" y="358" type="line" smooth="yes"/>
-      <point x="189" y="436"/>
-      <point x="199" y="524"/>
+      <point x="179" y="358" type="line"/>
+      <point x="189" y="439"/>
+      <point x="199" y="521"/>
       <point x="209" y="602" type="curve"/>
       <point x="213" y="595"/>
       <point x="257" y="448"/>

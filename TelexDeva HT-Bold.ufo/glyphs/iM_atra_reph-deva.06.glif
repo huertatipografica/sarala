@@ -8,10 +8,10 @@
       <point x="1268" y="821" type="move" name="imatra"/>
     </contour>
     <contour>
-      <point x="182" y="0" type="move" name="bottom"/>
+      <point x="161" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="1268" y="821" type="move" name="top"/>
+      <point x="1254" y="1136" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

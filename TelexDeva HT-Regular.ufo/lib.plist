@@ -56,11 +56,11 @@
 		<key>GSOffsetVertical</key>
 		<integer>37</integer>
 		<key>angle</key>
-		<real>20</real>
+		<integer>20</integer>
 		<key>height</key>
-		<real>6</real>
+		<integer>6</integer>
 		<key>width</key>
-		<real>30</real>
+		<integer>30</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>1F129262-9FF8-4ACC-8B99-7525E28401AB</string>
@@ -443,6 +443,7 @@
 		<string>ss_ra-deva</string>
 		<string>s_ra-deva</string>
 		<string>ha_uMatra-deva</string>
+		<string>ha_rVocalicMatra-deva</string>
 		<string>h_rVocalic-deva</string>
 		<string>h_nna-deva</string>
 		<string>h_na-deva</string>
@@ -760,7 +761,6 @@
 		<string>aiMatra_reph_anusvara-deva</string>
 		<string>anusvara-deva</string>
 		<string>halant-deva</string>
-		<string>halant-deva_ra-deva_alt</string>
 		<string>nukta-deva</string>
 		<string>reph-deva</string>
 		<string>reph_anusvara-deva</string>
@@ -782,6 +782,7 @@
 		<string>reph-deva.loclMAR</string>
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
+		<string>borrar</string>
 		<string>bindu-deva</string>
 		<string>dd_compo</string>
 		<string>ddh_compo</string>
@@ -796,13 +797,10 @@
 		<string>na_compo_down</string>
 		<string>nuktathree-deva</string>
 		<string>ny_compo</string>
-		<string>ra-linea</string>
-		<string>sarasa</string>
 		<string>sha_comp</string>
 		<string>tt_compo</string>
 		<string>tth_compo</string>
 		<string>va_compo</string>
-		<string>vt_ra-deva</string>
 		<string>ya_compo</string>
 		<string>devaHeight</string>
 		<string>devaTecho</string>

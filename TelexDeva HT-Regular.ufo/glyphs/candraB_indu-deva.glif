@@ -6,6 +6,9 @@
     <component base="ecandravowelsigndeva"/>
     <component base="nuktadeva" xOffset="143" yOffset="1025"/>
     <contour>
+      <point x="211" y="975" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="211" y="658" type="move" name="_top"/>
     </contour>
   </outline>

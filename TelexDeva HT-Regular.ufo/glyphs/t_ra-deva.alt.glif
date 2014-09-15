@@ -10,10 +10,10 @@
     </contour>
     <component base="tadeva" xOffset="-10"/>
     <contour>
-      <point x="443" y="658" type="move" name="top"/>
+      <point x="442" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="443" y="0" type="move" name="bottom"/>
+      <point x="441" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

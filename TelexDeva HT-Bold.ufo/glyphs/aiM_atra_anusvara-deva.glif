@@ -5,7 +5,10 @@
     <component base="aivowelsigndeva" xOffset="-12"/>
     <component base="anusvaradeva" xOffset="388" yOffset="8"/>
     <contour>
-      <point x="213" y="930" type="move" name="top"/>
+      <point x="590" y="850" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="367" y="685" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

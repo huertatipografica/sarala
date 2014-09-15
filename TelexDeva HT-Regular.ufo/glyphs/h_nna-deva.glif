@@ -24,10 +24,10 @@
     </contour>
     <component base="hadeva.alt" xOffset="10"/>
     <contour>
-      <point x="369" y="658" type="move" name="top"/>
+      <point x="404" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="266" y="-65" type="move" name="bottom"/>
+      <point x="266" y="-81" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -5,5 +5,8 @@
     <component base="uni093E"/>
     <component base="aivowelsigndeva" xOffset="-224"/>
     <component base="anusvaradeva" xOffset="188" yOffset="10"/>
+    <contour>
+      <point x="311" y="943" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

@@ -4,5 +4,11 @@
   <outline>
     <component base="ddhadeva"/>
     <component base="viramadeva" xOffset="224"/>
+    <contour>
+      <point x="400" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="284" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

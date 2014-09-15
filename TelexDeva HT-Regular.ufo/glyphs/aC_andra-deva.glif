@@ -5,5 +5,11 @@
   <outline>
     <component base="adeva"/>
     <component base="ecandravowelsigndeva" xOffset="405"/>
+    <contour>
+      <point x="617" y="859" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="617" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

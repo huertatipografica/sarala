@@ -3,6 +3,12 @@
   <advance width="282"/>
   <outline>
     <component base="uni0917094D"/>
-    <component base="nuktadeva" xOffset="70" yOffset="150"/>
+    <component base="nuktadeva" xOffset="87" yOffset="175"/>
+    <contour>
+      <point x="151" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="152" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

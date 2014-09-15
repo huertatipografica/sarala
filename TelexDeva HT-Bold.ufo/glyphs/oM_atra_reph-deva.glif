@@ -7,5 +7,8 @@
   <outline>
     <component base="uni093E"/>
     <component base="evowelsigndeva_uni0930094D" xOffset="-50"/>
+    <contour>
+      <point x="222" y="943" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

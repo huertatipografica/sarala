@@ -6,6 +6,9 @@
   </note>
   <outline>
     <component base="uni093E"/>
-    <component base="evowelsigndeva_uni0930094D" xOffset="16"/>
+    <component base="evowelsigndeva_uni0930094D" xOffset="17"/>
+    <contour>
+      <point x="199" y="908" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

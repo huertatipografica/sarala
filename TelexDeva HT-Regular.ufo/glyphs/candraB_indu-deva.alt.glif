@@ -2,8 +2,7 @@
 <glyph name="candrabindudeva.alt" format="1">
   <advance width="422"/>
   <outline>
-    <component base="ecandravowelsigndeva" yOffset="353"/>
-    <component base="nuktadeva" xOffset="143" yOffset="1378"/>
+    <component base="candrabindudeva" xOffset="130"/>
     <contour>
       <point x="211" y="658" type="move" name="_top"/>
     </contour>

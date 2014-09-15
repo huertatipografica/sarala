@@ -29,7 +29,7 @@
     </contour>
     <component base="aivowelsigndeva" xOffset="-221"/>
     <contour>
-      <point x="263" y="930" type="move" name="top"/>
+      <point x="266" y="946" type="move" name="top"/>
     </contour>
     <contour>
       <point x="159" y="685" type="move" name="_top"/>

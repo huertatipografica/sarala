@@ -73,19 +73,19 @@
       <point x="442" y="348" type="curve"/>
     </contour>
     <contour>
-      <point x="335" y="619" type="line"/>
-      <point x="335" y="444" type="line"/>
-      <point x="470" y="407" type="line"/>
-      <point x="470" y="619" type="line"/>
-    </contour>
-    <contour>
       <point x="-20" y="685" type="line"/>
       <point x="-20" y="575" type="line"/>
       <point x="506" y="575" type="line"/>
       <point x="506" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="255" y="685" type="move" name="top"/>
+      <point x="335" y="619" type="line"/>
+      <point x="335" y="444" type="line"/>
+      <point x="470" y="407" type="line"/>
+      <point x="470" y="619" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="685" type="move" name="top"/>
     </contour>
     <contour>
       <point x="255" y="-163" type="move" name="bottom"/>

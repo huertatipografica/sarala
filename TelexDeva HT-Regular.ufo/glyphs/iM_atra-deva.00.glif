@@ -40,6 +40,9 @@
       <point x="495" y="755" type="move" name="imatra"/>
     </contour>
     <contour>
+      <point x="153" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="495" y="835" type="move" name="top"/>
     </contour>
   </outline>

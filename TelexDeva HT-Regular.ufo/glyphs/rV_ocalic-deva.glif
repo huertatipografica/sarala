@@ -57,17 +57,17 @@
       <point x="460" y="609" type="line"/>
     </contour>
     <contour>
-      <point x="-5" y="658" type="line" smooth="yes"/>
-      <point x="-5" y="583" type="line" smooth="yes"/>
-      <point x="847" y="583" type="line" smooth="yes"/>
-      <point x="847" y="658" type="line" smooth="yes"/>
+      <point x="-20" y="658" type="line" smooth="yes"/>
+      <point x="-20" y="583" type="line" smooth="yes"/>
+      <point x="862" y="583" type="line" smooth="yes"/>
+      <point x="862" y="658" type="line" smooth="yes"/>
     </contour>
     <component base="rvocalicvowelsigndeva" xOffset="462" yOffset="235"/>
     <contour>
-      <point x="422" y="658" type="move" name="top"/>
+      <point x="421" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="422" y="0" type="move" name="bottom"/>
+      <point x="421" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0924094D_radeva.alt" format="1">
-  <advance width="644"/>
+  <advance width="655"/>
   <outline>
     <contour>
       <point x="432" y="389" type="line"/>
@@ -10,10 +10,10 @@
     </contour>
     <component base="tadeva"/>
     <contour>
-      <point x="322" y="685" type="move" name="top"/>
+      <point x="483" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="322" y="0" type="move" name="bottom"/>
+      <point x="483" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

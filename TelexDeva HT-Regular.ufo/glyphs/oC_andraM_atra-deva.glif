@@ -4,6 +4,9 @@
   <unicode hex="0949"/>
   <outline>
     <component base="uni093E"/>
-    <component base="ecandravowelsigndeva" xOffset="-58"/>
+    <component base="ecandravowelsigndeva" xOffset="-57"/>
+    <contour>
+      <point x="158" y="867" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>
