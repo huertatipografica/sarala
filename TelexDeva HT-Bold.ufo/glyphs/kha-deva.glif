@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="khadeva" format="1">
+<glyph name="kha-deva" format="1">
   <advance width="975"/>
   <unicode hex="0916"/>
   <outline>
-    <component base="uni0916094D"/>
-    <component base="uni093E" xOffset="630"/>
+    <component base="kh-deva"/>
+    <component base="aaMatra-deva" xOffset="630"/>
     <contour>
       <point x="202" y="-80" type="move" name="nukta"/>
     </contour>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0973" format="1">
+<glyph name="oe-deva" format="1">
   <advance width="755"/>
   <unicode hex="0973"/>
   <outline>
     <component base="a_compo"/>
-    <component base="uni093B" xOffset="463"/>
+    <component base="ooeMatra-deva" xOffset="463"/>
   </outline>
 </glyph>

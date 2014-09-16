@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni091F094D092F" format="1">
+<glyph name="tt_ya-deva" format="1">
   <advance width="1100"/>
   <outline>
     <contour>
@@ -8,8 +8,8 @@
       <point x="1120" y="583" type="line"/>
       <point x="1120" y="658" type="line"/>
     </contour>
-    <component base="ttadeva"/>
-    <component base="uni093E" xOffset="794"/>
+    <component base="tta-deva"/>
+    <component base="aaMatra-deva" xOffset="794"/>
     <component base="ya_compo" xOffset="440"/>
     <contour>
       <point x="946" y="658" type="move" name="top"/>

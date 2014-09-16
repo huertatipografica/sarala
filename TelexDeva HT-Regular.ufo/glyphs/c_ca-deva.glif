@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni091A094D_cadeva" format="1">
+<glyph name="c_ca-deva" format="1">
   <advance width="1004"/>
   <outline>
-    <component base="uni091A094D"/>
-    <component base="cadeva" xOffset="349"/>
+    <component base="c-deva"/>
+    <component base="ca-deva" xOffset="349"/>
     <contour>
       <point x="850" y="658" type="move" name="top"/>
     </contour>

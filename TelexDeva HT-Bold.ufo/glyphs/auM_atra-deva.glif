@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni094C" format="1">
+<glyph name="auMatra-deva" format="1">
   <advance width="345"/>
   <unicode hex="094C"/>
   <outline>
-    <component base="uni093E"/>
-    <component base="aivowelsigndeva" xOffset="-224"/>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra-deva" xOffset="-224"/>
     <contour>
       <point x="176" y="943" type="move" name="top"/>
     </contour>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="evowelsigndeva_uni0930094D" format="1">
+<glyph name="eMatra_reph-deva" format="1">
   <advance width="270"/>
   <note>
     dMatraEReph
@@ -27,7 +27,7 @@
       <point x="317" y="946"/>
       <point x="281" y="946" type="curve" smooth="yes"/>
     </contour>
-    <component base="evowelsigndeva" xOffset="-9"/>
+    <component base="eMatra-deva" xOffset="-9"/>
     <contour>
       <point x="281" y="930" type="move" name="top"/>
     </contour>

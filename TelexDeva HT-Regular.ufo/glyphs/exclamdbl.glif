@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdbl" format="1">
+  <advance width="462"/>
+  <unicode hex="203C"/>
+  <outline>
+    <contour>
+      <point x="169" y="720" type="line"/>
+      <point x="73" y="720" type="line"/>
+      <point x="85" y="184" type="line"/>
+      <point x="156" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="389" y="720" type="line"/>
+      <point x="293" y="720" type="line"/>
+      <point x="305" y="184" type="line"/>
+      <point x="376" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="92" type="line"/>
+      <point x="75" y="92" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="168" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="92" type="line"/>
+      <point x="295" y="92" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

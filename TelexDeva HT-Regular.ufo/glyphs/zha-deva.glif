@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0979" format="1">
+<glyph name="zha-deva" format="1">
   <advance width="771"/>
   <unicode hex="0979"/>
   <outline>
-    <component base="jadeva"/>
-    <component base="anusvaradeva" xOffset="225" yOffset="-897"/>
-    <component base="anusvaradeva" xOffset="134" yOffset="-763"/>
-    <component base="anusvaradeva" xOffset="314" yOffset="-763"/>
+    <component base="ja-deva"/>
+    <component base="anusvara-deva" xOffset="225" yOffset="-897"/>
+    <component base="anusvara-deva" xOffset="134" yOffset="-763"/>
+    <component base="anusvara-deva" xOffset="314" yOffset="-763"/>
   </outline>
 </glyph>

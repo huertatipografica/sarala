@@ -2,6 +2,6 @@
 <glyph name="spacingcandraBindu-deva" format="1">
   <advance width="453"/>
   <outline>
-    <component base="candrabindudeva" yOffset="-334"/>
+    <component base="candraBindu-deva" yOffset="-334"/>
   </outline>
 </glyph>

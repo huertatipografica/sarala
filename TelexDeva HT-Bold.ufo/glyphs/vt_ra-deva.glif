@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="vt_ra-deva" format="1">
-  <advance width="1081"/>
-  <outline>
-    <component base="vadeva"/>
-    <component base="viramadeva" xOffset="357"/>
-    <component base="radeva" xOffset="650"/>
-  </outline>
-</glyph>

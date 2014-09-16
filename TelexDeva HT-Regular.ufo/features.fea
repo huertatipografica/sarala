@@ -70,7 +70,7 @@ sub zha-deva.loclNEP [ reph-deva reph_anusvara-deva ] by zha-deva.loclNEP;
 } removeReph;
 
 # automatic
-@Uppercase = [ A Aacute Acircumflex Adieresis Agrave Aring Atilde AE AEacute B C Ccedilla Ccircumflex D Eth Ddotbelow E Eacute Ebreve Ecircumflex Edieresis Egrave F G Gcaron Gcircumflex Gmacron H Hcircumflex Hdotbelow I IJ Iacute Ibreve Icircumflex Idieresis Igrave J Jcircumflex K L Ldot Ldotbelow Ldotbelowmacron M Mdotbelow N Ndotaccent Ndotbelow Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Rdotbelow Rdotbelowmacron S Scircumflex Sdotaccent Sdotbelow Schwa T Tdotbelow U Uacute Ubreve Ucircumflex Udieresis Ugrave V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ygrave Z Zdotbelow Delta Omega ];
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K L Lacute Lcaron Ldot Lslash M N Nacute Ncaron Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron S Sacute Scaron Scedilla Scircumflex T Tbar Tcaron U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent uni0122 uni0136 uni013B uni0145 uni0156 uni0162 Delta Omega ];
 
 @DevaHalfforms = [ k-deva k_ss-deva kh-deva g-deva gh-deva ng-deva c-deva c_r-deva ch-deva j-deva j_ny-deva j_r-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva t_t-deva t_r-deva th-deva d-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva sh-deva sh_r-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva sh-deva.loclMAR sh-deva.ss02 ];
 
@@ -125,33 +125,25 @@ sub zha-deva.loclNEP [ reph-deva reph_anusvara-deva ] by zha-deva.loclNEP;
 @DevaFull.11 = [ ph_ra-deva ];
 
 feature aalt {
-# automatic
-feature ccmp;
+feature mkmk;
 feature locl;
+feature sups;
+feature frac;
+feature ordn;
+feature ccmp;
 feature ordn;
 feature ss02;
 feature nukt;
 feature akhn;
 feature rphf;
 feature rkrf;
+feature blwf;
 feature half;
+feature vatu;
 feature cjct;
 feature abvs;
 feature pres;
 } aalt;
-
-feature ccmp {
-# automatic
-sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
-sub eMatra-deva reph-deva by eMatra_reph-deva;
-sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
-sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
-sub aiMatra-deva reph-deva by aiMatra_reph-deva;
-sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
-sub reph-deva anusvara-deva by reph_anusvara-deva;
-sub rakar-deva uMatra-deva by rakar_uMatra-deva;
-sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
-} ccmp;
 
 feature locl {
 # automatic
@@ -172,6 +164,55 @@ sub sh-deva by sh-deva.loclMAR;
 sub reph-deva by reph-deva.loclMAR;
 } locl;
 
+feature sups {
+# automatic
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
+sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
+sub one slash three by onethird;
+sub two slash three by twothirds;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature dlig {
+# automatic
+sub f i by f_i;
+sub f l by f_l;
+} dlig;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
+feature ccmp {
+sub eMatra-deva anusvara-deva by eMatra_anusvara-deva;
+sub eMatra-deva reph-deva by eMatra_reph-deva;
+sub eMatra-deva reph-deva anusvara-deva by eMatra_reph_anusvara-deva;
+sub aiMatra-deva anusvara-deva by aiMatra_anusvara-deva;
+sub aiMatra-deva reph-deva by aiMatra_reph-deva;
+sub aiMatra-deva reph-deva anusvara-deva by aiMatra_reph_anusvara-deva;
+sub reph-deva anusvara-deva by reph_anusvara-deva;
+sub rakar-deva uMatra-deva by rakar_uMatra-deva;
+sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
+} ccmp;
+
 feature ordn {
 # automatic
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
@@ -182,11 +223,6 @@ feature ss02 {
 # automatic
 sub sh-deva by sh-deva.ss02;
 } ss02;
-
-feature cpsp {
-# automatic
-pos @Uppercase <5 0 10 0>;
-} cpsp;
 
 feature nukt {
 # automatic

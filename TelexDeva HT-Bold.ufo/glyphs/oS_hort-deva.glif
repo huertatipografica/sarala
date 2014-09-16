@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="oshortdeva" format="1">
+<glyph name="oShort-deva" format="1">
   <advance width="1111"/>
   <unicode hex="0912"/>
   <outline>
-    <component base="aadeva"/>
-    <component base="eshortvowelsigndeva" xOffset="562"/>
+    <component base="aa-deva"/>
+    <component base="eShortMatra-deva" xOffset="562"/>
     <contour>
       <point x="300" y="685" type="move" name="top"/>
     </contour>

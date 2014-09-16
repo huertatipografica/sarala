@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni095A094D" format="1">
+<glyph name="ghh-deva" format="1">
   <advance width="282"/>
   <outline>
-    <component base="uni0917094D"/>
-    <component base="nuktadeva" xOffset="87" yOffset="175"/>
+    <component base="g-deva"/>
+    <component base="nukta-deva" xOffset="87" yOffset="175"/>
     <contour>
       <point x="151" y="658" type="move" name="top"/>
     </contour>

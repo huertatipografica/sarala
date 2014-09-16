@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="evowelsigndeva_anusvaradeva" format="1">
+<glyph name="eMatra_anusvara-deva" format="1">
   <advance width="270"/>
   <note>
     dMatraEAnusvara
   </note>
   <outline>
-    <component base="anusvaradeva" xOffset="168" yOffset="97" xScale="0.93" yScale="0.93"/>
-    <component base="evowelsigndeva" xOffset="-11"/>
+    <component base="anusvara-deva" xOffset="168" yOffset="97" xScale="0.93" yScale="0.93"/>
+    <component base="eMatra-deva" xOffset="-11"/>
     <contour>
       <point x="285" y="878" type="move" name="top"/>
     </contour>

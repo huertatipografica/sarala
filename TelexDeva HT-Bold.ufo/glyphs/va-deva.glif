@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="vadeva" format="1">
+<glyph name="va-deva" format="1">
   <advance width="650"/>
   <unicode hex="0935"/>
   <outline>
-    <component base="uni0935094D"/>
-    <component base="uni093E" xOffset="305"/>
+    <component base="v-deva"/>
+    <component base="aaMatra-deva" xOffset="305"/>
     <contour>
       <point x="478" y="685" type="move" name="top"/>
     </contour>

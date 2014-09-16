@@ -5,7 +5,7 @@
 	<key>ascender</key>
 	<integer>755</integer>
 	<key>capHeight</key>
-	<integer>707</integer>
+	<integer>708</integer>
 	<key>copyright</key>
 	<string>Copyright © 2014 by Andres Torresi. All rights reserved.</string>
 	<key>descender</key>
@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>TelexDeva HT</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/05/16 11:22:27</string>
+	<string>2014/09/16 13:20:21</string>
 	<key>openTypeNameDesigner</key>
 	<string>Andres Torresi</string>
 	<key>openTypeNameDesignerURL</key>
@@ -34,27 +34,19 @@
 	<array>
 		<integer>-10</integer>
 		<integer>0</integer>
-		<integer>512</integer>
-		<integer>522</integer>
-		<integer>551</integer>
-		<integer>565</integer>
-		<integer>599</integer>
-		<integer>609</integer>
-		<integer>707</integer>
-		<integer>717</integer>
+		<integer>514</integer>
+		<integer>524</integer>
+		<integer>552</integer>
+		<integer>567</integer>
+		<integer>600</integer>
+		<integer>610</integer>
+		<integer>708</integer>
+		<integer>718</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-245</integer>
 		<integer>-235</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-		<integer>75</integer>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-		<integer>85</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
@@ -67,6 +59,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>512</integer>
+	<integer>514</integer>
 </dict>
 </plist>

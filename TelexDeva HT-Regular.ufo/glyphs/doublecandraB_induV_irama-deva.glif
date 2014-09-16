@@ -3,6 +3,6 @@
   <advance width="422"/>
   <outline>
     <component base="candraBinduVirama-deva" yOffset="-292"/>
-    <component base="candrabindudeva" yOffset="-304"/>
+    <component base="candraBindu-deva" yOffset="-304"/>
   </outline>
 </glyph>

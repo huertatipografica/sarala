@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0930094D_anusvaradeva" format="1">
+<glyph name="reph_anusvara-deva" format="1">
   <advance width="270"/>
   <note>
     dRephAnusvara
   </note>
   <outline>
-    <component base="anusvaradeva" xOffset="149" yOffset="109" xScale="0.89" yScale="0.89"/>
-    <component base="uni0930094D" xOffset="-16" yOffset="11"/>
+    <component base="anusvara-deva" xOffset="149" yOffset="109" xScale="0.89" yScale="0.89"/>
+    <component base="reph-deva" xOffset="-16" yOffset="11"/>
     <contour>
       <point x="199" y="658" type="move" name="_imatra"/>
     </contour>

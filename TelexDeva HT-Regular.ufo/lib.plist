@@ -2,125 +2,80 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GSDimensionPlugin.Dimensions</key>
-	<dict>
-		<key>1F129262-9FF8-4ACC-8B99-7525E28401AB</key>
-		<dict>
-			<key>HH</key>
-			<integer>77</integer>
-			<key>HV</key>
-			<integer>87</integer>
-			<key>OH</key>
-			<integer>82</integer>
-			<key>OV</key>
-			<integer>91</integer>
-			<key>nV</key>
-			<integer>85</integer>
-			<key>nd</key>
-			<integer>75</integer>
-			<key>oH</key>
-			<integer>74</integer>
-			<key>oV</key>
-			<integer>84</integer>
-			<key>tH</key>
-			<integer>74</integer>
-		</dict>
-		<key>B6F1EAFA-F357-4191-A3E2-973575A7B31B</key>
-		<dict>
-			<key>HH</key>
-			<integer>116</integer>
-			<key>HV</key>
-			<integer>153</integer>
-			<key>OH</key>
-			<integer>120</integer>
-			<key>OV</key>
-			<integer>158</integer>
-			<key>nV</key>
-			<integer>150</integer>
-			<key>nd</key>
-			<integer>105</integer>
-			<key>oH</key>
-			<integer>112</integer>
-			<key>oV</key>
-			<integer>151</integer>
-			<key>tH</key>
-			<integer>105</integer>
-		</dict>
-	</dict>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>GSOffsetHorizontal</key>
-		<integer>42</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
-		<key>GSOffsetVertical</key>
-		<integer>37</integer>
-		<key>angle</key>
-		<integer>20</integer>
-		<key>height</key>
-		<integer>6</integer>
-		<key>width</key>
-		<integer>30</integer>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>1F129262-9FF8-4ACC-8B99-7525E28401AB</string>
+	<string>06DA83F7-7F04-4345-A73D-275D0ED9D5E5</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<true/>
+	<false/>
 	<key>com.schriftgestaltung.weightValue</key>
 	<real>400</real>
-	<key>com.schriftgestaltung.widthValue</key>
-	<real>5</real>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
 		<string>Aacute</string>
+		<string>Abreve</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
+		<string>Amacron</string>
+		<string>Aogonek</string>
 		<string>Aring</string>
+		<string>Aringacute</string>
 		<string>Atilde</string>
 		<string>AE</string>
 		<string>AEacute</string>
 		<string>B</string>
 		<string>C</string>
+		<string>Cacute</string>
+		<string>Ccaron</string>
 		<string>Ccedilla</string>
 		<string>Ccircumflex</string>
+		<string>Cdotaccent</string>
 		<string>D</string>
 		<string>Eth</string>
-		<string>Ddotbelow</string>
+		<string>Dcaron</string>
+		<string>Dcroat</string>
 		<string>E</string>
 		<string>Eacute</string>
 		<string>Ebreve</string>
+		<string>Ecaron</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
+		<string>Edotaccent</string>
 		<string>Egrave</string>
+		<string>Emacron</string>
+		<string>Eogonek</string>
 		<string>F</string>
 		<string>G</string>
-		<string>Gcaron</string>
+		<string>Gbreve</string>
 		<string>Gcircumflex</string>
-		<string>Gmacron</string>
+		<string>Gdotaccent</string>
 		<string>H</string>
+		<string>Hbar</string>
 		<string>Hcircumflex</string>
-		<string>Hdotbelow</string>
 		<string>I</string>
 		<string>IJ</string>
 		<string>Iacute</string>
 		<string>Ibreve</string>
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
+		<string>Idotaccent</string>
 		<string>Igrave</string>
+		<string>Imacron</string>
+		<string>Iogonek</string>
+		<string>Itilde</string>
 		<string>J</string>
 		<string>Jcircumflex</string>
 		<string>K</string>
 		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
 		<string>Ldot</string>
-		<string>Ldotbelow</string>
-		<string>Ldotbelowmacron</string>
+		<string>Lslash</string>
 		<string>M</string>
-		<string>Mdotbelow</string>
 		<string>N</string>
-		<string>Ndotaccent</string>
-		<string>Ndotbelow</string>
+		<string>Nacute</string>
+		<string>Ncaron</string>
+		<string>Eng</string>
 		<string>Ntilde</string>
 		<string>O</string>
 		<string>Oacute</string>
@@ -128,7 +83,8 @@
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
-		<string>Oogonek</string>
+		<string>Ohungarumlaut</string>
+		<string>Omacron</string>
 		<string>Oslash</string>
 		<string>Oslashacute</string>
 		<string>Otilde</string>
@@ -137,21 +93,27 @@
 		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
-		<string>Rdotbelow</string>
-		<string>Rdotbelowmacron</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
 		<string>S</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>Scedilla</string>
 		<string>Scircumflex</string>
-		<string>Sdotaccent</string>
-		<string>Sdotbelow</string>
-		<string>Schwa</string>
 		<string>T</string>
-		<string>Tdotbelow</string>
+		<string>Tbar</string>
+		<string>Tcaron</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ubreve</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
 		<string>Ugrave</string>
+		<string>Uhungarumlaut</string>
+		<string>Umacron</string>
+		<string>Uogonek</string>
+		<string>Uring</string>
+		<string>Utilde</string>
 		<string>V</string>
 		<string>W</string>
 		<string>Wacute</string>
@@ -163,38 +125,58 @@
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
-		<string>Ydotaccent</string>
 		<string>Ygrave</string>
 		<string>Z</string>
-		<string>Zdotbelow</string>
+		<string>Zacute</string>
+		<string>Zcaron</string>
+		<string>Zdotaccent</string>
+		<string>uni0122</string>
+		<string>uni0136</string>
+		<string>uni013B</string>
+		<string>uni0145</string>
+		<string>uni0156</string>
+		<string>uni0162</string>
 		<string>a</string>
 		<string>aacute</string>
+		<string>abreve</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
+		<string>amacron</string>
+		<string>aogonek</string>
 		<string>aring</string>
+		<string>aringacute</string>
 		<string>atilde</string>
 		<string>ae</string>
 		<string>aeacute</string>
 		<string>b</string>
 		<string>c</string>
+		<string>cacute</string>
+		<string>ccaron</string>
 		<string>ccedilla</string>
 		<string>ccircumflex</string>
+		<string>cdotaccent</string>
 		<string>d</string>
 		<string>eth</string>
-		<string>ddotbelow</string>
+		<string>dcaron</string>
+		<string>dcroat</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ebreve</string>
+		<string>ecaron</string>
 		<string>ecircumflex</string>
 		<string>edieresis</string>
+		<string>edotaccent</string>
 		<string>egrave</string>
+		<string>emacron</string>
+		<string>eogonek</string>
 		<string>f</string>
 		<string>g</string>
-		<string>gcaron</string>
+		<string>gbreve</string>
 		<string>gcircumflex</string>
-		<string>gmacron</string>
+		<string>gdotaccent</string>
 		<string>h</string>
+		<string>hbar</string>
 		<string>hcircumflex</string>
 		<string>i</string>
 		<string>dotlessi</string>
@@ -204,20 +186,24 @@
 		<string>idieresis</string>
 		<string>igrave</string>
 		<string>ij</string>
+		<string>imacron</string>
+		<string>iogonek</string>
+		<string>itilde</string>
 		<string>j</string>
 		<string>dotlessj</string>
 		<string>jcircumflex</string>
 		<string>k</string>
 		<string>kgreenlandic</string>
 		<string>l</string>
+		<string>lacute</string>
+		<string>lcaron</string>
 		<string>ldot</string>
-		<string>ldotbelow</string>
-		<string>ldotbelowmacron</string>
+		<string>lslash</string>
 		<string>m</string>
-		<string>mdotbelow</string>
 		<string>n</string>
-		<string>ndotaccent</string>
-		<string>ndotbelow</string>
+		<string>nacute</string>
+		<string>ncaron</string>
+		<string>eng</string>
 		<string>ntilde</string>
 		<string>o</string>
 		<string>oacute</string>
@@ -225,7 +211,8 @@
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
-		<string>oogonek</string>
+		<string>ohungarumlaut</string>
+		<string>omacron</string>
 		<string>oslash</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
@@ -234,23 +221,34 @@
 		<string>thorn</string>
 		<string>q</string>
 		<string>r</string>
-		<string>rdotbelow</string>
-		<string>rdotbelowmacron</string>
+		<string>racute</string>
+		<string>rcaron</string>
 		<string>s</string>
+		<string>sacute</string>
+		<string>scaron</string>
+		<string>scedilla</string>
 		<string>scircumflex</string>
-		<string>sdotaccent</string>
-		<string>sdotbelow</string>
 		<string>germandbls</string>
-		<string>schwa</string>
 		<string>t</string>
-		<string>tdieresis</string>
-		<string>tdotbelow</string>
+		<string>tbar</string>
+		<string>tcaron</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
+		<string>uhungarumlaut</string>
+		<string>umacron</string>
+		<string>uni0123</string>
+		<string>uni0137</string>
+		<string>uni013C</string>
+		<string>uni0146</string>
+		<string>uni0157</string>
+		<string>uni0163</string>
+		<string>uogonek</string>
+		<string>uring</string>
+		<string>utilde</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -262,10 +260,13 @@
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
-		<string>ydotaccent</string>
 		<string>ygrave</string>
 		<string>z</string>
-		<string>zdotbelow</string>
+		<string>zacute</string>
+		<string>zcaron</string>
+		<string>zdotaccent</string>
+		<string>f_i</string>
+		<string>f_l</string>
 		<string>a_compo</string>
 		<string>c_compo</string>
 		<string>g_compo</string>
@@ -276,7 +277,6 @@
 		<string>Delta</string>
 		<string>Omega</string>
 		<string>mu</string>
-		<string>pi</string>
 		<string>ka-deva</string>
 		<string>kha-deva</string>
 		<string>ga-deva</string>
@@ -609,6 +609,19 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onethird</string>
+		<string>twothirds</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
 		<string>zero-deva</string>
 		<string>one-deva</string>
 		<string>two-deva</string>
@@ -629,9 +642,9 @@
 		<string>comma</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
+		<string>exclamdbl</string>
 		<string>exclamdown</string>
 		<string>numbersign</string>
-		<string>onedotenleader</string>
 		<string>period</string>
 		<string>question</string>
 		<string>questiondown</string>
@@ -639,8 +652,9 @@
 		<string>quotesingle</string>
 		<string>semicolon</string>
 		<string>slash</string>
-		<string>twodotenleader</string>
 		<string>underscore</string>
+		<string>underscoredbl</string>
+		<string>uni203E</string>
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
@@ -650,7 +664,7 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
-		<string>softhyphen</string>
+		<string>uni00AD</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>guilsinglleft</string>
@@ -659,6 +673,7 @@
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
+		<string>quotereversed</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
 		<string>glottalstop-deva</string>
@@ -668,21 +683,18 @@
 		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>nbspace</string>
-		<string>zerowidthjoiner</string>
-		<string>zerowidthnonjoiner</string>
 		<string>.notdef</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
-		<string>euro</string>
 		<string>florin</string>
-		<string>rupeeIndian</string>
+		<string>franc</string>
+		<string>lira</string>
+		<string>sterling</string>
 		<string>yen</string>
 		<string>approxequal</string>
 		<string>asciitilde</string>
-		<string>bulletoperator</string>
 		<string>divide</string>
-		<string>divisionslash</string>
 		<string>equal</string>
 		<string>greater</string>
 		<string>greaterequal</string>
@@ -695,30 +707,36 @@
 		<string>multiply</string>
 		<string>notequal</string>
 		<string>partialdiff</string>
+		<string>percent</string>
+		<string>perthousand</string>
 		<string>plus</string>
 		<string>plusminus</string>
 		<string>product</string>
 		<string>radical</string>
 		<string>summation</string>
-		<string>dottedCircle</string>
-		<string>lozenge</string>
+		<string>arrowup</string>
+		<string>arrowright</string>
+		<string>arrowdown</string>
+		<string>arrowleft</string>
+		<string>arrowupdn</string>
 		<string>bar</string>
 		<string>brokenbar</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>afii61248</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
+		<string>estimated</string>
+		<string>afii61352</string>
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
 		<string>minute</string>
-		<string>rightFacingSvasti</string>
 		<string>second</string>
-		<string>servicemark</string>
 		<string>avagraha-deva</string>
 		<string>om-deva</string>
 		<string>acute</string>
@@ -782,30 +800,15 @@
 		<string>reph-deva.loclMAR</string>
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
-		<string>borrar</string>
-		<string>bindu-deva</string>
-		<string>dd_compo</string>
-		<string>ddh_compo</string>
+		<string>brevebelow</string>
 		<string>foundryicon</string>
-		<string>gha_compo</string>
-		<string>halfspace</string>
-		<string>jh_compo</string>
-		<string>ka_compo</string>
-		<string>kha_compo</string>
-		<string>ma_compo</string>
-		<string>na_compo</string>
-		<string>na_compo_down</string>
+		<string>hookabove</string>
+		<string>puso</string>
+		<string>ringacute</string>
+		<string>bindu-deva</string>
 		<string>nuktathree-deva</string>
-		<string>ny_compo</string>
-		<string>sha_comp</string>
-		<string>tt_compo</string>
-		<string>tth_compo</string>
-		<string>va_compo</string>
-		<string>ya_compo</string>
 		<string>devaHeight</string>
 		<string>devaTecho</string>
-		<string>da-deva-compo</string>
-		<string>la_compo</string>
 		<string>candraBinduAvagraha-deva</string>
 		<string>candraBinduVirama-deva</string>
 		<string>spacingcandraBindu-deva</string>
@@ -822,8 +825,23 @@
 		<string>sevenCombiningDigit-deva</string>
 		<string>eightCombiningDigit-deva</string>
 		<string>nineCombiningDigit-deva</string>
-		<string>temp</string>
-		<string>temp.001</string>
+		<string>dd_compo</string>
+		<string>ddh_compo</string>
+		<string>gha_compo</string>
+		<string>jh_compo</string>
+		<string>ka_compo</string>
+		<string>kha_compo</string>
+		<string>ma_compo</string>
+		<string>na_compo</string>
+		<string>na_compo_down</string>
+		<string>ny_compo</string>
+		<string>sha_comp</string>
+		<string>tt_compo</string>
+		<string>tth_compo</string>
+		<string>va_compo</string>
+		<string>ya_compo</string>
+		<string>da-deva-compo</string>
+		<string>la_compo</string>
 	</array>
 </dict>
 </plist>

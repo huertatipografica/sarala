@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="viramadeva_radeva" format="1">
-  <advance width="700"/>
-  <outline>
-    <contour>
-      <point x="0" y="0" type="move" name="_bottom"/>
-    </contour>
-  </outline>
-</glyph>

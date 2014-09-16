@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cadeva" format="1">
+<glyph name="ca-deva" format="1">
   <advance width="714"/>
   <unicode hex="091A"/>
   <outline>
-    <component base="uni091A094D"/>
-    <component base="uni093E" xOffset="369"/>
+    <component base="c-deva"/>
+    <component base="aaMatra-deva" xOffset="369"/>
     <contour>
       <point x="542" y="685" type="move" name="top"/>
     </contour>

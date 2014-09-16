@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni093F0930094D.09" format="1">
+<glyph name="iMatra_reph-deva.09" format="1">
   <advance width="305"/>
   <outline>
-    <component base="uni093F.09"/>
-    <component base="uni0930094D.imatra" xOffset="1292" yOffset="142"/>
+    <component base="iMatra-deva.09"/>
+    <component base="reph-deva.imatra" xOffset="1292" yOffset="142"/>
     <contour>
       <point x="1482" y="790" type="move" name="imatra"/>
     </contour>

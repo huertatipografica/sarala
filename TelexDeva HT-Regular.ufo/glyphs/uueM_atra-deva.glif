@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0957" format="1">
+<glyph name="uueMatra-deva" format="1">
   <advance width="454"/>
   <unicode hex="0957"/>
   <outline>
-    <component base="uni0956" yOffset="-139"/>
-    <component base="uni0956" yOffset="10"/>
+    <component base="ueMatra-deva" yOffset="-139"/>
+    <component base="ueMatra-deva" yOffset="10"/>
     <contour>
       <point x="228" y="0" type="move" name="_bottom"/>
     </contour>

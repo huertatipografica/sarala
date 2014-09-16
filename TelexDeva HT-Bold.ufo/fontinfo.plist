@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>TelexDeva HT</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/05/16 11:22:27</string>
+	<string>2014/09/16 13:20:21</string>
 	<key>openTypeNameDesigner</key>
 	<string>Andres Torresi</string>
 	<key>openTypeNameDesignerURL</key>
@@ -47,14 +47,6 @@
 	<array>
 		<integer>-245</integer>
 		<integer>-232</integer>
-	</array>
-	<key>postscriptStemSnapH</key>
-	<array>
-		<integer>112</integer>
-	</array>
-	<key>postscriptStemSnapV</key>
-	<array>
-		<integer>150</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>

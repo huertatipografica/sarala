@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0922094D" format="1">
+<glyph name="ddh-deva" format="1">
   <advance width="568"/>
   <outline>
-    <component base="ddhadeva"/>
-    <component base="viramadeva" xOffset="224"/>
+    <component base="ddha-deva"/>
+    <component base="halant-deva" xOffset="224"/>
     <contour>
       <point x="400" y="658" type="move" name="top"/>
     </contour>

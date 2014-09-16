@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0926094D_radeva_uvowelsignde" format="1">
+<glyph name="d_ra_uMatra-deva" format="1">
   <advance width="541"/>
   <outline>
     <contour>
@@ -30,7 +30,7 @@
       <point x="315" y="-103"/>
       <point x="272" y="-67" type="curve"/>
     </contour>
-    <component base="uni0926094D_radeva"/>
+    <component base="d_ra-deva"/>
     <contour>
       <point x="380" y="658" type="move" name="top"/>
     </contour>

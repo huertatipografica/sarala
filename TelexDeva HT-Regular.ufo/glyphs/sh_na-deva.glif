@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0936094D_nadeva" format="1">
+<glyph name="sh_na-deva" format="1">
   <advance width="797"/>
   <outline>
     <component base="na_compo_down" xOffset="264"/>
-    <component base="uni093E" xOffset="491"/>
+    <component base="aaMatra-deva" xOffset="491"/>
     <component base="sha_comp" xOffset="4" yOffset="2"/>
     <contour>
       <point x="645" y="658" type="move" name="top"/>
