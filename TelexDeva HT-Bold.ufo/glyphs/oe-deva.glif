@@ -5,5 +5,11 @@
   <outline>
     <component base="a_compo" xOffset="-1"/>
     <component base="ooeMatra-deva" xOffset="503"/>
+    <contour>
+      <point x="675" y="799" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="675" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

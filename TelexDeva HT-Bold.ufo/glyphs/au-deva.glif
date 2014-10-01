@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="au-deva" format="1">
-  <advance width="1111"/>
+  <advance width="1182"/>
   <unicode hex="0914"/>
   <outline>
     <component base="aa-deva"/>
-    <component base="aiMatra-deva" xOffset="547"/>
+    <component base="aiMatra-deva" xOffset="614"/>
     <contour>
-      <point x="300" y="685" type="move" name="top"/>
+      <point x="1008" y="685" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="1008" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

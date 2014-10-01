@@ -532,73 +532,73 @@
 		<string>iMatra_reph-deva</string>
 		<string>iMatra_reph_anusvara-deva</string>
 		<string>iMatra-deva</string>
-		<string>iiMatra-deva</string>
 		<string>iiMatra_reph-deva</string>
 		<string>iiMatra_reph_anusvara-deva</string>
+		<string>iiMatra-deva</string>
 		<string>oCandraMatra-deva</string>
 		<string>oShortMatra-deva</string>
-		<string>oMatra-deva</string>
 		<string>oMatra_anusvara-deva</string>
 		<string>oMatra_reph-deva</string>
 		<string>oMatra_reph_anusvara-deva</string>
-		<string>auMatra-deva</string>
+		<string>oMatra-deva</string>
+		<string>auMatra_anusvara-deva</string>
 		<string>auMatra_reph-deva</string>
 		<string>auMatra_reph_anusvara-deva</string>
-		<string>auMatra_anusvara-deva</string>
+		<string>auMatra-deva</string>
 		<string>prishthaMatraE-deva</string>
 		<string>ooeMatra-deva</string>
 		<string>awMatra-deva</string>
-		<string>iMatra-deva.00</string>
 		<string>iMatra_reph-deva.00</string>
 		<string>iMatra_reph_anusvara-deva.00</string>
-		<string>iMatra-deva.01</string>
+		<string>iMatra-deva.00</string>
 		<string>iMatra_reph-deva.01</string>
 		<string>iMatra_reph_anusvara-deva.01</string>
-		<string>iiMatra-deva.01</string>
+		<string>iMatra-deva.01</string>
 		<string>iiMatra_reph-deva.01</string>
 		<string>iiMatra_reph_anusvara-deva.01</string>
-		<string>iMatra-deva.02</string>
+		<string>iiMatra-deva.01</string>
 		<string>iMatra_reph-deva.02</string>
 		<string>iMatra_reph_anusvara-deva.02</string>
-		<string>iMatra-deva.03</string>
+		<string>iMatra-deva.02</string>
 		<string>iMatra_reph-deva.03</string>
 		<string>iMatra_reph_anusvara-deva.03</string>
-		<string>iMatra-deva.04</string>
+		<string>iMatra-deva.03</string>
 		<string>iMatra_reph-deva.04</string>
 		<string>iMatra_reph_anusvara-deva.04</string>
-		<string>iMatra-deva.05</string>
+		<string>iMatra-deva.04</string>
 		<string>iMatra_reph-deva.05</string>
 		<string>iMatra_reph_anusvara-deva.05</string>
-		<string>iMatra-deva.06</string>
+		<string>iMatra-deva.05</string>
 		<string>iMatra_reph-deva.06</string>
 		<string>iMatra_reph_anusvara-deva.06</string>
-		<string>iMatra-deva.07</string>
+		<string>iMatra-deva.06</string>
 		<string>iMatra_reph-deva.07</string>
 		<string>iMatra_reph_anusvara-deva.07</string>
-		<string>iMatra-deva.08</string>
+		<string>iMatra-deva.07</string>
 		<string>iMatra_reph-deva.08</string>
 		<string>iMatra_reph_anusvara-deva.08</string>
-		<string>iMatra-deva.09</string>
+		<string>iMatra-deva.08</string>
 		<string>iMatra_reph-deva.09</string>
 		<string>iMatra_reph_anusvara-deva.09</string>
-		<string>iMatra-deva.10</string>
+		<string>iMatra-deva.09</string>
 		<string>iMatra_reph-deva.10</string>
 		<string>iMatra_reph_anusvara-deva.10</string>
-		<string>iMatra-deva.11</string>
+		<string>iMatra-deva.10</string>
 		<string>iMatra_reph-deva.11</string>
 		<string>iMatra_reph_anusvara-deva.11</string>
-		<string>iMatra-deva.12</string>
+		<string>iMatra-deva.11</string>
 		<string>iMatra_reph-deva.12</string>
 		<string>iMatra_reph_anusvara-deva.12</string>
-		<string>iMatra-deva.13</string>
+		<string>iMatra-deva.12</string>
 		<string>iMatra_reph-deva.13</string>
 		<string>iMatra_reph_anusvara-deva.13</string>
-		<string>iMatra-deva.14</string>
+		<string>iMatra-deva.13</string>
 		<string>iMatra_reph-deva.14</string>
 		<string>iMatra_reph_anusvara-deva.14</string>
-		<string>iMatra-deva.15</string>
+		<string>iMatra-deva.14</string>
 		<string>iMatra_reph-deva.15</string>
 		<string>iMatra_reph_anusvara-deva.15</string>
+		<string>iMatra-deva.15</string>
 		<string>sh-deva.loclMAR</string>
 		<string>sh-deva.ss02</string>
 		<string>zero</string>
@@ -802,48 +802,48 @@
 		<string>reph-deva.loclMAR</string>
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
+		<string>candraBinduAvagraha-deva</string>
+		<string>bindu-deva</string>
 		<string>brevebelow</string>
+		<string>candraBinduDigitThree-deva</string>
+		<string>candraBinduDigitTwo-deva</string>
+		<string>candraBinduVirama-deva</string>
+		<string>doublecandraBinduVirama-deva</string>
+		<string>eightCombiningDigit-deva</string>
+		<string>fiveCombiningDigit-deva</string>
 		<string>foundryicon</string>
+		<string>fourCombiningDigit-deva</string>
 		<string>hookabove</string>
+		<string>nineCombiningDigit-deva</string>
+		<string>nuktathree-deva</string>
+		<string>oneCombiningDigit-deva</string>
 		<string>puso</string>
 		<string>ringacute</string>
-		<string>bindu-deva</string>
-		<string>nuktathree-deva</string>
-		<string>devaHeight</string>
-		<string>devaTecho</string>
-		<string>candraBinduAvagraha-deva</string>
-		<string>candraBinduVirama-deva</string>
-		<string>spacingcandraBindu-deva</string>
-		<string>doublecandraBinduVirama-deva</string>
-		<string>candraBinduDigitTwo-deva</string>
-		<string>candraBinduDigitThree-deva</string>
-		<string>zeroCombiningDigit-deva</string>
-		<string>oneCombiningDigit-deva</string>
-		<string>twoCombiningDigit-deva</string>
-		<string>threeCombiningDigit-deva</string>
-		<string>fourCombiningDigit-deva</string>
-		<string>fiveCombiningDigit-deva</string>
-		<string>sixCombiningDigit-deva</string>
 		<string>sevenCombiningDigit-deva</string>
-		<string>eightCombiningDigit-deva</string>
-		<string>nineCombiningDigit-deva</string>
+		<string>sha_comp</string>
+		<string>sixCombiningDigit-deva</string>
+		<string>spacingcandraBindu-deva</string>
+		<string>threeCombiningDigit-deva</string>
+		<string>twoCombiningDigit-deva</string>
+		<string>zeroCombiningDigit-deva</string>
+		<string>da-deva-compo</string>
 		<string>dd_compo</string>
 		<string>ddh_compo</string>
+		<string>devaHeight</string>
+		<string>devaTecho</string>
 		<string>gha_compo</string>
 		<string>jh_compo</string>
 		<string>ka_compo</string>
 		<string>kha_compo</string>
+		<string>la_compo</string>
 		<string>ma_compo</string>
 		<string>na_compo</string>
 		<string>na_compo_down</string>
 		<string>ny_compo</string>
-		<string>sha_comp</string>
 		<string>tt_compo</string>
 		<string>tth_compo</string>
 		<string>va_compo</string>
 		<string>ya_compo</string>
-		<string>da-deva-compo</string>
-		<string>la_compo</string>
 	</array>
 </dict>
 </plist>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uue-deva" format="1">
-  <advance width="826"/>
+  <advance width="837"/>
   <unicode hex="0977"/>
   <outline>
     <component base="a-deva"/>
-    <component base="uueMatra-deva" xOffset="167"/>
+    <component base="uueMatra-deva" xOffset="437"/>
   </outline>
 </glyph>
