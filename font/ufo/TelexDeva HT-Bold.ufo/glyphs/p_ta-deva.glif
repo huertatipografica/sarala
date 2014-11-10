@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p_ta-deva" format="1">
+  <advance width="650"/>
+  <outline>
+    <contour>
+      <point x="259" y="353" type="line" smooth="yes"/>
+      <point x="131" y="353"/>
+      <point x="53" y="282"/>
+      <point x="53" y="174" type="curve" smooth="yes"/>
+      <point x="53" y="102"/>
+      <point x="77" y="50"/>
+      <point x="104" y="6" type="curve" smooth="yes"/>
+      <point x="163" y="-90" type="line"/>
+      <point x="268" y="-23" type="line"/>
+      <point x="222" y="49" type="line" smooth="yes"/>
+      <point x="206" y="75"/>
+      <point x="188" y="109"/>
+      <point x="188" y="158" type="curve" smooth="yes"/>
+      <point x="188" y="208"/>
+      <point x="227" y="243"/>
+      <point x="295" y="243" type="curve" smooth="yes"/>
+      <point x="435" y="243" type="line"/>
+      <point x="435" y="353" type="line"/>
+    </contour>
+    <contour>
+      <point x="115" y="669" type="line"/>
+      <point x="115" y="443" type="line" smooth="yes"/>
+      <point x="115" y="323"/>
+      <point x="206" y="243"/>
+      <point x="331" y="243" type="curve"/>
+      <point x="341" y="353" type="line"/>
+      <point x="283" y="353"/>
+      <point x="250" y="391"/>
+      <point x="250" y="443" type="curve" smooth="yes"/>
+      <point x="250" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="305" y="575" type="line"/>
+      <point x="305" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="608" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="545" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="285" y="685" type="line"/>
+      <point x="285" y="575" type="line"/>
+      <point x="670" y="575" type="line"/>
+      <point x="670" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="544" y="685" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="478" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="478" y="685" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

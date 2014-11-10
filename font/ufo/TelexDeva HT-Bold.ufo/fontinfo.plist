@@ -10,10 +10,16 @@
 	<string>Copyright © 2014 by Andres Torresi. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-245</integer>
+	<key>description</key>
+	<string>Humanist sans serif font for print and web with Devanagari support.</string>
 	<key>familyName</key>
 	<string>TelexDeva HT</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/09/16 13:20:21</string>
+	<string>2014/11/10 18:03:24</string>
 	<key>openTypeNameDesigner</key>
 	<string>Andres Torresi</string>
 	<key>openTypeNameDesignerURL</key>
@@ -26,6 +32,10 @@
 	<string>TelexDeva HT</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -60,12 +70,14 @@
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
+	<key>trademark</key>
+	<string>Andada ht Pro is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>524</integer>
 </dict>

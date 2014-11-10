@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pa-deva" format="1">
+  <advance width="555"/>
+  <unicode hex="092A"/>
+  <outline>
+    <component base="p-deva"/>
+    <component base="aaMatra-deva" xOffset="249"/>
+    <contour>
+      <point x="404" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="404" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

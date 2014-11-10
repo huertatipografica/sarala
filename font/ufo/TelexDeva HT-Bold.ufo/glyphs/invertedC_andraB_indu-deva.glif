@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedCandraBindu-deva" format="1">
+  <advance width="453"/>
+  <unicode hex="0900"/>
+  <outline>
+    <contour>
+      <point x="383" y="976"/>
+      <point x="328" y="1023"/>
+      <point x="228" y="1023" type="curve" smooth="yes"/>
+      <point x="126" y="1023"/>
+      <point x="69" y="976"/>
+      <point x="40" y="868" type="curve"/>
+      <point x="129" y="841" type="line"/>
+      <point x="149" y="900"/>
+      <point x="181" y="925"/>
+      <point x="228" y="925" type="curve" smooth="yes"/>
+      <point x="275" y="925"/>
+      <point x="307" y="900"/>
+      <point x="327" y="841" type="curve"/>
+      <point x="413" y="866" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="873"/>
+      <point x="155" y="839"/>
+      <point x="155" y="797" type="curve" smooth="yes"/>
+      <point x="155" y="755"/>
+      <point x="189" y="721"/>
+      <point x="231" y="721" type="curve" smooth="yes"/>
+      <point x="273" y="721"/>
+      <point x="307" y="755"/>
+      <point x="307" y="797" type="curve" smooth="yes"/>
+      <point x="307" y="839"/>
+      <point x="273" y="873"/>
+      <point x="231" y="873" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="227" y="998" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="227" y="685" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

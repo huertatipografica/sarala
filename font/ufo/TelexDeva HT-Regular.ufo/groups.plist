@@ -194,8 +194,8 @@
 	</array>
 	<key>@MMK_L_guillemetleft</key>
 	<array>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 	</array>
@@ -466,8 +466,8 @@
 	</array>
 	<key>@MMK_R_guillemetleft</key>
 	<array>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 	</array>

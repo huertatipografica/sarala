@@ -2,9 +2,9 @@
 <glyph name="auMatra_reph_anusvara-deva" format="1">
   <advance width="345"/>
   <outline>
-    <component base="uni093E"/>
-    <component base="aivowelsigndeva" xOffset="-224"/>
-    <component base="uni0930094D_anusvaradeva.imatra" xOffset="96"/>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra-deva" xOffset="-224"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="96"/>
     <contour>
       <point x="262" y="943" type="move" name="top"/>
     </contour>

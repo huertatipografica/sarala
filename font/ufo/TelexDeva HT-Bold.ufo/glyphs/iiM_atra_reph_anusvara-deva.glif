@@ -5,8 +5,8 @@
     dMatraIiRephAnusvara
   </note>
   <outline>
-    <component base="uni0940"/>
-    <component base="uni0930094D_anusvaradeva.imatra" xOffset="36" yOffset="25"/>
+    <component base="iiMatra-deva"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="36" yOffset="25"/>
     <contour>
       <point x="226" y="943" type="move" name="top"/>
     </contour>

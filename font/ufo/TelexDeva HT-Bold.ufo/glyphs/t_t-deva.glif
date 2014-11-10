@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_t-deva" format="1">
+  <advance width="419"/>
+  <outline>
+    <contour>
+      <point x="-20" y="337" type="line"/>
+      <point x="439" y="337" type="line"/>
+      <point x="439" y="447" type="line"/>
+      <point x="-20" y="447" type="line"/>
+    </contour>
+    <component base="t-deva" xOffset="29"/>
+  </outline>
+</glyph>

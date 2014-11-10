@@ -2,7 +2,7 @@
 <glyph name="vi-deva" format="1">
   <advance width="973"/>
   <outline>
-    <component base="uni093F"/>
-    <component base="vadeva" xOffset="323"/>
+    <component base="iMatra-deva"/>
+    <component base="va-deva" xOffset="323"/>
   </outline>
 </glyph>

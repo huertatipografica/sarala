@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="spacingcandrabindudeva" format="1">
-  <advance width="422"/>
-  <unicode hex="A8F2"/>
-  <outline>
-    <component base="candrabindudeva" yOffset="-304"/>
-  </outline>
-</glyph>

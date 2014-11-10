@@ -5,8 +5,8 @@
     dMatraORephAnusvara
   </note>
   <outline>
-    <component base="uni093E"/>
-    <component base="evowelsigndeva_uni0930094D_anus" xOffset="38"/>
+    <component base="aaMatra-deva"/>
+    <component base="eMatra_reph_anusvara-deva" xOffset="38"/>
     <contour>
       <point x="222" y="943" type="move" name="top"/>
     </contour>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reph-deva.alt" format="1">
+  <advance width="307"/>
+  <outline>
+    <contour>
+      <point x="118" y="923"/>
+      <point x="47" y="879"/>
+      <point x="47" y="789" type="curve" smooth="yes"/>
+      <point x="47" y="739"/>
+      <point x="69" y="692"/>
+      <point x="111" y="648" type="curve"/>
+      <point x="188" y="648" type="line"/>
+      <point x="143" y="699"/>
+      <point x="127" y="736"/>
+      <point x="127" y="780" type="curve" smooth="yes"/>
+      <point x="127" y="833"/>
+      <point x="157" y="852"/>
+      <point x="197" y="852" type="curve" smooth="yes"/>
+      <point x="220" y="852"/>
+      <point x="245" y="845"/>
+      <point x="270" y="836" type="curve"/>
+      <point x="287" y="902" type="line"/>
+      <point x="257" y="916"/>
+      <point x="225" y="923"/>
+      <point x="195" y="923" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="144" y="658" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

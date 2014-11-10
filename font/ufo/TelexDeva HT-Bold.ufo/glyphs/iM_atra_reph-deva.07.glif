@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra_reph-deva.07" format="1">
+  <advance width="323"/>
+  <outline>
+    <component base="iMatra-deva.07"/>
+    <component base="reph-deva.imatra" xOffset="1162" yOffset="165"/>
+    <contour>
+      <point x="1387" y="825" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="161" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1373" y="1140" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

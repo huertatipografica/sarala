@@ -2,8 +2,8 @@
 <glyph name="iiMatra_reph_anusvara-deva.01" format="1">
   <advance width="319"/>
   <outline>
-    <component base="uni0940.01"/>
-    <component base="uni0930094D_anusvaradeva" xOffset="-12"/>
+    <component base="iiMatra-deva.01"/>
+    <component base="reph_anusvara-deva" xOffset="-12"/>
     <contour>
       <point x="186" y="910" type="move" name="top"/>
     </contour>

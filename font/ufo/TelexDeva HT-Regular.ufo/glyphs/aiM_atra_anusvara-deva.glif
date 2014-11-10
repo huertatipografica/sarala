@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiMatra_anusvara-deva" format="1">
+  <advance width="436"/>
+  <outline>
+    <component base="aiMatra-deva"/>
+    <component base="anusvara-deva" xOffset="388" yOffset="28"/>
+    <contour>
+      <point x="200" y="928" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="367" y="658" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
