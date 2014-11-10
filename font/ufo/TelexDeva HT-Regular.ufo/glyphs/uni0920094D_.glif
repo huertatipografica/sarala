@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0920094D" format="1">
+  <advance width="599"/>
+  <outline>
+    <component base="tthadeva"/>
+    <component base="viramadeva" xOffset="215"/>
+    <contour>
+      <point x="393" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

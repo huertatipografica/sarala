@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doublecandrabinduviramadeva" format="1">
+  <advance width="422"/>
+  <unicode hex="A8F4"/>
+  <outline>
+    <component base="candrabinduviramadeva" yOffset="-292"/>
+    <component base="candrabindudeva" yOffset="-304"/>
+  </outline>
+</glyph>

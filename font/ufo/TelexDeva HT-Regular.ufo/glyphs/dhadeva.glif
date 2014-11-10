@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dhadeva" format="1">
+  <advance width="654"/>
+  <unicode hex="0927"/>
+  <outline>
+    <component base="uni0927094D"/>
+    <component base="uni093E" xOffset="348"/>
+    <contour>
+      <point x="497" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="497" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

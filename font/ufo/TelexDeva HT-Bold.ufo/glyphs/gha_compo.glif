@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gha_compo" format="1">
+  <advance width="584"/>
+  <outline>
+    <contour>
+      <point x="154" y="468"/>
+      <point x="43" y="429"/>
+      <point x="43" y="317" type="curve" smooth="yes"/>
+      <point x="43" y="217"/>
+      <point x="126" y="164"/>
+      <point x="218" y="164" type="curve" smooth="yes"/>
+      <point x="335" y="164"/>
+      <point x="410" y="213"/>
+      <point x="474" y="262" type="curve"/>
+      <point x="420" y="352" type="line"/>
+      <point x="363" y="294"/>
+      <point x="302" y="267"/>
+      <point x="241" y="267" type="curve" smooth="yes"/>
+      <point x="191" y="267"/>
+      <point x="157" y="281"/>
+      <point x="157" y="321" type="curve" smooth="yes"/>
+      <point x="157" y="359"/>
+      <point x="193" y="374"/>
+      <point x="253" y="374" type="curve" smooth="yes"/>
+      <point x="272" y="374"/>
+      <point x="289" y="372"/>
+      <point x="314" y="368" type="curve"/>
+      <point x="299" y="465" type="line"/>
+      <point x="284" y="467"/>
+      <point x="269" y="468"/>
+      <point x="254" y="468" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="54" y="612"/>
+      <point x="43" y="573"/>
+      <point x="43" y="536" type="curve" smooth="yes"/>
+      <point x="43" y="487"/>
+      <point x="71" y="429"/>
+      <point x="138" y="410" type="curve"/>
+      <point x="237" y="448" type="line"/>
+      <point x="191" y="455"/>
+      <point x="157" y="494"/>
+      <point x="157" y="534" type="curve" smooth="yes"/>
+      <point x="157" y="574"/>
+      <point x="181" y="596"/>
+      <point x="220" y="617" type="curve"/>
+      <point x="77" y="639" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="630" type="line"/>
+      <point x="407" y="147" type="line"/>
+      <point x="517" y="147" type="line"/>
+      <point x="517" y="630" type="line"/>
+    </contour>
+  </outline>
+</glyph>

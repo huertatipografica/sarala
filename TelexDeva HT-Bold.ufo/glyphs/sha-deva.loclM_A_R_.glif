@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sha-deva.loclMAR" format="1">
-  <advance width="740"/>
-  <outline>
-    <component base="sh-deva.loclMAR"/>
-    <component base="aaMatra-deva" xOffset="395"/>
-  </outline>
-</glyph>

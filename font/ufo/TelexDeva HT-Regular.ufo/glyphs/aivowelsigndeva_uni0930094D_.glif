@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aivowelsigndeva_uni0930094D" format="1">
+  <advance width="270"/>
+  <note>
+    dMatraAiReph
+  </note>
+  <outline>
+    <contour>
+      <point x="178" y="923"/>
+      <point x="107" y="879"/>
+      <point x="107" y="789" type="curve" smooth="yes"/>
+      <point x="107" y="739"/>
+      <point x="118" y="692"/>
+      <point x="141" y="648" type="curve"/>
+      <point x="218" y="648" type="line"/>
+      <point x="199" y="689"/>
+      <point x="186" y="734"/>
+      <point x="186" y="771" type="curve" smooth="yes"/>
+      <point x="186" y="817"/>
+      <point x="206" y="852"/>
+      <point x="257" y="852" type="curve" smooth="yes"/>
+      <point x="280" y="852"/>
+      <point x="305" y="846"/>
+      <point x="330" y="833" type="curve"/>
+      <point x="347" y="899" type="line"/>
+      <point x="317" y="916"/>
+      <point x="285" y="923"/>
+      <point x="255" y="923" type="curve" smooth="yes"/>
+    </contour>
+    <component base="aivowelsigndeva" xOffset="-221"/>
+    <contour>
+      <point x="247" y="908" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="146" y="658" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

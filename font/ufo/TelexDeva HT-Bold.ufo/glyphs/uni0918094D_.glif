@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0918094D" format="1">
+  <advance width="361"/>
+  <outline>
+    <contour>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="476" y="575" type="line"/>
+      <point x="476" y="685" type="line"/>
+    </contour>
+    <component base="uni0927094D"/>
+    <contour>
+      <point x="181" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="181" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

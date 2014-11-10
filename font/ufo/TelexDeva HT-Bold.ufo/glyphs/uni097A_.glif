@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni097A" format="1">
+  <advance width="695"/>
+  <unicode hex="097A"/>
+  <outline>
+    <contour>
+      <point x="479" y="217" type="line"/>
+      <point x="474" y="369" type="line"/>
+      <point x="260" y="593" type="line"/>
+      <point x="187" y="530" type="line"/>
+    </contour>
+    <component base="uni092F"/>
+    <contour>
+      <point x="523" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="523" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

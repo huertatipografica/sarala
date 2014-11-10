@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0923094D" format="1">
+  <advance width="453"/>
+  <outline>
+    <contour>
+      <point x="309" y="609" type="line"/>
+      <point x="309" y="389" type="line" smooth="yes"/>
+      <point x="309" y="343"/>
+      <point x="292" y="307"/>
+      <point x="248" y="307" type="curve" smooth="yes"/>
+      <point x="204" y="307"/>
+      <point x="187" y="343"/>
+      <point x="187" y="389" type="curve" smooth="yes"/>
+      <point x="187" y="609" type="line"/>
+      <point x="52" y="609" type="line"/>
+      <point x="52" y="383" type="line" smooth="yes"/>
+      <point x="52" y="271"/>
+      <point x="129" y="197"/>
+      <point x="248" y="197" type="curve" smooth="yes"/>
+      <point x="367" y="197"/>
+      <point x="444" y="271"/>
+      <point x="444" y="383" type="curve" smooth="yes"/>
+      <point x="444" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="685" type="line"/>
+      <point x="-20" y="575" type="line"/>
+      <point x="516" y="575" type="line"/>
+      <point x="516" y="685" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

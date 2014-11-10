@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="doublecandraBinduVirama-deva" format="1">
-  <advance width="453"/>
-  <outline>
-    <component base="candraBinduVirama-deva" yOffset="-316"/>
-    <component base="candraBindu-deva" yOffset="-304"/>
-  </outline>
-</glyph>

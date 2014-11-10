@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odeva" format="1">
+  <advance width="1182"/>
+  <unicode hex="0913"/>
+  <outline>
+    <component base="aadeva"/>
+    <component base="evowelsigndeva" xOffset="774"/>
+    <contour>
+      <point x="1010" y="867" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1010" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F0930094D0902.07" format="1">
+  <advance width="305"/>
+  <outline>
+    <component base="uni093F.07"/>
+    <component base="uni0930094D_anusvaradeva.imatra" xOffset="1126" yOffset="124"/>
+    <contour>
+      <point x="1263" y="782" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="153" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1263" y="1020" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

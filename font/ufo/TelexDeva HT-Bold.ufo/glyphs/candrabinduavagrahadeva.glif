@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="candrabinduavagrahadeva" format="1">
+  <advance width="470"/>
+  <unicode hex="A8F7"/>
+  <outline>
+    <contour>
+      <point x="414" y="101"/>
+      <point x="358" y="130"/>
+      <point x="272" y="180" type="curve"/>
+      <point x="210" y="218"/>
+      <point x="197" y="220"/>
+      <point x="197" y="241" type="curve"/>
+      <point x="197" y="259"/>
+      <point x="209" y="264"/>
+      <point x="242" y="264" type="curve"/>
+      <point x="394" y="264" type="line"/>
+      <point x="394" y="375" type="line"/>
+      <point x="242" y="375" type="line"/>
+      <point x="142" y="375"/>
+      <point x="81" y="332"/>
+      <point x="81" y="245" type="curve"/>
+      <point x="81" y="168"/>
+      <point x="132" y="131"/>
+      <point x="203" y="91" type="curve"/>
+      <point x="272" y="52"/>
+      <point x="298" y="43"/>
+      <point x="298" y="8" type="curve"/>
+      <point x="298" y="-24"/>
+      <point x="276" y="-42"/>
+      <point x="236" y="-42" type="curve"/>
+      <point x="182" y="-42"/>
+      <point x="129" y="-3"/>
+      <point x="101" y="51" type="curve"/>
+      <point x="13" y="-6" type="line"/>
+      <point x="54" y="-88"/>
+      <point x="139" y="-149"/>
+      <point x="236" y="-149" type="curve"/>
+      <point x="337" y="-149"/>
+      <point x="414" y="-99"/>
+      <point x="414" y="8" type="curve"/>
+    </contour>
+    <component base="candrabindudeva" xOffset="13" yOffset="-305"/>
+  </outline>
+</glyph>

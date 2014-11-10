@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="viramadeva" format="1">
+  <advance width="317"/>
+  <unicode hex="094D"/>
+  <outline>
+    <contour>
+      <point x="130" y="-22" type="line"/>
+      <point x="29" y="-112" type="line"/>
+      <point x="243" y="-304" type="line"/>
+      <point x="306" y="-242" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

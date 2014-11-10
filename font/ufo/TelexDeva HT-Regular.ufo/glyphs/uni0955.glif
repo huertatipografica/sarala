@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0955" format="1">
+  <advance width="486"/>
+  <unicode hex="0955"/>
+  <outline>
+    <component base="anudattadeva" xOffset="30" yOffset="877"/>
+    <component base="ecandravowelsigndeva" xOffset="30" yOffset="75"/>
+  </outline>
+</glyph>

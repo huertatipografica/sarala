@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="evowelsigndeva" format="1">
+  <advance width="342"/>
+  <unicode hex="0947"/>
+  <outline>
+    <contour>
+      <point x="322" y="648" type="line"/>
+      <point x="82" y="948" type="line"/>
+      <point x="20" y="904" type="line"/>
+      <point x="241" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="730" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="277" y="658" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
