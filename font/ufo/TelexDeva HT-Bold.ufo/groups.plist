@@ -430,6 +430,10 @@
 		<string>egrave</string>
 		<string>emacron</string>
 		<string>eogonek</string>
+		<string>g</string>
+		<string>gbreve</string>
+		<string>gcircumflex</string>
+		<string>gdotaccent</string>
 		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
@@ -456,13 +460,6 @@
 	<key>@MMK_R_four</key>
 	<array>
 		<string>four</string>
-	</array>
-	<key>@MMK_R_g</key>
-	<array>
-		<string>g</string>
-		<string>gbreve</string>
-		<string>gcircumflex</string>
-		<string>gdotaccent</string>
 	</array>
 	<key>@MMK_R_guillemetleft</key>
 	<array>

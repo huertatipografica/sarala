@@ -193,8 +193,6 @@
 		<integer>-45</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-75</integer>
-		<key>@MMK_R_g</key>
-		<integer>-45</integer>
 		<key>@MMK_R_guillemetleft</key>
 		<integer>-38</integer>
 		<key>@MMK_R_kgreenlandic</key>
@@ -330,8 +328,6 @@
 		<integer>-15</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-60</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
 	</dict>
 	<key>@MMK_L_five</key>
 	<dict>
@@ -365,8 +361,6 @@
 		<integer>-15</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-60</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
 	</dict>
 	<key>@MMK_L_s</key>
 	<dict>
