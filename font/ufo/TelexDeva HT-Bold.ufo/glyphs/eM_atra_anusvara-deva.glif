@@ -8,9 +8,6 @@
     <component base="anusvara-deva" xOffset="168" yOffset="97" xScale="0.928" yScale="0.928"/>
     <component base="eMatra-deva" xOffset="-11"/>
     <contour>
-      <point x="285" y="878" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="225" y="685" type="move" name="_top"/>
     </contour>
   </outline>

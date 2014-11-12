@@ -6,7 +6,7 @@
   </note>
   <outline>
     <component base="iiMatra-deva"/>
-    <component base="reph_anusvara-deva.imatra" xOffset="56"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="41" yOffset="10"/>
     <contour>
       <point x="185" y="908" type="move" name="top"/>
     </contour>

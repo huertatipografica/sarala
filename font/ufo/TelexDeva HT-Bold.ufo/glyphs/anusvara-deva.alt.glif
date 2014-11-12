@@ -2,7 +2,7 @@
 <glyph name="anusvara-deva.alt" format="1">
   <advance width="252"/>
   <outline>
-    <component base="anusvara-deva" yOffset="236"/>
+    <component base="anusvara-deva" yOffset="187"/>
     <contour>
       <point x="125" y="675" type="move" name="_top"/>
     </contour>

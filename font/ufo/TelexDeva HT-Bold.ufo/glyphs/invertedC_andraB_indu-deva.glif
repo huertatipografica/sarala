@@ -34,9 +34,6 @@
       <point x="231" y="873" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="227" y="998" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="227" y="685" type="move" name="_top"/>
     </contour>
   </outline>

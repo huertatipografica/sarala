@@ -3,7 +3,7 @@
   <advance width="305"/>
   <outline>
     <component base="iMatra-deva.11"/>
-    <component base="reph_anusvara-deva.imatra" xOffset="1564" yOffset="140"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="1549" yOffset="150"/>
     <contour>
       <point x="1701" y="798" type="move" name="imatra"/>
     </contour>

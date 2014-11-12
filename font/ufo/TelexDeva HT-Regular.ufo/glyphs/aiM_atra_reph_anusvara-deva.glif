@@ -8,9 +8,6 @@
     <component base="anusvara-deva" xOffset="207" yOffset="86" xScale="0.888" yScale="0.888"/>
     <component base="aiMatra_reph-deva"/>
     <contour>
-      <point x="117" y="928" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="145" y="658" type="move" name="_top"/>
     </contour>
   </outline>

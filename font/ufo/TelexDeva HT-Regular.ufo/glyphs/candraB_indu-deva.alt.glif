@@ -4,7 +4,7 @@
   <outline>
     <component base="candraBindu-deva" xOffset="190"/>
     <contour>
-      <point x="211" y="658" type="move" name="_top"/>
+      <point x="181" y="658" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

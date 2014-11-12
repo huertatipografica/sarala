@@ -18,7 +18,7 @@
     </contour>
     <component base="reph-deva.imatra" xOffset="-37"/>
     <contour>
-      <point x="137" y="658" type="move" name="_imatra"/>
+      <point x="152" y="648" type="move" name="_imatra"/>
     </contour>
     <contour>
       <point x="108" y="658" type="move" name="_top"/>

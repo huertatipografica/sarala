@@ -29,9 +29,6 @@
     </contour>
     <component base="aiMatra-deva" xOffset="-221"/>
     <contour>
-      <point x="247" y="908" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="146" y="658" type="move" name="_top"/>
     </contour>
   </outline>

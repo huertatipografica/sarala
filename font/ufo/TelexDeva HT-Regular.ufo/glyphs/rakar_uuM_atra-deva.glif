@@ -6,7 +6,7 @@
   </note>
   <outline>
     <component base="rakar-deva"/>
-    <component base="uuMatra-deva" xOffset="-55" yOffset="-263"/>
+    <component base="uuMatra-deva" xOffset="-65" yOffset="-273"/>
     <contour>
       <point x="130" y="0" type="move" name="_bottom"/>
     </contour>
