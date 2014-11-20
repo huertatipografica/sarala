@@ -61,13 +61,13 @@
       <point x="800" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="674" y="685" type="move" name="imatra"/>
+      <point x="606" y="685" type="move" name="top"/>
     </contour>
     <contour>
       <point x="606" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="606" y="685" type="move" name="top"/>
+      <point x="674" y="685" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

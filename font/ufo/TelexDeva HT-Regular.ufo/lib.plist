@@ -2,6 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.fontMaster.userData</key>
+	<dict>
+		<key>angle</key>
+		<string>-30</string>
+		<key>height</key>
+		<integer>65</integer>
+		<key>width</key>
+		<integer>85</integer>
+	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>06DA83F7-7F04-4345-A73D-275D0ED9D5E5</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
@@ -460,8 +469,14 @@
 		<string>h_ra-deva</string>
 		<string>h_la-deva</string>
 		<string>h_va-deva</string>
+		<string>d_na_uMatra-deva.001</string>
 		<string>c_ca-deva.alt</string>
 		<string>t_ra-deva.alt</string>
+		<string>k_la-deva.loclMAR</string>
+		<string>p_la-deva.loclMAR</string>
+		<string>ph_la-deva.loclMAR</string>
+		<string>b_la-deva.loclMAR</string>
+		<string>l_la-deva.loclMAR</string>
 		<string>sh_la-deva.loclMAR</string>
 		<string>k_ra-deva.loclNEP</string>
 		<string>a-deva.comb</string>
@@ -618,6 +633,8 @@
 		<string>iMatra_reph-deva.15</string>
 		<string>iMatra_reph_anusvara-deva.15</string>
 		<string>iMatra-deva.15</string>
+		<string>lVocalic-deva.loclMAR</string>
+		<string>llVocalic-deva.loclMAR</string>
 		<string>sh-deva.loclMAR</string>
 		<string>jh-deva.loclNEP</string>
 		<string>sh-deva.ss02</string>
@@ -848,6 +865,8 @@
 		<string>reph-deva.loclMAR</string>
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
+		<string>ya.connect</string>
+		<string>da_small</string>
 		<string>brevebelow</string>
 		<string>foundryicon</string>
 		<string>hookabove</string>

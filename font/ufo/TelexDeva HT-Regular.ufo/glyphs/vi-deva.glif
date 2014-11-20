@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="vi-deva" format="1">
-  <advance width="882"/>
+  <advance width="885"/>
   <outline>
     <component base="iMatra-deva"/>
     <component base="va-deva" xOffset="305"/>

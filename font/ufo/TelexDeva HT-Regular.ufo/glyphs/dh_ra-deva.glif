@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dh_ra-deva" format="1">
-  <advance width="654"/>
+  <advance width="618"/>
   <outline>
     <contour>
       <point x="142" y="-7" type="line"/>
       <point x="192" y="-65" type="line"/>
       <point x="473" y="154" type="line"/>
       <point x="473" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="606" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="606" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="658" type="line"/>
+      <point x="294" y="583" type="line"/>
+      <point x="636" y="583" type="line"/>
+      <point x="636" y="658" type="line"/>
     </contour>
     <contour>
       <point x="149" y="407"/>
@@ -59,25 +71,13 @@
       <point x="235" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="458" y="606" type="line"/>
-      <point x="458" y="0" type="line"/>
-      <point x="543" y="0" type="line"/>
-      <point x="543" y="606" type="line"/>
+      <point x="464" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="330" y="658" type="line"/>
-      <point x="330" y="583" type="line"/>
-      <point x="672" y="583" type="line"/>
-      <point x="672" y="658" type="line"/>
+      <point x="464" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="541" y="658" type="move" name="imatra"/>
-    </contour>
-    <contour>
-      <point x="501" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="502" y="658" type="move" name="top"/>
+      <point x="505" y="658" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

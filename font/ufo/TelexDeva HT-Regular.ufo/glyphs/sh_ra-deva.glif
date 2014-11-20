@@ -55,13 +55,13 @@
       <point x="269" y="661" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="684" y="658" type="move" name="imatra"/>
+      <point x="645" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="645" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="645" y="658" type="move" name="top"/>
+      <point x="684" y="658" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

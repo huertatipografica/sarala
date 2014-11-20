@@ -3,16 +3,10 @@
   <advance width="802"/>
   <outline>
     <contour>
-      <point x="365" y="2" type="line"/>
-      <point x="446" y="-85" type="line"/>
-      <point x="644" y="82" type="line"/>
-      <point x="644" y="231" type="line"/>
-    </contour>
-    <contour>
-      <point x="562" y="10" type="line"/>
-      <point x="562" y="-55" type="line"/>
-      <point x="697" y="-55" type="line"/>
-      <point x="697" y="10" type="line"/>
+      <point x="344" y="87" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="633" y="184" type="line"/>
+      <point x="633" y="330" type="line"/>
     </contour>
     <contour>
       <point x="-20" y="575" type="line"/>
@@ -71,13 +65,13 @@
       <point x="822" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="696" y="685" type="move" name="imatra"/>
+      <point x="630" y="685" type="move" name="top"/>
     </contour>
     <contour>
       <point x="630" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="630" y="687" type="move" name="top"/>
+      <point x="696" y="685" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

@@ -348,6 +348,8 @@ sub eight-deva by eight-deva.loclNEP;
 language MAR;
 sub la-deva by la-deva.loclMAR;
 sub sha-deva by sha-deva.loclMAR;
+sub lVocalic-deva by lVocalic-deva.loclMAR;
+sub llVocalic-deva by llVocalic-deva.loclMAR;
 sub sh-deva by sh-deva.loclMAR;
 sub reph-deva by reph-deva.loclMAR;
 } locl;
@@ -612,8 +614,10 @@ sub k-deva ta-deva by k_ta-deva;
 sub k-deva la-deva by k_la-deva;
 sub k-deva va-deva by k_va-deva;
 sub k-deva ssa-deva by k_ssa-deva;
+sub k-deva ss_ra-deva by k_ss_ra-deva;
 sub g-deva na-deva by g_na-deva;
 sub ng-deva ka-deva by ng_ka-deva;
+sub ng-deva k-deva ssa-deva by ng_k_ssa-deva;
 sub ng-deva kha-deva by ng_kha-deva;
 sub ng-deva ga-deva by ng_ga-deva;
 sub ng-deva gha-deva by ng_gha-deva;
@@ -622,6 +626,7 @@ sub c-deva ca-deva by c_ca-deva;
 sub ch-deva va-deva by ch_va-deva;
 sub j-deva ja-deva by j_ja-deva;
 sub j-deva nya-deva by j_nya-deva;
+sub j-deva ny_ra-deva by j_ny_ra-deva;
 sub jha-deva uMatra-deva by jha_uMatra-deva;
 sub ny-deva ca-deva by ny_ca-deva;
 sub ny-deva ja-deva by ny_ja-deva;
@@ -683,13 +688,16 @@ sub p-deva la-deva by p_la-deva;
 sub ph-deva la-deva by ph_la-deva;
 sub b-deva la-deva by b_la-deva;
 sub ra-deva uMatra-deva by ra_uMatra-deva;
+sub ra-deva uuMatra-deva by ra_uuMatra-deva;
 sub l-deva la-deva by l_la-deva;
 sub sh-deva rVocalic-deva by sh_rVocalic-deva;
 sub sh-deva ca-deva by sh_ca-deva;
 sub sh-deva na-deva by sh_na-deva;
+sub sh-deva la-deva by sh_la-deva;
 sub sh-deva va-deva by sh_va-deva;
 sub ss-deva tta-deva by ss_tta-deva;
 sub ss-deva ttha-deva by ss_ttha-deva;
+sub s-deva t_ra-deva by s_t_ra-deva;
 sub ha-deva uMatra-deva by ha_uMatra-deva;
 sub ha-deva rVocalicMatra-deva by ha_rVocalicMatra-deva;
 sub h-deva rVocalic-deva by h_rVocalic-deva;
@@ -703,6 +711,7 @@ sub h-deva va-deva by h_va-deva;
 
 feature abvs {
 # BEGIN Above-Base Substitutions
+lookup Abvs1_devanagari {
 sub iMatra-deva reph-deva anusvara-deva by iMatra_reph_anusvara-deva;
 sub iMatra-deva reph-deva by iMatra_reph-deva;
 sub iiMatra-deva reph-deva anusvara-deva by iiMatra_reph_anusvara-deva;
@@ -722,8 +731,9 @@ sub aiMatra-deva reph-deva by aiMatra_reph-deva;
 sub reph-deva anusvara-deva by reph_anusvara-deva;
 sub rakar-deva uMatra-deva by rakar_uMatra-deva;
 sub rakar-deva uuMatra-deva by rakar_uuMatra-deva;
+} Abvs1_devanagari;
 
-
+lookup Abvs2_devanagari {
 sub @iMatra' @Deva [reph-deva] by @iMatra_reph;
 sub @iMatra' @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
 sub @iMatra' @Deva @Deva [reph-deva] by @iMatra_reph;
@@ -733,13 +743,9 @@ sub @iMatra' @Deva @Deva @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
 sub @iMatra' @Deva @Deva @Deva @Deva [reph-deva] by @iMatra_reph;
 sub @iMatra' @Deva @Deva @Deva @Deva [reph_anusvara-deva] by @iMatra_reph_anusvara;
 
-#remove reph
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
-sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
 #utiliza un candraBindu alternativo en iMatra
+sub @iMatra_reph_anusvara candraBindu-deva' by candraBindu-deva.alt;
+sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] candraBindu-deva' by candraBindu-deva.alt;
 sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva candraBindu-deva' by candraBindu-deva.alt;
 sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
 sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva candraBindu-deva' by candraBindu-deva.alt;
@@ -752,8 +758,18 @@ sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva anusvara-deva
 sub [@iMatra @iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva anusvara-deva' by anusvara-deva.alt;
 
 #candraBindu y anusvara alternativo despues de reph
-sub [reph-deva reph_anusvara-deva] [candraBindu-deva anusvara-deva]' by [candraBindu-deva.alt anusvara-deva.alt];
+sub [reph_anusvara-deva reph-deva] [candraBindu-deva anusvara-deva]' by [candraBindu-deva.alt anusvara-deva.alt];
 
+
+#remove reph
+sub [@iMatra_reph @iMatra_reph_anusvara] @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
+sub [@iMatra_reph @iMatra_reph_anusvara] @Deva @Deva @Deva @Deva @Deva' lookup removeReph [reph-deva reph_anusvara-deva]';
+
+
+} Abvs2_devanagari;
 # END Above-Base Substitutions
 } abvs;
 

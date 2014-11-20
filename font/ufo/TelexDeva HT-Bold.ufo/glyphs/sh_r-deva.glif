@@ -15,6 +15,6 @@
       <point x="627" y="199" type="line"/>
       <point x="627" y="278" type="line"/>
     </contour>
-    <component base="sh-deva.ss02"/>
+    <component base="sha_comp"/>
   </outline>
 </glyph>

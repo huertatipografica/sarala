@@ -19,7 +19,7 @@
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/11/10 18:03:24</string>
+	<string>2014/11/20 20:11:14</string>
 	<key>openTypeNameDesigner</key>
 	<string>Andres Torresi</string>
 	<key>openTypeNameDesignerURL</key>
@@ -71,13 +71,13 @@
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>Andada ht Pro is a trademark of Carolina Giovagnoli (huertatipografica.com.ar).</string>
+	<string>TelexDeva is a trademark of Andres Torresi (huertatipografica.com.ar).</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>524</integer>
 </dict>

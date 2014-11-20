@@ -362,6 +362,8 @@
 	<string>b-deva.glif</string>
 	<key>b_la-deva</key>
 	<string>b_la-deva.glif</string>
+	<key>b_la-deva.loclMAR</key>
+	<string>b_la-deva.loclM_A_R_.glif</string>
 	<key>b_r-deva</key>
 	<string>b_r-deva.glif</string>
 	<key>b_ra-deva</key>
@@ -502,6 +504,8 @@
 	<string>d_na-deva.glif</string>
 	<key>d_na_uMatra-deva</key>
 	<string>d_na_uM_atra-deva.glif</string>
+	<key>d_na_uMatra-deva.001</key>
+	<string>d_na_uM_atra-deva.001.glif</string>
 	<key>d_rVocalicMatra-deva</key>
 	<string>d_rV_ocalicM_atra-deva.glif</string>
 	<key>d_r_ya-deva</key>
@@ -522,6 +526,8 @@
 	<string>da-deva.glif</string>
 	<key>da-deva-compo</key>
 	<string>da-deva-compo.glif</string>
+	<key>da_small</key>
+	<string>da_small.glif</string>
 	<key>da_uMatra-deva</key>
 	<string>da_uM_atra-deva.glif</string>
 	<key>dagger</key>
@@ -1004,6 +1010,8 @@
 	<string>k_ka-deva.glif</string>
 	<key>k_la-deva</key>
 	<string>k_la-deva.glif</string>
+	<key>k_la-deva.loclMAR</key>
+	<string>k_la-deva.loclM_A_R_.glif</string>
 	<key>k_ra-deva</key>
 	<string>k_ra-deva.glif</string>
 	<key>k_ra-deva.loclNEP</key>
@@ -1044,10 +1052,14 @@
 	<string>l-deva.glif</string>
 	<key>lVocalic-deva</key>
 	<string>lV_ocalic-deva.glif</string>
+	<key>lVocalic-deva.loclMAR</key>
+	<string>lV_ocalic-deva.loclM_A_R_.glif</string>
 	<key>lVocalicMatra-deva</key>
 	<string>lV_ocalicM_atra-deva.glif</string>
 	<key>l_la-deva</key>
 	<string>l_la-deva.glif</string>
+	<key>l_la-deva.loclMAR</key>
+	<string>l_la-deva.loclM_A_R_.glif</string>
 	<key>l_ra-deva</key>
 	<string>l_ra-deva.glif</string>
 	<key>la-deva</key>
@@ -1072,6 +1084,8 @@
 	<string>ll-deva.glif</string>
 	<key>llVocalic-deva</key>
 	<string>llV_ocalic-deva.glif</string>
+	<key>llVocalic-deva.loclMAR</key>
+	<string>llV_ocalic-deva.loclM_A_R_.glif</string>
 	<key>llVocalicMatra-deva</key>
 	<string>llV_ocalicM_atra-deva.glif</string>
 	<key>lla-deva</key>
@@ -1264,6 +1278,8 @@
 	<string>p-deva.glif</string>
 	<key>p_la-deva</key>
 	<string>p_la-deva.glif</string>
+	<key>p_la-deva.loclMAR</key>
+	<string>p_la-deva.loclM_A_R_.glif</string>
 	<key>p_ra-deva</key>
 	<string>p_ra-deva.glif</string>
 	<key>p_ta-deva</key>
@@ -1294,6 +1310,8 @@
 	<string>ph-deva.glif</string>
 	<key>ph_la-deva</key>
 	<string>ph_la-deva.glif</string>
+	<key>ph_la-deva.loclMAR</key>
+	<string>ph_la-deva.loclM_A_R_.glif</string>
 	<key>ph_r_nukta-deva</key>
 	<string>ph_r_nukta-deva.glif</string>
 	<key>ph_ra-deva</key>
@@ -1690,6 +1708,8 @@
 	<string>y_ra-deva.glif</string>
 	<key>ya-deva</key>
 	<string>ya-deva.glif</string>
+	<key>ya.connect</key>
+	<string>ya.connect.glif</string>
 	<key>ya_compo</key>
 	<string>ya_compo.glif</string>
 	<key>yacute</key>

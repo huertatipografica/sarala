@@ -46,6 +46,12 @@
       <point x="249" y="640" type="curve"/>
     </contour>
     <contour>
+      <point x="464" y="110" type="line"/>
+      <point x="514" y="52" type="line"/>
+      <point x="725" y="219" type="line"/>
+      <point x="725" y="311" type="line"/>
+    </contour>
+    <contour>
       <point x="481" y="502"/>
       <point x="409" y="433"/>
       <point x="409" y="337" type="curve" smooth="yes"/>
@@ -78,12 +84,6 @@
       <point x="-20" y="583" type="line"/>
       <point x="716" y="583" type="line"/>
       <point x="716" y="658" type="line"/>
-    </contour>
-    <contour>
-      <point x="394" y="58" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="725" y="219" type="line"/>
-      <point x="725" y="311" type="line"/>
     </contour>
     <contour>
       <point x="161" y="13" type="move" name="nukta"/>
