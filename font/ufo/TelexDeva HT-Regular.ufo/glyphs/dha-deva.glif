@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dha-deva" format="1">
-  <advance width="726"/>
+  <advance width="724"/>
   <unicode hex="0927"/>
   <outline>
     <component base="dh-deva"/>
-    <component base="aaMatra-deva" xOffset="420"/>
+    <component base="aaMatra-deva" xOffset="418"/>
     <contour>
       <point x="497" y="658" type="move" name="top"/>
     </contour>

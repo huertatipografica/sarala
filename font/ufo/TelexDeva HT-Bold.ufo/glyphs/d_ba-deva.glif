@@ -3,10 +3,10 @@
   <advance width="624"/>
   <outline>
     <contour>
-      <point x="316" y="-20" type="line"/>
-      <point x="363" y="22" type="line"/>
-      <point x="213" y="176" type="line"/>
-      <point x="171" y="127" type="line"/>
+      <point x="302" y="-20" type="line"/>
+      <point x="349" y="22" type="line"/>
+      <point x="189" y="186" type="line"/>
+      <point x="147" y="137" type="line"/>
     </contour>
     <component base="d_va-deva"/>
     <contour>

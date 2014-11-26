@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d_dha_uMatra-deva" format="1">
-  <advance width="743"/>
+  <advance width="784"/>
   <outline>
     <component base="d_dha-deva"/>
-    <component base="uMatra-deva" xOffset="421"/>
+    <component base="uMatra-deva" xOffset="479"/>
     <contour>
-      <point x="558" y="685" type="move" name="top"/>
+      <point x="611" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="709" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

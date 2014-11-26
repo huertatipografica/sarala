@@ -6,7 +6,7 @@
     <component base="gh-deva"/>
     <component base="aaMatra-deva" xOffset="348"/>
     <contour>
-      <point x="501" y="658" type="move" name="top"/>
+      <point x="502" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="501" y="0" type="move" name="bottom"/>

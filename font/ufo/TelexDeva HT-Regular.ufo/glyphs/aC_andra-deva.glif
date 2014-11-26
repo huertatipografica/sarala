@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aCandra-deva" format="1">
-  <advance width="769"/>
+  <advance width="788"/>
   <unicode hex="0972"/>
   <outline>
     <component base="a-deva"/>
-    <component base="eCandraMatra-deva" xOffset="405"/>
+    <component base="eCandraMatra-deva" xOffset="424"/>
     <contour>
-      <point x="617" y="859" type="move" name="top"/>
+      <point x="635" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="617" y="0" type="move" name="bottom"/>
+      <point x="635" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>
