@@ -3,7 +3,7 @@
   <advance width="314"/>
   <outline>
     <component base="g-deva"/>
-    <component base="nukta-deva" xOffset="48" yOffset="158"/>
+    <component base="nukta-deva" xOffset="48" yOffset="178"/>
     <contour>
       <point x="177" y="685" type="move" name="top"/>
     </contour>

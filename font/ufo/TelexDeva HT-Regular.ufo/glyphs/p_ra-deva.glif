@@ -8,50 +8,12 @@
       <point x="419" y="209" type="line"/>
       <point x="419" y="301" type="line"/>
     </contour>
-    <contour>
-      <point x="-10" y="583" type="line"/>
-      <point x="291" y="583" type="line"/>
-      <point x="291" y="658" type="line"/>
-      <point x="-10" y="658" type="line"/>
-    </contour>
-    <contour>
-      <point x="360" y="330" type="line"/>
-      <point x="325" y="291"/>
-      <point x="296" y="277"/>
-      <point x="256" y="277" type="curve"/>
-      <point x="186" y="277"/>
-      <point x="145" y="319"/>
-      <point x="145" y="383" type="curve"/>
-      <point x="145" y="609" type="line"/>
-      <point x="61" y="609" type="line"/>
-      <point x="61" y="383" type="line"/>
-      <point x="61" y="275"/>
-      <point x="140" y="203"/>
-      <point x="246" y="203" type="curve"/>
-      <point x="298" y="203"/>
-      <point x="332" y="214"/>
-      <point x="371" y="249" type="curve"/>
-    </contour>
-    <contour>
-      <point x="359" y="606" type="line"/>
-      <point x="359" y="0" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="444" y="606" type="line"/>
-    </contour>
-    <contour>
-      <point x="231" y="658" type="line"/>
-      <point x="231" y="583" type="line"/>
-      <point x="573" y="583" type="line"/>
-      <point x="573" y="658" type="line"/>
-    </contour>
+    <component base="pa-deva"/>
     <contour>
       <point x="403" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="403" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="442" y="658" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

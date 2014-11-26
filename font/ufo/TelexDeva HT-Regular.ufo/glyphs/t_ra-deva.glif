@@ -32,26 +32,12 @@
       <point x="440" y="583" type="line" smooth="yes"/>
       <point x="440" y="658" type="line" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="387" y="606" type="line"/>
-      <point x="387" y="0" type="line"/>
-      <point x="472" y="0" type="line"/>
-      <point x="472" y="606" type="line"/>
-    </contour>
-    <contour>
-      <point x="259" y="658" type="line"/>
-      <point x="259" y="583" type="line"/>
-      <point x="601" y="583" type="line"/>
-      <point x="601" y="658" type="line"/>
-    </contour>
+    <component base="aaMatra-deva" xOffset="277"/>
     <contour>
       <point x="429" y="658" type="move" name="top"/>
     </contour>
     <contour>
       <point x="429" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="470" y="658" type="move" name="imatra"/>
     </contour>
   </outline>
 </glyph>

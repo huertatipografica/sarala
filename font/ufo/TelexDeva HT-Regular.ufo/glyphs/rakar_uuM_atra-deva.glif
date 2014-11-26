@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rakar_uuMatra-deva" format="1">
-  <advance width="270"/>
+  <advance width="419"/>
   <note>
     dRakarMatraUu
   </note>
   <outline>
     <component base="rakar-deva"/>
-    <component base="uuMatra-deva" xOffset="-65" yOffset="-273"/>
+    <component base="uuMatra-deva" xOffset="35" yOffset="-193"/>
     <contour>
-      <point x="130" y="0" type="move" name="_bottom"/>
+      <point x="207" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
 </glyph>

@@ -504,8 +504,6 @@
 	<string>d_na-deva.glif</string>
 	<key>d_na_uMatra-deva</key>
 	<string>d_na_uM_atra-deva.glif</string>
-	<key>d_na_uMatra-deva.001</key>
-	<string>d_na_uM_atra-deva.001.glif</string>
 	<key>d_rVocalicMatra-deva</key>
 	<string>d_rV_ocalicM_atra-deva.glif</string>
 	<key>d_r_ya-deva</key>
@@ -1474,8 +1472,6 @@
 	<string>sha-deva.glif</string>
 	<key>sha-deva.loclMAR</key>
 	<string>sha-deva.loclM_A_R_.glif</string>
-	<key>sha_comp</key>
-	<string>sha_comp.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six-deva</key>

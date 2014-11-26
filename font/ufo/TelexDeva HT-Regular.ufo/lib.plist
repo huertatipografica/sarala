@@ -2,6 +2,27 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>GSDimensionPlugin.Dimensions</key>
+	<dict>
+		<key>06DA83F7-7F04-4345-A73D-275D0ED9D5E5</key>
+		<dict>
+			<key>nV</key>
+			<integer>85</integer>
+			<key>nd</key>
+			<integer>75</integer>
+			<key>oH</key>
+			<integer>75</integer>
+			<key>oV</key>
+			<integer>85</integer>
+		</dict>
+		<key>6322FA20-8F24-49FB-9B55-AB1214B5D5A0</key>
+		<dict>
+			<key>nV</key>
+			<integer>135</integer>
+			<key>nd</key>
+			<integer>110</integer>
+		</dict>
+	</dict>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>angle</key>
@@ -469,7 +490,6 @@
 		<string>h_ra-deva</string>
 		<string>h_la-deva</string>
 		<string>h_va-deva</string>
-		<string>d_na_uMatra-deva.001</string>
 		<string>c_ca-deva.alt</string>
 		<string>t_ra-deva.alt</string>
 		<string>k_la-deva.loclMAR</string>
@@ -873,7 +893,6 @@
 		<string>nuktathree-deva</string>
 		<string>puso</string>
 		<string>ringacute</string>
-		<string>sha_comp</string>
 		<string>da-deva-compo</string>
 		<string>dd_compo</string>
 		<string>ddh_compo</string>

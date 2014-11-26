@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tth-deva" format="1">
-  <advance width="599"/>
+  <advance width="578"/>
   <outline>
     <component base="ttha-deva"/>
-    <component base="halant-deva" xOffset="215"/>
+    <component base="halant-deva" xOffset="204"/>
     <contour>
       <point x="393" y="658" type="move" name="top"/>
     </contour>
