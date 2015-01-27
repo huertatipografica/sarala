@@ -15,7 +15,7 @@ Telex Regular is a humanist sans serif conceived to be a web font with nice legi
 Designed by Andrés Torresi & Carolina Giovagnoli for [Huerta
 Tipográfica](<http://www.huertatipografica.com>)
 
-Thanks to José Nicolás Silva (zar.nicolas20@gmail.com), Vaishnavi Murthy (vaishnavimurthy@gmail.com) and Erin McLaughlin (soylenterin@gmail.com) for their feedback.
+Thanks to José Nicolás Silva, Vaishnavi Murthyand and Erin McLaughlin for their feedback.
 
 ### Acknowledgements
 
