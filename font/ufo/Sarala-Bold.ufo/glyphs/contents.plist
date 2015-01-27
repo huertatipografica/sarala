@@ -258,6 +258,8 @@
 	<string>aC_andra-deva.glif</string>
 	<key>aShort-deva</key>
 	<string>aS_hort-deva.glif</string>
+	<key>a_compo</key>
+	<string>a_compo.glif</string>
 	<key>aa-deva</key>
 	<string>aa-deva.glif</string>
 	<key>aaMatra-deva</key>
@@ -404,6 +406,8 @@
 	<string>c_ca-deva.glif</string>
 	<key>c_ca-deva.alt</key>
 	<string>c_ca-deva.alt.glif</string>
+	<key>c_compo</key>
+	<string>c_compo.glif</string>
 	<key>c_r-deva</key>
 	<string>c_r-deva.glif</string>
 	<key>c_ra-deva</key>
@@ -714,6 +718,8 @@
 	<string>g.glif</string>
 	<key>g-deva</key>
 	<string>g-deva.glif</string>
+	<key>g_compo</key>
+	<string>g_compo.glif</string>
 	<key>g_na-deva</key>
 	<string>g_na-deva.glif</string>
 	<key>g_ra-deva</key>
@@ -954,6 +960,10 @@
 	<string>j.glif</string>
 	<key>j-deva</key>
 	<string>j-deva.glif</string>
+	<key>j_compo</key>
+	<string>j_compo.glif</string>
+	<key>j_compo_down</key>
+	<string>j_compo_down.glif</string>
 	<key>j_j-deva</key>
 	<string>j_j-deva.glif</string>
 	<key>j_ja-deva</key>

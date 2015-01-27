@@ -296,8 +296,13 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>a_compo</string>
+		<string>c_compo</string>
 		<string>f_i</string>
 		<string>f_l</string>
+		<string>g_compo</string>
+		<string>j_compo</string>
+		<string>j_compo_down</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>Delta</string>
@@ -355,6 +360,10 @@
 		<string>ddda-deva</string>
 		<string>bba-deva</string>
 		<string>ha-deva.alt</string>
+		<string>ka-deva.comb</string>
+		<string>na-deva.comb</string>
+		<string>pa-deva.comb</string>
+		<string>ra-deva.comb</string>
 		<string>la-deva.loclMAR</string>
 		<string>sha-deva.loclMAR</string>
 		<string>jha-deva.loclNEP</string>
@@ -496,13 +505,6 @@
 		<string>l_la-deva.loclMAR</string>
 		<string>sh_la-deva.loclMAR</string>
 		<string>k_ra-deva.loclNEP</string>
-		<string>a-deva.comb</string>
-		<string>ka-deva.comb</string>
-		<string>na-deva.comb</string>
-		<string>pa-deva.comb</string>
-		<string>ra-deva.comb</string>
-		<string>u-deva.comb</string>
-		<string>vi-deva.comb</string>
 		<string>aShort-deva</string>
 		<string>aCandra-deva</string>
 		<string>a-deva</string>
@@ -650,6 +652,8 @@
 		<string>iMatra_reph-deva.15</string>
 		<string>iMatra_reph_anusvara-deva.15</string>
 		<string>iMatra-deva.15</string>
+		<string>a-deva.comb</string>
+		<string>u-deva.comb</string>
 		<string>lVocalic-deva.loclMAR</string>
 		<string>llVocalic-deva.loclMAR</string>
 		<string>sh-deva.loclMAR</string>
@@ -688,18 +692,20 @@
 		<string>seven-deva</string>
 		<string>eight-deva</string>
 		<string>nine-deva</string>
+		<string>zero-deva.comb</string>
+		<string>one-deva.comb</string>
+		<string>two-deva.comb</string>
+		<string>three-deva.comb</string>
+		<string>four-deva.comb</string>
+		<string>five-deva.comb</string>
+		<string>six-deva.comb</string>
+		<string>seven-deva.comb</string>
+		<string>eight-deva.comb</string>
+		<string>nine-deva.comb</string>
 		<string>five-deva.loclNEP</string>
 		<string>eight-deva.loclNEP</string>
-		<string>eight-deva.comb</string>
-		<string>five-deva.comb</string>
-		<string>four-deva.comb</string>
-		<string>nine-deva.comb</string>
-		<string>one-deva.comb</string>
-		<string>seven-deva.comb</string>
-		<string>six-deva.comb</string>
-		<string>three-deva.comb</string>
-		<string>two-deva.comb</string>
-		<string>zero-deva.comb</string>
+		<string>two_candraBindu-deva</string>
+		<string>three_candraBindu-deva</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -742,14 +748,10 @@
 		<string>quotereversed</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
-		<string>caret-deva</string>
 		<string>glottalstop-deva</string>
 		<string>danda-deva</string>
 		<string>dbldanda-deva</string>
 		<string>abbreviation-deva</string>
-		<string>gapfiller-deva</string>
-		<string>headstroke-deva</string>
-		<string>pushpika-deva</string>
 		<string>highspacingdot-deva</string>
 		<string>space</string>
 		<string>nbspace</string>
@@ -815,6 +817,7 @@
 		<string>avagraha-deva</string>
 		<string>om-deva</string>
 		<string>avagraha-deva.comb</string>
+		<string>avagraha_candraBindu-deva</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -835,11 +838,7 @@
 		<string>commaaccent</string>
 		<string>dotbelowcomb</string>
 		<string>tildecomb</string>
-		<string>candraBindu_halant-deva</string>
 		<string>visarga-deva</string>
-		<string>doubleCandraBindu_halant-deva</string>
-		<string>spacingCandraBindu-deva</string>
-		<string>avagraha_candraBindu-deva</string>
 		<string>uMatra-deva</string>
 		<string>uuMatra-deva</string>
 		<string>rVocalicMatra-deva</string>
@@ -848,6 +847,7 @@
 		<string>llVocalicMatra-deva</string>
 		<string>eCandraMatra-deva</string>
 		<string>candraBindu-deva</string>
+		<string>candraBindu_halant-deva</string>
 		<string>eShortMatra-deva</string>
 		<string>eMatra-deva</string>
 		<string>eMatra_anusvara-deva</string>
@@ -874,14 +874,19 @@
 		<string>anudatta-deva</string>
 		<string>grave-deva</string>
 		<string>acute-deva</string>
-		<string>three_candraBindu-deva</string>
-		<string>two_candraBindu-deva</string>
 		<string>candraBindu-deva.alt</string>
 		<string>anusvara-deva.alt</string>
 		<string>reph-deva.alt</string>
 		<string>reph-deva.loclMAR</string>
 		<string>reph-deva.imatra</string>
 		<string>reph_anusvara-deva.imatra</string>
+		<string>vi-deva.comb</string>
+		<string>caret-deva</string>
+		<string>gapfiller-deva</string>
+		<string>headstroke-deva</string>
+		<string>pushpika-deva</string>
+		<string>doubleCandraBindu_halant-deva</string>
+		<string>spacingCandraBindu-deva</string>
 		<string>ya.connect</string>
 		<string>da_small</string>
 		<string>brevebelow</string>

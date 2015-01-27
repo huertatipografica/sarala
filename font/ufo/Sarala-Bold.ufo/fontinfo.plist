@@ -5,31 +5,31 @@
 	<key>ascender</key>
 	<integer>755</integer>
 	<key>capHeight</key>
-	<integer>708</integer>
+	<integer>709</integer>
 	<key>copyright</key>
-	<string>Copyright © 2014 by Andres Torresi. All rights reserved.</string>
+	<string>Copyright © 2015 by Andres Torresi. All rights reserved.</string>
 	<key>descender</key>
 	<integer>-245</integer>
 	<key>description</key>
 	<string>Humanist sans serif font for print and web with Devanagari support.</string>
 	<key>familyName</key>
-	<string>TelexDeva HT</string>
+	<string>Sarala</string>
 	<key>license</key>
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/11/20 20:11:14</string>
+	<string>2015/01/27 11:20:37</string>
 	<key>openTypeNameDesigner</key>
 	<string>Andres Torresi</string>
 	<key>openTypeNameDesignerURL</key>
-	<string>http://www.huertatipografica.com.ar</string>
+	<string>http://www.huertatipografica.com</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Huerta Tipografica</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>http://www.huertatipografica.com.ar</string>
+	<string>http://www.huertatipografica.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>TelexDeva HT</string>
+	<string>Sarala</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeOS2Type</key>
@@ -42,43 +42,43 @@
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-10</integer>
+		<integer>-13</integer>
 		<integer>0</integer>
-		<integer>514</integer>
 		<integer>524</integer>
-		<integer>552</integer>
-		<integer>567</integer>
-		<integer>600</integer>
-		<integer>610</integer>
-		<integer>708</integer>
-		<integer>718</integer>
+		<integer>537</integer>
+		<integer>561</integer>
+		<integer>578</integer>
+		<integer>605</integer>
+		<integer>618</integer>
+		<integer>709</integer>
+		<integer>722</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-245</integer>
-		<integer>-235</integer>
+		<integer>-232</integer>
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>75</integer>
+		<integer>110</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>84</integer>
+		<integer>135</integer>
 	</array>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>TelexDeva is a trademark of Andres Torresi (huertatipografica.com.ar).</string>
+	<string>Sarala is a trademark of Andres Torresi (huertatipografica.com.ar).</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
-	<integer>514</integer>
+	<integer>524</integer>
 </dict>
 </plist>
