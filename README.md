@@ -1,4 +1,4 @@
-Sarala > Latin + Devanagari font
+Sarala | Devanagari font
 ===================
 
 This file provides detailed information on the *Sarala* font
@@ -8,9 +8,9 @@ This information should be distributed along with the Sarala fonts and any
 derivative works.
 
 ### Basic Font Information
-Sarala is a devanagari font based on Telex free font.
+Sarala is a devanagari font based on Telex Regular free font, with 2 weights (Bold and Regular)
 
-Telex is a humanist sans serif conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness.
+Telex Regular is a humanist sans serif conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness.
 
 Designed by Andrés Torresi for [Huerta
 Tipográfica](<http://www.huertatipografica.com>).
