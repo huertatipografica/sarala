@@ -12,8 +12,10 @@ Sarala is a devanagari font based on Telex Regular free font, with 2 weights (Bo
 
 Telex Regular is a humanist sans serif conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness.
 
-Designed by Andrés Torresi for [Huerta
-Tipográfica](<http://www.huertatipografica.com>).
+Designed by Andrés Torresi & Carolina Giovagnoli for [Huerta
+Tipográfica](<http://www.huertatipografica.com>)
+
+Thanks to José Nicolás Silva (zar.nicolas20@gmail.com), Vaishnavi Murthy (vaishnavimurthy@gmail.com) and Erin McLaughlin (soylenterin@gmail.com) for their feedback.
 
 ### Acknowledgements
 
