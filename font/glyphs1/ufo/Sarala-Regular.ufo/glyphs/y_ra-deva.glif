@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y_ra-deva" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="112" y="23" type="line"/>
+      <point x="162" y="-35" type="line"/>
+      <point x="443" y="184" type="line"/>
+      <point x="443" y="276" type="line"/>
+    </contour>
+    <component base="ya-deva"/>
+  </outline>
+</glyph>

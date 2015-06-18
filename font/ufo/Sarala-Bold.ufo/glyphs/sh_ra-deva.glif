@@ -1,20 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sh_ra-deva" format="1">
-  <advance width="827"/>
+  <advance width="809"/>
   <outline>
     <contour>
-      <point x="244" y="32" type="line"/>
-      <point x="325" y="-55" type="line"/>
-      <point x="608" y="184" type="line"/>
-      <point x="608" y="330" type="line"/>
-    </contour>
-    <component base="sh-deva.ss02" xOffset="18"/>
-    <component base="aaMatra-deva" xOffset="493"/>
-    <contour>
-      <point x="666" y="685" type="move" name="top"/>
+      <point x="226" y="32" type="line"/>
+      <point x="307" y="-55" type="line"/>
+      <point x="590" y="184" type="line"/>
+      <point x="590" y="330" type="line"/>
     </contour>
     <contour>
-      <point x="666" y="0" type="move" name="bottom"/>
+      <point x="143" y="676"/>
+      <point x="72" y="621"/>
+      <point x="72" y="489" type="curve" smooth="yes"/>
+      <point x="72" y="354"/>
+      <point x="222" y="232"/>
+      <point x="431" y="232" type="curve" smooth="yes"/>
+      <point x="498" y="232"/>
+      <point x="571" y="246"/>
+      <point x="647" y="278" type="curve"/>
+      <point x="606" y="377" type="line"/>
+      <point x="546" y="351"/>
+      <point x="489" y="341"/>
+      <point x="439" y="341" type="curve" smooth="yes"/>
+      <point x="297" y="341"/>
+      <point x="203" y="414"/>
+      <point x="203" y="494" type="curve" smooth="yes"/>
+      <point x="203" y="535"/>
+      <point x="216" y="566"/>
+      <point x="257" y="566" type="curve" smooth="yes"/>
+      <point x="291" y="566"/>
+      <point x="313" y="540"/>
+      <point x="313" y="500" type="curve" smooth="yes"/>
+      <point x="313" y="395"/>
+      <point x="174" y="323"/>
+      <point x="30" y="294" type="curve"/>
+      <point x="56" y="188" type="line"/>
+      <point x="263" y="223"/>
+      <point x="438" y="327"/>
+      <point x="438" y="477" type="curve" smooth="yes"/>
+      <point x="438" y="595"/>
+      <point x="367" y="676"/>
+      <point x="263" y="676" type="curve" smooth="yes"/>
+    </contour>
+    <component base="aaMatra-deva" xOffset="475"/>
+    <contour>
+      <point x="229" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="277" y="166" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>aaMatra-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

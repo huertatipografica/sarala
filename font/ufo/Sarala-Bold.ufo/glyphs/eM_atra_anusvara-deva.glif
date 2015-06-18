@@ -2,7 +2,7 @@
 <glyph name="eMatra_anusvara-deva" format="1">
   <advance width="270"/>
   <note>
-    dMatraEAnusvara
+	dMatraEAnusvara
   </note>
   <outline>
     <component base="anusvara-deva" xOffset="168" yOffset="97" xScale="0.928" yScale="0.928"/>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_bh_ya-deva" format="1">
+  <advance width="1219"/>
+  <outline>
+    <component base="d_bha-deva" xOffset="-15"/>
+    <component base="ya.connect" xOffset="665"/>
+    <contour>
+      <point x="1047" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1047" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

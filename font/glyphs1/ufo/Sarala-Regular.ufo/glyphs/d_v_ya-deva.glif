@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_v_ya-deva" format="1">
+  <advance width="1060"/>
+  <outline>
+    <component base="d_va-deva" xOffset="10"/>
+    <component base="ya.connect" xOffset="517"/>
+    <contour>
+      <point x="908" y="657" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="907" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

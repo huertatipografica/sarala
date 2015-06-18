@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_ba-deva" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="263" y="19" type="line"/>
+      <point x="303" y="58" type="line"/>
+      <point x="172" y="201" type="line"/>
+      <point x="130" y="162" type="line"/>
+    </contour>
+    <component base="d_va-deva" xOffset="-7"/>
+    <contour>
+      <point x="389" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="488" y="48" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

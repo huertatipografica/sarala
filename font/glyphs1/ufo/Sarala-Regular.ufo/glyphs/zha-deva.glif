@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zha-deva" format="1">
+  <advance width="771"/>
+  <unicode hex="0979"/>
+  <outline>
+    <component base="ja-deva"/>
+    <component base="anusvara-deva" xOffset="225" yOffset="-897"/>
+    <component base="anusvara-deva" xOffset="134" yOffset="-763"/>
+    <component base="anusvara-deva" xOffset="314" yOffset="-763"/>
+    <contour>
+      <point x="619" y="657" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="618" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

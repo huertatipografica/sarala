@@ -2,7 +2,7 @@
 <glyph name="reph-deva.loclMAR" format="1">
   <advance width="337"/>
   <note>
-    dReph.MAR
+	dReph.MAR
   </note>
   <outline>
     <component base="rr-deva"/>

@@ -9,4 +9,19 @@
       <point x="261" y="943" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>reph-deva.alt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

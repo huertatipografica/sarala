@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiMatra_reph-deva" format="1">
+  <advance width="270"/>
+  <note>
+    dMatraAiReph
+  </note>
+  <outline>
+    <contour>
+      <point x="168" y="946"/>
+      <point x="109" y="888"/>
+      <point x="109" y="792" type="curve" smooth="yes"/>
+      <point x="109" y="754"/>
+      <point x="116" y="712"/>
+      <point x="142" y="670" type="curve"/>
+      <point x="246" y="670" type="line"/>
+      <point x="232" y="713"/>
+      <point x="220" y="753"/>
+      <point x="220" y="783" type="curve" smooth="yes"/>
+      <point x="220" y="825"/>
+      <point x="244" y="845"/>
+      <point x="284" y="845" type="curve" smooth="yes"/>
+      <point x="303" y="845"/>
+      <point x="328" y="840"/>
+      <point x="354" y="831" type="curve"/>
+      <point x="378" y="922" type="line"/>
+      <point x="340" y="938"/>
+      <point x="302" y="946"/>
+      <point x="266" y="946" type="curve" smooth="yes"/>
+    </contour>
+    <component base="aiMatra-deva" xOffset="-221"/>
+    <contour>
+      <point x="159" y="685" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="auMatra_reph_anusvara-deva" format="1">
+  <advance width="345"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra-deva" xOffset="-224"/>
+    <component base="reph_anusvara-deva.imatra" xOffset="96"/>
+    <contour>
+      <point x="262" y="943" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

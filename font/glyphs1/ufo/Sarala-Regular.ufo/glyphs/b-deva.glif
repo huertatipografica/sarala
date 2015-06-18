@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b-deva" format="1">
+  <advance width="274"/>
+  <outline>
+    <contour>
+      <point x="306" y="183" type="line"/>
+      <point x="346" y="222" type="line"/>
+      <point x="175" y="407" type="line"/>
+      <point x="133" y="368" type="line"/>
+    </contour>
+    <component base="v-deva"/>
+    <contour>
+      <point x="136" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="136" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

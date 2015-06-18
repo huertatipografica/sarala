@@ -2,7 +2,7 @@
 <glyph name="oMatra_reph-deva" format="1">
   <advance width="345"/>
   <note>
-    dMatraOReph
+	dMatraOReph
   </note>
   <outline>
     <component base="aaMatra-deva"/>

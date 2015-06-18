@@ -3,10 +3,25 @@
   <advance width="306"/>
   <outline>
     <component base="aaMatra-deva"/>
-    <component base="aiMatra-deva" xOffset="-226"/>
+    <component base="aiMatra-deva" xOffset="-217"/>
     <component base="reph-deva.alt" xOffset="61"/>
     <contour>
       <point x="133" y="908" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>reph-deva.alt</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

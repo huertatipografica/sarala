@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ta-deva" format="1">
+  <advance width="676"/>
+  <outline>
+    <component base="t_t-deva"/>
+    <component base="aaMatra-deva" xOffset="370"/>
+    <contour>
+      <point x="573" y="658" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="523" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="524" y="658" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

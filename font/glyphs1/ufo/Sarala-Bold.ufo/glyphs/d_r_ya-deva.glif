@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="d_r_ya-deva" format="1">
+  <advance width="825"/>
+  <outline>
+    <contour>
+      <point x="242" y="-81" type="line"/>
+      <point x="323" y="-168" type="line"/>
+      <point x="606" y="71" type="line"/>
+      <point x="606" y="217" type="line"/>
+    </contour>
+    <component base="d_ya-deva"/>
+    <contour>
+      <point x="660" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="660" y="-55" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

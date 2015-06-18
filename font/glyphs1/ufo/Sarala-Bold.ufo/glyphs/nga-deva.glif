@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nga-deva" format="1">
+  <advance width="717"/>
+  <unicode hex="0919"/>
+  <outline>
+    <contour>
+      <point x="595" y="575" type="line"/>
+      <point x="737" y="575" type="line"/>
+      <point x="737" y="685" type="line"/>
+      <point x="595" y="685" type="line"/>
+    </contour>
+    <component base="dda-deva"/>
+    <component base="nukta-deva" xOffset="489" yOffset="508"/>
+    <contour>
+      <point x="430" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="330" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

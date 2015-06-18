@@ -2,7 +2,7 @@
 <glyph name="eMatra_anusvara-deva" format="1">
   <advance width="270"/>
   <note>
-    dMatraEAnusvara
+	dMatraEAnusvara
   </note>
   <outline>
     <component base="anusvara-deva" xOffset="102" yOffset="71" xScale="0.956" yScale="0.956"/>
@@ -11,4 +11,19 @@
       <point x="135" y="658" type="move" name="_top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

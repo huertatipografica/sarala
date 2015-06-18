@@ -2,11 +2,11 @@
 <glyph name="rakar_uuMatra-deva" format="1">
   <advance width="419"/>
   <note>
-    dRakarMatraUu
+	dRakarMatraUu
   </note>
   <outline>
     <component base="rakar-deva"/>
-    <component base="uuMatra-deva" xOffset="35" yOffset="-193"/>
+    <component base="uuMatra-deva" xOffset="46" yOffset="-154"/>
     <contour>
       <point x="207" y="0" type="move" name="_bottom"/>
     </contour>

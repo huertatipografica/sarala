@@ -2,7 +2,7 @@
 <glyph name="reph_anusvara-deva" format="1">
   <advance width="270"/>
   <note>
-    dRephAnusvara
+	dRephAnusvara
   </note>
   <outline>
     <component base="anusvara-deva" xOffset="149" yOffset="109" xScale="0.888" yScale="0.888"/>

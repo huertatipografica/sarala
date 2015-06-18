@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-deva" format="1">
+  <advance width="631"/>
+  <outline>
+    <component base="nga-deva"/>
+    <component base="halant-deva" xOffset="237"/>
+    <contour>
+      <point x="403" y="658" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

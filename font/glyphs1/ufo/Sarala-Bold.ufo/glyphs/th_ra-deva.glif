@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="th_ra-deva" format="1">
+  <advance width="780"/>
+  <outline>
+    <contour>
+      <point x="179" y="2" type="line"/>
+      <point x="260" y="-85" type="line"/>
+      <point x="543" y="154" type="line"/>
+      <point x="543" y="300" type="line"/>
+    </contour>
+    <component base="tha-deva"/>
+    <contour>
+      <point x="606" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="606" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

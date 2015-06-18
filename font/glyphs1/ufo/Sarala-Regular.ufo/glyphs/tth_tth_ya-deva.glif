@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tth_tth_ya-deva" format="1">
+  <advance width="1153"/>
+  <outline>
+    <contour>
+      <point x="-20" y="658" type="line"/>
+      <point x="-20" y="583" type="line"/>
+      <point x="1173" y="583" type="line"/>
+      <point x="1173" y="658" type="line"/>
+    </contour>
+    <component base="tth_compo" xOffset="32" yOffset="3"/>
+    <component base="tth_compo" xOffset="32" yOffset="-402"/>
+    <component base="aaMatra-deva" xOffset="847"/>
+    <component base="ya_compo" xOffset="500" yOffset="44"/>
+    <contour>
+      <point x="1000" y="658" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1000" y="-222" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

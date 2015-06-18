@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ra-deva.alt" format="1">
+  <advance width="647"/>
+  <outline>
+    <contour>
+      <point x="230" y="204" type="line"/>
+      <point x="301" y="111" type="line"/>
+      <point x="461" y="246" type="line"/>
+      <point x="461" y="392" type="line"/>
+    </contour>
+    <component base="ta-deva"/>
+    <contour>
+      <point x="475" y="685" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="475" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>
