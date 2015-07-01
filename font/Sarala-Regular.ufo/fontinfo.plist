@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>755</integer>
+	<key>capHeight</key>
+	<integer>708</integer>
+	<key>copyright</key>
+	<string>Copyright © 2015 by Andres Torresi. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-245</integer>
+	<key>description</key>
+	<string>Humanist sans serif font for print and web with Devanagari support.</string>
+	<key>familyName</key>
+	<string>Sarala</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2015/01/27 11:20:37</string>
+	<key>openTypeNameDesigner</key>
+	<string>Andres Torresi</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.huertatipografica.com</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Huerta Tipografica</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.huertatipografica.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Sarala</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-10</integer>
+		<integer>0</integer>
+		<integer>514</integer>
+		<integer>524</integer>
+		<integer>552</integer>
+		<integer>567</integer>
+		<integer>600</integer>
+		<integer>610</integer>
+		<integer>708</integer>
+		<integer>718</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-245</integer>
+		<integer>-235</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>75</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>84</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Sarala is a trademark of Andres Torresi (huertatipografica.com.ar).</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>5</integer>
+	<key>xHeight</key>
+	<integer>514</integer>
+</dict>
+</plist>

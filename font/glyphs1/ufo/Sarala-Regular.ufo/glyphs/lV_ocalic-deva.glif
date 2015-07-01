@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lVocalic-deva" format="1">
-  <advance width="733"/>
-  <unicode hex="090C"/>
-  <outline>
-    <component base="la-deva"/>
-    <component base="rVocalicMatra-deva" xOffset="368"/>
-  </outline>
-</glyph>
