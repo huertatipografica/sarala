@@ -82,4 +82,31 @@
       <point x="398" y="-212" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>441</integer>
+          <key>y</key>
+          <integer>412</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>357</integer>
+          <key>y</key>
+          <integer>423</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

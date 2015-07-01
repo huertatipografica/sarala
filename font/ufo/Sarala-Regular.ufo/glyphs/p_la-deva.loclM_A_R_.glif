@@ -92,4 +92,12 @@
       <point x="403" y="657" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>la-deva</string>
+    </dict>
+  </lib>
 </glyph>

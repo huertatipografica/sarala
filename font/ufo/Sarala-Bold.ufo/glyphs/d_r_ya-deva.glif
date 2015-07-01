@@ -16,4 +16,12 @@
       <point x="660" y="-55" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ya-deva</string>
+    </dict>
+  </lib>
 </glyph>

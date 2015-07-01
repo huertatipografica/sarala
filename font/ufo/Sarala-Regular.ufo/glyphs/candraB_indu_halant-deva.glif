@@ -6,4 +6,12 @@
     <component base="candraBindu-deva" yOffset="-304"/>
     <component base="halant-deva" xOffset="100" yOffset="390"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>candraBindu-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>candraBindu-deva</string>
+    </dict>
+  </lib>
 </glyph>

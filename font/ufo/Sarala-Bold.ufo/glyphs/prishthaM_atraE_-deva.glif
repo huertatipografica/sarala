@@ -12,4 +12,10 @@
       <point x="354" y="685" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
 </glyph>

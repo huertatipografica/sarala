@@ -96,4 +96,12 @@
       <point x="654" y="685" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>sh-deva.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
 </glyph>

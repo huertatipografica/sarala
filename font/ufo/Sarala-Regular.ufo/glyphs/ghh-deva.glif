@@ -11,4 +11,12 @@
       <point x="152" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ghha-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ghha-deva</string>
+    </dict>
+  </lib>
 </glyph>

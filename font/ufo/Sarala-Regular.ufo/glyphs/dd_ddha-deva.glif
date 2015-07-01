@@ -107,4 +107,10 @@
       <point x="303" y="-222" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ddha-deva</string>
+    </dict>
+  </lib>
 </glyph>

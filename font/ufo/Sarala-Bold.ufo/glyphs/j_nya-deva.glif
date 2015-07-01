@@ -79,4 +79,10 @@
       <point x="614" y="685" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
 </glyph>

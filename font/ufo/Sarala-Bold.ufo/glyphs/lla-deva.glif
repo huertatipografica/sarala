@@ -20,4 +20,12 @@
       <point x="602" y="685" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ll-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ll-deva</string>
+    </dict>
+  </lib>
 </glyph>

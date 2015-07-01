@@ -12,4 +12,31 @@
       <point x="1016" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>881</integer>
+          <key>y</key>
+          <integer>524</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>1016</integer>
+          <key>y</key>
+          <integer>524</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

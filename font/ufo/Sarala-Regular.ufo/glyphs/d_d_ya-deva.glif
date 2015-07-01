@@ -130,4 +130,10 @@
       <point x="849" y="658" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d-deva</string>
+    </dict>
+  </lib>
 </glyph>

@@ -26,7 +26,7 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>angle</key>
-		<string>-30</string>
+		<integer>-30</integer>
 		<key>height</key>
 		<integer>95</integer>
 		<key>width</key>
@@ -39,7 +39,50 @@
 	<key>com.schriftgestaltung.weight</key>
 	<string>Bold</string>
 	<key>com.schriftgestaltung.weightValue</key>
-	<real>700</real>
+	<integer>700</integer>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>122</integer>
+			<key>y</key>
+			<integer>576</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>90</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>307</integer>
+			<key>y</key>
+			<integer>977</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>12</integer>
+			<key>y</key>
+			<integer>150</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>51</integer>
+			<key>y</key>
+			<integer>685</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -659,6 +702,7 @@
 		<string>f-deva</string>
 		<string>sh-deva.loclMAR</string>
 		<string>jh-deva.loclNEP</string>
+		<string>sh-deva.ss02</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>

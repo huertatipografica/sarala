@@ -86,4 +86,35 @@
       <point x="472" y="-232" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dd-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>521</integer>
+          <key>y</key>
+          <integer>424</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>416</integer>
+          <key>y</key>
+          <integer>485</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

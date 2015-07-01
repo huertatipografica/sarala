@@ -10,4 +10,12 @@
     </contour>
     <component base="va-deva"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ra-deva</string>
+    </dict>
+  </lib>
 </glyph>

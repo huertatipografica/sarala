@@ -13,6 +13,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ya-deva</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

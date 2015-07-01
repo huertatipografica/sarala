@@ -63,4 +63,10 @@
       <point x="322" y="422" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+    </dict>
+  </lib>
 </glyph>

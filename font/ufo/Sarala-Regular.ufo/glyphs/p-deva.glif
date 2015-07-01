@@ -33,4 +33,21 @@
       <point x="125" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>249</integer>
+          <key>y</key>
+          <integer>389</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

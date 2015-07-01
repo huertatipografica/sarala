@@ -67,4 +67,21 @@
       <point x="436" y="685" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>464</integer>
+          <key>y</key>
+          <integer>407</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

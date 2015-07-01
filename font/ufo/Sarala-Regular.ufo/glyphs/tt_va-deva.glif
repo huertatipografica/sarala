@@ -75,4 +75,10 @@
       <point x="387" y="-212" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>va-deva</string>
+    </dict>
+  </lib>
 </glyph>

@@ -16,4 +16,14 @@
       <point x="150" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==v-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>v-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>halfspace</string>
+    </dict>
+  </lib>
 </glyph>

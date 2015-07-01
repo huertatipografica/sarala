@@ -85,4 +85,14 @@
       <point x="666" y="685" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==j_nya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>j_nya-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
 </glyph>

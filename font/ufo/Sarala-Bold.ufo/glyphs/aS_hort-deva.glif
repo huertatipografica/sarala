@@ -17,6 +17,29 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>599</integer>
+          <key>y</key>
+          <integer>847</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>732</integer>
+          <key>y</key>
+          <integer>847</integer>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>

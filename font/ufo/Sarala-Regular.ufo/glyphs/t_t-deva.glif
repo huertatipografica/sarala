@@ -16,4 +16,12 @@
     </contour>
     <component base="t-deva" xOffset="81"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==t-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t-deva</string>
+    </dict>
+  </lib>
 </glyph>

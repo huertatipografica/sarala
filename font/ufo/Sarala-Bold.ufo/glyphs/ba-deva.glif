@@ -12,4 +12,10 @@
       <point x="438" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+    </dict>
+  </lib>
 </glyph>

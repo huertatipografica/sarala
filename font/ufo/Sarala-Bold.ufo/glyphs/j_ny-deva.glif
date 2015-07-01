@@ -69,4 +69,25 @@
       <point x="300" y="-163" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>619</integer>
+          <key>y</key>
+          <integer>860</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

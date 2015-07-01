@@ -91,4 +91,10 @@
       <point x="357" y="-196" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>k-deva</string>
+    </dict>
+  </lib>
 </glyph>

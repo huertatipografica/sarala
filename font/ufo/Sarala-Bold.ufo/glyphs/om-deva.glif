@@ -86,4 +86,10 @@
       <point x="-1" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a-deva</string>
+    </dict>
+  </lib>
 </glyph>

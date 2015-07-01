@@ -5,4 +5,12 @@
     <component base="p-deva"/>
     <component base="la-deva" xOffset="249"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p-deva</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>la-deva</string>
+    </dict>
+  </lib>
 </glyph>
